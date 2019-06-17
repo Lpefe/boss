@@ -1,0 +1,17 @@
+.chart-title{
+  margin-top: 16px;
+  margin-bottom: 16px;
+  .title-company-abbr{
+    font-family: PingFangTC-Medium;
+    font-size: 16px;
+    color: #333333;
+    line-height: 18px;
+    margin-right: 16px;
+  }
+  .title-status{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(0,0,0,0.65);
+    line-height: 22px;
+  }
+}

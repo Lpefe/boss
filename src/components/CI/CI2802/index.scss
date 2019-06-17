@@ -1,0 +1,256 @@
+
+.CI2802menu {
+  width: 120px;
+  height: 325px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* background: #ff6600; */
+  border-left: 2px solid rgb(216, 216, 216);
+
+}
+
+.CI2802menu > li {
+  list-style: none;
+  width: 60px;
+  position: relative;
+}
+
+.circle {
+  width: 10px;
+  height: 10px;
+  display: block;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 6px;
+  left: -36px
+}
+
+.circleActive {
+  background: rgba(24, 144, 255, 1);
+}
+
+.name {
+  width: 56px;
+  height: 20px;
+  font-size: 14px;
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.nameActive {
+  color: rgba(59, 159, 247, 1);
+}
+
+.ci2802model {
+  padding-left: 7px;
+  border-left: 4px solid rgba(24,144,255,1);
+  font-size:16px;
+  font-family:PingFangSC-Medium;
+  font-weight:500;
+  color:rgba(0,0,0,0.85);
+  line-height:22px;
+  margin-bottom: 50px;
+}
+
+.ci2802span {
+  width: 70px;
+  height: 20px;
+  font-size: 14px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.45);
+  line-height: 20px;
+}
+.ci2802span1 {
+  width: 70px;
+  height: 20px;
+  font-size: 14px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.45);
+  line-height: 20px;
+  display:inline-block
+}
+.ci2802EnSpan1{
+  width: 110px;
+  height: 20px;
+  font-size: 14px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.45);
+  line-height: 20px;
+  display:inline-block
+}
+.ci2802ul {
+  width: 100%;
+  height: 130px;
+  background: rgba(249, 249, 249, 1);
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.ci2802ul > li {
+  box-sizing: border-box;
+  width: 140px;
+  height: 80%;
+  list-style: none;
+  position: relative;
+}
+.ci2802ul>li>img{
+position: absolute;
+top: -59px;
+left: 23px;
+transform: translate(-49%,0%)
+}
+
+.ci2802ul > li > div {
+  width: 120px;
+  height: 50%;
+}
+
+.ci2802ul > li > div > img {
+  width: 48px;
+  height: 31px;
+  float: left
+}
+
+.ci2802ul > li > div > div {
+  float: left
+}
+
+.ci2802ul > li > div > div > p {
+  padding: 0;
+  margin: 0;
+  height:20px;
+  font-size:14px;
+  font-family:PingFangSC-Regular;
+  font-weight:400;
+  color:rgba(0,0,0,0.85);
+  line-height:20px;
+}
+.ci2802ul>li>div>div>p:nth-child(2)
+{
+  height:17px;
+  font-size:12px;
+  font-family:PingFangSC-Regular;
+  font-weight:400;
+  color:rgba(0,0,0,0.45);
+  line-height:17px;
+}
+.ci2802AgencyName{
+  height:22px;
+  font-size:16px;
+  font-family:PingFangSC-Medium;
+  font-weight:500;
+  color:rgba(0,0,0,0.85);
+  line-height:22px;
+}
+.ci2802buttonLine{
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0,0,0,0.1)
+}
+.ci2802Active{
+  background: #fff;
+  border: 1px solid #3B9FF7;
+  box-shadow:0px 2px 9px 0px rgba(0,0,0,0.21);
+}
+.ci2802NoActive{
+  background: rgba(249,249,249,1);;
+  border:1px solid rgba(173,173,173,1);
+}
+.iconNoActive{
+  display:none
+}
+.iconActive{
+  position: absolute;
+  top: 5px;
+  left: 280px;
+}
+.ci28024G{
+  background: rgba(249,249,249,1);
+  border: 1px solid rgba(0,0,0,0.15);
+  padding: 15px;
+}
+.CheckMenu{
+  height:22px;
+  font-size:16px;
+  font-family:PingFangSC-Medium;
+  font-weight:500;
+  color:rgba(0,0,0,0.85);
+  line-height:22px;
+  width:fit-content;
+  margin:auto;
+  li{
+    list-style: none;
+    float: left;
+    // width:94px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height:32px;
+    background:rgba(255,255,255,1);
+    border:1px solid rgba(217,217,217,1);
+    text-align: center;
+    span{
+      height: 32px;
+      line-height: 32px;
+      cursor: pointer;
+    }
+  }
+  
+  .button{
+    box-sizing: border-box;
+    border-left:1px solid rgba(255,255,255,1);
+  }
+  li:nth-of-type(1){
+      border:1px solid rgba(217,217,217,1);
+    }
+  .Active{
+    border:1px solid rgba(24,144,255,1) !important
+  }
+}
+.CheckWAN{
+  .p{
+    height:22px;
+    font-size:16px;
+    font-family:PingFangSC-Medium;
+    font-weight:500;
+    color:rgba(0,0,0,0.85);
+    line-height:22px;
+    border-left: 3px solid rgba(24,144,255,1);
+    padding-left: 3px;
+  }
+  .CheckWANrow{
+    margin-bottom: 10px;
+  }
+  #ssid{
+    font-size:16px;
+font-family:PingFangTC-Medium;
+font-weight:500;
+color:rgba(0,0,0,0.85);
+  }
+}
+.ci2802Name {
+  height: 22px;
+  font-size: 16px;
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.85);
+  line-height: 22px;
+  border-left: 3px solid #1890ff;
+  padding-left: 3px;
+}
+.ci2802Btn{
+  color: #fff;
+  background-color: #1890ff;
+  border-color: #1890ff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+  margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+.header {
+  margin-bottom: 16px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn{
+  margin-right: 8px;
+}
+
+.FormItemLabel{
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: rgba(0,0,0,0.45);
+}

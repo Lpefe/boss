@@ -1,0 +1,58 @@
+.loginMainContainer {
+  .headerContainer {
+    height:60px;
+    .logo {
+      vertical-align: center;
+      line-height: 60px;
+    }
+    .back {
+      float: right;
+      vertical-align: center;
+      line-height: 60px;
+    }
+  }
+  .dash {
+    height: 5px;
+    background: #4c81e1;
+  }
+  .loginContainer{
+    position: absolute;
+    width: 450px;
+    overflow: hidden;
+    top: 50%;
+    margin-top: -198px;
+    left: 50%;
+    margin-left: -225px;
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    box-shadow: 1px 0px 8px rgba(76,130,224,0.26);
+    border-radius: 5px;
+    z-index: 1000;
+    background: white;
+    .title{
+      font-size: 28px;
+      padding-top: 10px;
+      padding-bottom: 18px;
+      text-align: center;
+      font-family: HiraginoSansGB-W3;
+      color: rgba(137,137,137,1);
+    }
+    .confirmBtn{
+      width:100%
+    }
+    .Divider_g {
+      :global {
+        .ant-dropdown-menu-item-divider {
+          margin:0;
+        }
+      }
+    }
+  }
+
+}
+.FormItem{
+  margin-bottom: 16px;
+}

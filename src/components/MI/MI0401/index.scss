@@ -1,0 +1,32 @@
+.header {
+  margin-bottom: 16px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn{
+  margin-right: 8px;
+}
+.result{
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: rgba(0,0,0,0.65);
+  line-height: 22px;
+  margin-right:40px;
+}
+.fail{
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: rgba(255,0,0,0.85);
+  line-height: 22px;
+}

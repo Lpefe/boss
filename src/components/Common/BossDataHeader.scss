@@ -1,0 +1,55 @@
+
+.Container {
+    margin-bottom: 16px;
+    text-align: center;
+    .statSect {
+      .statData {
+        text-align: center;
+        font-size: 32px;
+        width: 100px;
+        color:rgba(0, 0, 0, 0.85) !important;
+        font-weight: bolder;
+        font-family: HelveticaNeue;
+      }
+      .statNm {
+        text-align: center;
+        font-size: 14px;
+        color:rgba(0, 0, 0, 0.65) !important;
+        width: 100px;
+        font-family: HelveticaNeue;
+      }
+    }
+  }
+  
+  .ci0201-header {
+    margin-bottom: 16px;
+    text-align: right;
+    .right-header {
+      display: inline-block;
+      .input {
+        margin-left: 8px;
+      }
+    }
+  
+  }
+  
+  .editBtn {
+    margin-right: 8px;
+  }
+  .l{
+    display: block;
+    font-size: -webkit-xxx-large;
+    color: rgb(210, 230, 250);
+    float: left;
+    line-height: 56px;
+    height: 56px;
+    margin: 0 auto;
+  }
+  .r{
+    display: block;
+    float: left;
+  }
+  .margin{
+      margin: 0 auto;
+      height: 100%;
+  }

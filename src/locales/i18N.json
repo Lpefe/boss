@@ -1,0 +1,8909 @@
+[
+  {
+    "zhCN": "add",
+    "zhEN": "Add",
+    "zhTW": "添加"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "自定义",
+    "zhEN": "Customized",
+    "zhTW": "自定義"
+  },
+  {
+    "zhCN": "批量禁用",
+    "zhEN": "Batch Disable",
+    "zhTW": "批量禁用"
+  },
+  {
+    "zhCN": "流量",
+    "zhEN": "Traffic",
+    "zhTW": "流量"
+  },
+  {
+    "zhCN": "timeIntervalOneWeek",
+    "zhEN": "The last week",
+    "zhTW": "最近一周"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "请选择链路类型",
+    "zhEN": "Please select link type.",
+    "zhTW": "請選擇連結類型"
+  },
+  {
+    "zhCN": "timeRangeHalfHour",
+    "zhEN": "30 minutes before and after",
+    "zhTW": "前後30分鐘"
+  },
+  {
+    "zhCN": "searchInputPlaceHolder",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "logout",
+    "zhEN": "Logout",
+    "zhTW": "退出"
+  },
+  {
+    "zhCN": "目标端口/端口段",
+    "zhEN": "Destination Port",
+    "zhTW": "目標端口/端口段"
+  },
+  {
+    "zhCN": "请选择时间间隔",
+    "zhEN": "Please select time period.",
+    "zhTW": "請選擇時間間隔"
+  },
+  {
+    "zhCN": "请选择目标IP组",
+    "zhEN": "Please select the destination  IP group.",
+    "zhTW": "請選擇目標IP組"
+  },
+  {
+    "zhCN": "边缘节点流量分析",
+    "zhEN": "Edge Node ",
+    "zhTW": "邊緣節點流量分析"
+  },
+  {
+    "zhCN": "源IP/IP段",
+    "zhEN": "Source IP",
+    "zhTW": "源IP/IP段"
+  },
+  {
+    "zhCN": "all",
+    "zhEN": "All",
+    "zhTW": "全部"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "centerNode",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "IP/IP段",
+    "zhEN": "IP",
+    "zhTW": "IP/IP段"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "应用程序",
+    "zhEN": "Application",
+    "zhTW": "應用程序"
+  },
+  {
+    "zhCN": "timeInterval24Hour",
+    "zhEN": "Last 24 hours",
+    "zhTW": "最近一天"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "源地址",
+    "zhEN": "Source IP Address",
+    "zhTW": "源地址"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "hello",
+    "zhEN": "Hello",
+    "zhTW": "你好"
+  },
+  {
+    "zhCN": "设备总数",
+    "zhEN": "Total Device",
+    "zhTW": "設備總數"
+  },
+  {
+    "zhCN": "timeIntervalSixHour",
+    "zhEN": "Last 6 hours",
+    "zhTW": "最近六小時"
+  },
+  {
+    "zhCN": "应用名称最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "應用名稱最多輸入50字元"
+  },
+  {
+    "zhCN": "自定义应用程序",
+    "zhEN": "Customized Application",
+    "zhTW": "自定義應用程序"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "请输入账号",
+    "zhEN": "Please input account number.",
+    "zhTW": "請輸入帳號"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": " Application Name ",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "priority",
+    "zhEN": "Priority",
+    "zhTW": "優先順序"
+  },
+  {
+    "zhCN": "actionInput",
+    "zhEN": "Please select actions.",
+    "zhTW": "請選擇動作"
+  },
+  {
+    "zhCN": "deviceName",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "compressRate",
+    "zhEN": "Priority",
+    "zhTW": "優先順序"
+  },
+  {
+    "zhCN": "ip段",
+    "zhEN": "IP",
+    "zhTW": "Ip/Ip段"
+  },
+  {
+    "zhCN": "源IP/IP",
+    "zhEN": "Source IP",
+    "zhTW": "源IP/IP"
+  },
+  {
+    "zhCN": "国内SaaS加速",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "timeRange24Hour",
+    "zhEN": "A day and so",
+    "zhTW": "前後一天"
+  },
+  {
+    "zhCN": "originFlow",
+    "zhEN": "Only remove forbidden state security configuration",
+    "zhTW": "僅能删除禁用狀態安全配寘"
+  },
+  {
+    "zhCN": "linkStatusStat",
+    "zhEN": "Link state statistics",
+    "zhTW": "鏈路狀態統計"
+  },
+  {
+    "zhCN": "请输入正确格式邮箱地址",
+    "zhEN": " Please enter a valid e-mail address.",
+    "zhTW": "請輸入正確格式郵箱地址"
+  },
+  {
+    "zhCN": "目标IP/IP",
+    "zhEN": "Destination IP",
+    "zhTW": "目標IP/IP"
+  },
+  {
+    "zhCN": "新增账号",
+    "zhEN": "New Account ",
+    "zhTW": "新增帳號"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "修改应用程序名称",
+    "zhEN": "Modify application name",
+    "zhTW": "修改應用程序名稱"
+  },
+  {
+    "zhCN": "职务",
+    "zhEN": "Position",
+    "zhTW": "职务"
+  },
+  {
+    "zhCN": "账号",
+    "zhEN": " Account ",
+    "zhTW": "帳號"
+  },
+  {
+    "zhCN": "技术支持",
+    "zhEN": "Technical Support",
+    "zhTW": "技術支援"
+  },
+  {
+    "zhCN": "pwdChangeSuccess",
+    "zhEN": "Password has been modified, please login again.",
+    "zhTW": "密碼已修改，請重新登入"
+  },
+  {
+    "zhCN": "请输入正确格式邮箱地址",
+    "zhEN": " Please enter a valid e-mail address.",
+    "zhTW": "請輸入正確格式郵箱地址"
+  },
+  {
+    "zhCN": "closeAclConfirm",
+    "zhEN": "Are you sure you want to disable the selected security configuration?",
+    "zhTW": "確認要禁用選中的安全配寘嗎"
+  },
+  {
+    "zhCN": "line",
+    "zhEN": "Line",
+    "zhTW": "線路"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "普通用户",
+    "zhEN": "Common User",
+    "zhTW": "普通用戶"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "batchUpload",
+    "zhEN": "Batch Upload",
+    "zhTW": "批量上傳"
+  },
+  {
+    "zhCN": "请输入源地址",
+    "zhEN": "Please input the source IP address.",
+    "zhTW": "請輸入源地址"
+  },
+  {
+    "zhCN": "port组",
+    "zhEN": "Port Group",
+    "zhTW": "端口段"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": " Edge Node ",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "timeRangeThreeDay",
+    "zhEN": "3 days before and after",
+    "zhTW": "前後三天"
+  },
+  {
+    "zhCN": "timeRangeSixHour",
+    "zhEN": "6 hours before and after",
+    "zhTW": "前後6小時"
+  },
+  {
+    "zhCN": "protocol",
+    "zhEN": "Protocol",
+    "zhTW": "協議"
+  },
+  {
+    "zhCN": "速率",
+    "zhEN": "Rate",
+    "zhTW": "速率"
+  },
+  {
+    "zhCN": "编辑应用配置",
+    "zhEN": "Edit application configuration",
+    "zhTW": "編輯應用配寘"
+  },
+  {
+    "zhCN": "aclNmInput",
+    "zhEN": "Please input ACL name.",
+    "zhTW": "請輸入ACL名稱"
+  },
+  {
+    "zhCN": "国内组网",
+    "zhEN": "Domestic Intranet",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "原始数据流量",
+    "zhEN": "Raw Data Traffic",
+    "zhTW": "原始數據流量"
+  },
+  {
+    "zhCN": "压缩率",
+    "zhEN": "Compression Ratio",
+    "zhTW": "壓縮率"
+  },
+  {
+    "zhCN": "是",
+    "zhEN": "Yes",
+    "zhTW": "是"
+  },
+  {
+    "zhCN": "overseaSaas",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球SaaS加速"
+  },
+  {
+    "zhCN": "newPassword",
+    "zhEN": "New Password",
+    "zhTW": "新密碼"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "源地址",
+    "zhEN": "Source IP Address",
+    "zhTW": "源地址"
+  },
+  {
+    "zhCN": "编辑组名",
+    "zhEN": "Edit Group Name",
+    "zhTW": "編輯組名"
+  },
+  {
+    "zhCN": "请选择协议",
+    "zhEN": "Please select the protocol",
+    "zhTW": "請選擇協議"
+  },
+  {
+    "zhCN": "map",
+    "zhEN": "Map",
+    "zhTW": "地圖"
+  },
+  {
+    "zhCN": "联系地址最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "聯繫地址最多輸入128字元"
+  },
+  {
+    "zhCN": "确认要启用所选中QoS吗?",
+    "zhEN": "Please confirm to enable the selected QoS ?",
+    "zhTW": "啟用後的Qos在清單中將顯示為啟用狀態？"
+  },
+  {
+    "zhCN": "appNameAlert",
+    "zhEN": "Entert 50 characters at most.",
+    "zhTW": "應用名稱最多輸入50字元"
+  },
+  {
+    "zhCN": "否",
+    "zhEN": "No",
+    "zhTW": "否"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "高",
+    "zhEN": "High",
+    "zhTW": "高"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "目标地址",
+    "zhEN": "Destination IP",
+    "zhTW": "目標地址"
+  },
+  {
+    "zhCN": "请输入目标地址",
+    "zhEN": "Please enter the destination IP",
+    "zhTW": "請輸入目標地址"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "历史流量",
+    "zhEN": "Historical Traffic",
+    "zhTW": "歷史流量"
+  },
+  {
+    "zhCN": "outTunnelFlow",
+    "zhEN": "Outside the tunnel",
+    "zhTW": "隧道外流量"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "timeRange15Minutes",
+    "zhEN": "15 minutes before and after",
+    "zhTW": "前後15分鐘"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "禁用",
+    "zhEN": "Disable",
+    "zhTW": "禁用"
+  },
+  {
+    "zhCN": "overseaNet",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "全球组网",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "stepStatusStat",
+    "zhEN": "CPE Device Status Statistics",
+    "zhTW": "step設備狀態統計"
+  },
+  {
+    "zhCN": "inTunnelFlow",
+    "zhEN": "Inside the tunnel",
+    "zhTW": "隧道內流量"
+  },
+  {
+    "zhCN": "changePwd",
+    "zhEN": "Change Password",
+    "zhTW": "修改密碼"
+  },
+  {
+    "zhCN": "编辑账号",
+    "zhEN": "Edit Account",
+    "zhTW": "編輯帳號"
+  },
+  {
+    "zhCN": "请输入目标IP/IP段",
+    "zhEN": "Please enter the destination IP.",
+    "zhTW": "請輸入目標IP/IP段"
+  },
+  {
+    "zhCN": "确认要修改所选中QoS状态吗?",
+    "zhEN": "Please confirm to modify the selected QoS status?",
+    "zhTW": "確認要修改所選中QoS狀態嗎？"
+  },
+  {
+    "zhCN": "批量启用",
+    "zhEN": "Batch Enabled",
+    "zhTW": "批量啟用"
+  },
+  {
+    "zhCN": "目标地址",
+    "zhEN": "Destination IP",
+    "zhTW": "目標地址"
+  },
+  {
+    "zhCN": "请选择节点",
+    "zhEN": "Please select nodes.",
+    "zhTW": "請選擇節點"
+  },
+  {
+    "zhCN": "请输入昵称",
+    "zhEN": "Please enter nickname.",
+    "zhTW": "請輸入昵稱"
+  },
+  {
+    "zhCN": "overseaSpeed",
+    "zhEN": "Overseas Acceleration",
+    "zhTW": "海外加速"
+  },
+  {
+    "zhCN": "新增ISP",
+    "zhEN": "New ISP",
+    "zhTW": "新增ISP"
+  },
+  {
+    "zhCN": "请输入源IP/IP段",
+    "zhEN": "Please input source IP",
+    "zhTW": "請輸入源IP/IP段"
+  },
+  {
+    "zhCN": "描述",
+    "zhEN": "Describe",
+    "zhTW": "描述"
+  },
+  {
+    "zhCN": "节点类型",
+    "zhEN": "Node Type",
+    "zhTW": "節點類型"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "组名",
+    "zhEN": "Group Name",
+    "zhTW": "組名"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "客户数",
+    "zhEN": "Customer Numbers",
+    "zhTW": "客戶數"
+  },
+  {
+    "zhCN": "nodeName",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "linkStat",
+    "zhEN": "Link Statistics",
+    "zhTW": "鏈路統計"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start Time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "selectTypePlaceholder",
+    "zhEN": "Please select type",
+    "zhTW": "請選擇類型"
+  },
+  {
+    "zhCN": "国内SaaS加速",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "请输入目标端口",
+    "zhEN": "Please input the destination port.",
+    "zhTW": "請輸入目標端口"
+  },
+  {
+    "zhCN": "如需删除企业,请输入账户密码",
+    "zhEN": "Please enter your account password before you delete the Organization.",
+    "zhTW": "如需删除企業，請輸入帳戶密碼"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "源列表",
+    "zhEN": "Source IP List",
+    "zhTW": "源清單"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请选择应用类别",
+    "zhEN": "Please select the application category.",
+    "zhTW": "請選擇應用類別"
+  },
+  {
+    "zhCN": "strategyNm",
+    "zhEN": "Policy Name",
+    "zhTW": "策略名稱"
+  },
+  {
+    "zhCN": "appSetup",
+    "zhEN": "Edit application configuration",
+    "zhTW": "編輯應用配寘"
+  },
+  {
+    "zhCN": "优先走MPLS线路",
+    "zhEN": "Giving priority to MPLS lines",
+    "zhTW": "優先走MPLS線路"
+  },
+  {
+    "zhCN": "请输入应用名称",
+    "zhEN": "Please input the application name.",
+    "zhTW": "請輸入應用名稱"
+  },
+  {
+    "zhCN": "新秘钥",
+    "zhEN": "New Secret Key",
+    "zhTW": "新秘鑰"
+  },
+  {
+    "zhCN": "srcIp",
+    "zhEN": "Source IP",
+    "zhTW": "源IP/IP段"
+  },
+  {
+    "zhCN": "禁用后的应用仍可在Qos列表中查看和启用",
+    "zhEN": "Disabled applications can still be checked and enabled in the Qos list.",
+    "zhTW": "禁用後的應用仍可在Qos清單中查看和啟用"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "dstIp",
+    "zhEN": "Destination IP",
+    "zhTW": "目標IP/IP段"
+  },
+  {
+    "zhCN": "运营商",
+    "zhEN": "ISP",
+    "zhTW": "運營商"
+  },
+  {
+    "zhCN": "srcPortGroupInput",
+    "zhEN": "Please select the source port group.",
+    "zhTW": "請選擇源端口組"
+  },
+  {
+    "zhCN": "下载",
+    "zhEN": "Download",
+    "zhTW": "下載"
+  },
+  {
+    "zhCN": "请选择源IP组",
+    "zhEN": "Please select the source IP group.",
+    "zhTW": "請選擇源IP組"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "timeRangeThreeHour",
+    "zhEN": "3 hours before and after",
+    "zhTW": "前後3小時"
+  },
+  {
+    "zhCN": "中",
+    "zhEN": "Medium",
+    "zhTW": "中"
+  },
+  {
+    "zhCN": "删除失败",
+    "zhEN": "Delete failure",
+    "zhTW": "删除失敗"
+  },
+  {
+    "zhCN": "速率",
+    "zhEN": "Rate",
+    "zhTW": "速率"
+  },
+  {
+    "zhCN": "请选择应用级别",
+    "zhEN": "Please select application level.",
+    "zhTW": "請選擇應用級別"
+  },
+  {
+    "zhCN": "仅能删除禁用状态应用配置",
+    "zhEN": "Only disabled application configuration can be deleted.",
+    "zhTW": "僅能删除禁用狀態應用配寘"
+  },
+  {
+    "zhCN": "角色",
+    "zhEN": "Role",
+    "zhTW": "角色"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "请输入应用程序名称",
+    "zhEN": "Please input the application name.",
+    "zhTW": "請輸入應用程序名稱"
+  },
+  {
+    "zhCN": "紧急",
+    "zhEN": "Urgent",
+    "zhTW": "緊急"
+  },
+  {
+    "zhCN": "超级管理员",
+    "zhEN": "Senior Administrator",
+    "zhTW": "超級管理員"
+  },
+  {
+    "zhCN": "totalBandWidth",
+    "zhEN": "Total Bandwidth",
+    "zhTW": "總帶寬"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "timeIntervalHalfHour",
+    "zhEN": "Last 30 minutes",
+    "zhTW": "最近30分鐘"
+  },
+  {
+    "zhCN": "基本信息",
+    "zhEN": "Basic Information",
+    "zhTW": "基本資訊"
+  },
+  {
+    "zhCN": "新增应用配置",
+    "zhEN": "New Application Configuration",
+    "zhTW": "新增應用配寘"
+  },
+  {
+    "zhCN": "类别",
+    "zhEN": "Category",
+    "zhTW": "類別"
+  },
+  {
+    "zhCN": "目标IP/IP段",
+    "zhEN": "Destination IP",
+    "zhTW": "目標IP/IP段"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "职务最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "職務最多輸入50字元"
+  },
+  {
+    "zhCN": "请输入新秘钥",
+    "zhEN": "Please enter a new secret key.",
+    "zhTW": "請輸入新秘鑰"
+  },
+  {
+    "zhCN": "简称",
+    "zhEN": "Abbreviation",
+    "zhTW": "簡稱"
+  },
+  {
+    "zhCN": "链路总数",
+    "zhEN": " Total Link",
+    "zhTW": "鏈路總數"
+  },
+  {
+    "zhCN": "ip组",
+    "zhEN": "IP Group",
+    "zhTW": "ip組"
+  },
+  {
+    "zhCN": "人工选路",
+    "zhEN": "Manual Route",
+    "zhTW": "人工選路"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "batchDelete",
+    "zhEN": "Batch Delete",
+    "zhTW": "批量删除"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "MPLS优先",
+    "zhEN": "MPLS Priority",
+    "zhTW": "MPLS優先"
+  },
+  {
+    "zhCN": "table",
+    "zhEN": "Form",
+    "zhTW": "表格"
+  },
+  {
+    "zhCN": "新增联系人",
+    "zhEN": "New Contact",
+    "zhTW": "新增連絡人"
+  },
+  {
+    "zhCN": "port段",
+    "zhEN": "Port",
+    "zhTW": "端口段"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "组名最多不超过50个字符",
+    "zhEN": "Enter 50 characters at most.",
+    "zhTW": "組名最多不超過50個字元"
+  },
+  {
+    "zhCN": "黑名单",
+    "zhEN": "Blacklist",
+    "zhTW": "黑名單"
+  },
+  {
+    "zhCN": "dstIpInput",
+    "zhEN": "Please enter the destination IP",
+    "zhTW": "請輸入目標IP/IP段"
+  },
+  {
+    "zhCN": "节点",
+    "zhEN": "Node",
+    "zhTW": "節點"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "APP Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "operation",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "添加自定义应用",
+    "zhEN": "Add Customized Application",
+    "zhTW": "添加自定義應用"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "昵称最多输入50个字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "昵稱最多輸入50個字元"
+  },
+  {
+    "zhCN": "请输入企业名称",
+    "zhEN": "Please enter Organization Name.",
+    "zhTW": "請輸入企業名稱"
+  },
+  {
+    "zhCN": "修改秘钥",
+    "zhEN": "Modify the Secret key",
+    "zhTW": "修改秘鑰"
+  },
+  {
+    "zhCN": "开启加速",
+    "zhEN": "Enable Acceleration",
+    "zhTW": "開啟加速"
+  },
+  {
+    "zhCN": "黑白名单",
+    "zhEN": "Black and White List",
+    "zhTW": "黑白名单"
+  },
+  {
+    "zhCN": "请选择去重方式",
+    "zhEN": "Please choose the deduplication link or not.",
+    "zhTW": "請選擇去重管道"
+  },
+  {
+    "zhCN": "IP/IP段",
+    "zhEN": "IP",
+    "zhTW": "IP/IP段"
+  },
+  {
+    "zhCN": "编辑联系人",
+    "zhEN": "Edit Contact",
+    "zhTW": "編輯連絡人"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "请选择客户状态",
+    "zhEN": "Please select the Customer Status.",
+    "zhTW": "請選擇客戶狀態"
+  },
+  {
+    "zhCN": "24小时报警",
+    "zhEN": "24 hours alarm",
+    "zhTW": "24小時報警"
+  },
+  {
+    "zhCN": "batchClose",
+    "zhEN": "Batch Disable",
+    "zhTW": "批量禁用"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "秘钥信息",
+    "zhEN": "Secret Key Information",
+    "zhTW": "秘鑰信息"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start Time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "device",
+    "zhEN": "Device",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "action",
+    "zhEN": "Action",
+    "zhTW": "動作"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an enterprise.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "请输入企业管理员账号",
+    "zhEN": "Please input  Organization administrator account.",
+    "zhTW": "請輸入企業管理員帳號"
+  },
+  {
+    "zhCN": "请输入带宽",
+    "zhEN": "Please input bandwidth.",
+    "zhTW": "請輸入頻寬"
+  },
+  {
+    "zhCN": "请输入目标端口",
+    "zhEN": "Please input the destination port.",
+    "zhTW": "請輸入目標端口"
+  },
+  {
+    "zhCN": "应用级别",
+    "zhEN": "Application Level",
+    "zhTW": "應用級別"
+  },
+  {
+    "zhCN": "sn",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "套餐类型",
+    "zhEN": "Package Type",
+    "zhTW": "套餐類型"
+  },
+  {
+    "zhCN": "新增IP分组",
+    "zhEN": "Add IP Group",
+    "zhTW": "新增IP分組"
+  },
+  {
+    "zhCN": "请选择设备",
+    "zhEN": "Please select the device.",
+    "zhTW": "請選擇設備"
+  },
+  {
+    "zhCN": "请输入IP/IP段",
+    "zhEN": "Please enter IP.",
+    "zhTW": "請輸入IP/IP段"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "边缘",
+    "zhEN": "Edge",
+    "zhTW": "邊緣"
+  },
+  {
+    "zhCN": "请输入32位秘钥",
+    "zhEN": "Please enter 32 bit secret key.",
+    "zhTW": "請輸入32比特秘鑰"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "请选择账期",
+    "zhEN": "Please choose account period.",
+    "zhTW": "請選擇賬期"
+  },
+  {
+    "zhCN": "联系电话最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "聯繫電話最多輸入50字元"
+  },
+  {
+    "zhCN": "停用",
+    "zhEN": "Deactive",
+    "zhTW": "停用"
+  },
+  {
+    "zhCN": "IP组",
+    "zhEN": "Ip Group",
+    "zhTW": "IP組"
+  },
+  {
+    "zhCN": "国内SaaS加速",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "开启",
+    "zhEN": "Open",
+    "zhTW": "开启"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "设备流量分析",
+    "zhEN": "Device Traffic",
+    "zhTW": "設備流量分析"
+  },
+  {
+    "zhCN": "selectProtocol",
+    "zhEN": "Please select the protocol.",
+    "zhTW": "請選擇協議"
+  },
+  {
+    "zhCN": "全球组网",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "存量链路",
+    "zhEN": "Stock Link",
+    "zhTW": "存量鏈路"
+  },
+  {
+    "zhCN": "alert",
+    "zhEN": "24 hours warning",
+    "zhTW": "24小時警告"
+  },
+  {
+    "zhCN": "selectStatusPlaceholder",
+    "zhEN": "Please select status.",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "设备数",
+    "zhEN": "Device Numbers",
+    "zhTW": "設備數"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "带宽流量分析",
+    "zhEN": "Bandwidth Traffic Analysis",
+    "zhTW": "帶寬流量分析"
+  },
+  {
+    "zhCN": "全球SaaS加速",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球saas加速"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "所属城市",
+    "zhEN": "City",
+    "zhTW": "所屬城市"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "请输入运营商IP",
+    "zhEN": "Please input ISP IP",
+    "zhTW": "請輸入運營商IP"
+  },
+  {
+    "zhCN": "city",
+    "zhEN": "City",
+    "zhTW": "城市"
+  },
+  {
+    "zhCN": "收货地址最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "收貨地址最多輸入128字元"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "请输入运营商IP",
+    "zhEN": "Please input ISP IP",
+    "zhTW": "請輸入運營商IP"
+  },
+  {
+    "zhCN": "安全策略",
+    "zhEN": "Security Policy",
+    "zhTW": "安全性原則"
+  },
+  {
+    "zhCN": "应用程序流量分析",
+    "zhEN": "Application Traffic Analysis",
+    "zhTW": "應用程序流量分析"
+  },
+  {
+    "zhCN": "请输入联系地址",
+    "zhEN": "Please input your contact address.",
+    "zhTW": "請輸入聯繫地址"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "addAppSetup",
+    "zhEN": "New application configuration",
+    "zhTW": "新增應用配寘"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "请选择运营商",
+    "zhEN": "Please select ISP.",
+    "zhTW": "請選擇運營商"
+  },
+  {
+    "zhCN": "设备",
+    "zhEN": "Device",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "新增企业",
+    "zhEN": "New Organization",
+    "zhTW": "新增企業"
+  },
+  {
+    "zhCN": "最近结算日",
+    "zhEN": "Last Account Day",
+    "zhTW": "最近結算日"
+  },
+  {
+    "zhCN": "不计费",
+    "zhEN": "Free",
+    "zhTW": "不計費"
+  },
+  {
+    "zhCN": "目的列表",
+    "zhEN": "Destination IP List",
+    "zhTW": "目的清單"
+  },
+  {
+    "zhCN": "去重率",
+    "zhEN": "Deduplication Rate",
+    "zhTW": "去重率"
+  },
+  {
+    "zhCN": "请输入组名",
+    "zhEN": "Please enter a group name.",
+    "zhTW": "請輸入組名"
+  },
+  {
+    "zhCN": "请输入源IP/IP段",
+    "zhEN": "Please input source IP.",
+    "zhTW": "請輸入源IP/IP段"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "企业简称最多输入20字符",
+    "zhEN": "Cannot exceed 20 characters.",
+    "zhTW": "企業簡稱最多輸入20字元"
+  },
+  {
+    "zhCN": "链路数量",
+    "zhEN": "Link Numbers",
+    "zhTW": "鏈路數量"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "客户状态",
+    "zhEN": "Customer Status",
+    "zhTW": "客戶狀態"
+  },
+  {
+    "zhCN": "domesticSaas",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "新增IP段",
+    "zhEN": "New IP",
+    "zhTW": "新增IP段"
+  },
+  {
+    "zhCN": "导入失败",
+    "zhEN": "Import failure",
+    "zhTW": "導入失敗"
+  },
+  {
+    "zhCN": "batchOpen",
+    "zhEN": "Batch enabled",
+    "zhTW": "批量啟用"
+  },
+  {
+    "zhCN": "inputPlaceholder",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "请选择协议",
+    "zhEN": "Please select the protocol",
+    "zhTW": "請選擇協議"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "增量链路",
+    "zhEN": "Incremental Link",
+    "zhTW": "增量鏈路"
+  },
+  {
+    "zhCN": "技术支持",
+    "zhEN": "Technical Support",
+    "zhTW": "技術支援"
+  },
+  {
+    "zhCN": "试用",
+    "zhEN": "On Trial",
+    "zhTW": "試用"
+  },
+  {
+    "zhCN": "srcIpInput",
+    "zhEN": "Please input source IP.",
+    "zhTW": "請輸入源IP/IP段"
+  },
+  {
+    "zhCN": "计费",
+    "zhEN": "Charging",
+    "zhTW": "計費"
+  },
+  {
+    "zhCN": "海外加速",
+    "zhEN": "Global Acceleration",
+    "zhTW": "海外加速"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "分组",
+    "zhEN": "Group",
+    "zhTW": "分組"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请输入正确IP格式",
+    "zhEN": "Please input the correct IP format.",
+    "zhTW": "請輸入正確IP格式"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "dstPortGrpInput",
+    "zhEN": "Please select the Destination Port group.",
+    "zhTW": "請選擇目標端口組"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "联系人信息",
+    "zhEN": "Contact Information",
+    "zhTW": "連絡人資訊"
+  },
+  {
+    "zhCN": "源地址",
+    "zhEN": "Source IP Address",
+    "zhTW": "源地址"
+  },
+  {
+    "zhCN": "srcPort",
+    "zhEN": "Source Port",
+    "zhTW": "源端口"
+  },
+  {
+    "zhCN": "合同详情",
+    "zhEN": "Details of the contract",
+    "zhTW": "契约詳情"
+  },
+  {
+    "zhCN": "bandwidth",
+    "zhEN": "Bandwidth",
+    "zhTW": "帶寬"
+  },
+  {
+    "zhCN": "商务",
+    "zhEN": "Sales",
+    "zhTW": "商務"
+  },
+  {
+    "zhCN": "dstIpGrpInput",
+    "zhEN": "Please select the Destination  IP group.",
+    "zhTW": "請選擇目標IP組"
+  },
+  {
+    "zhCN": "运营商",
+    "zhEN": "ISP",
+    "zhTW": "運營商"
+  },
+  {
+    "zhCN": "合同名称",
+    "zhEN": "Contract Name",
+    "zhTW": "契约名稱"
+  },
+  {
+    "zhCN": "低",
+    "zhEN": "Low",
+    "zhTW": "低"
+  },
+  {
+    "zhCN": "aclNm",
+    "zhEN": "ACL Name",
+    "zhTW": "ACL名稱"
+  },
+  {
+    "zhCN": "priorityInput",
+    "zhEN": "Please input priority.",
+    "zhTW": "請輸入優先順序"
+  },
+  {
+    "zhCN": "合计",
+    "zhEN": "Total",
+    "zhTW": "合計"
+  },
+  {
+    "zhCN": "请选择所在城市",
+    "zhEN": "City",
+    "zhTW": "請選擇所在都市"
+  },
+  {
+    "zhCN": "请输入简称",
+    "zhEN": "Please input the Organization abbreviation.",
+    "zhTW": "請輸入簡稱"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Create time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "link",
+    "zhEN": "Link",
+    "zhTW": "鏈路"
+  },
+  {
+    "zhCN": "请选择安全策略",
+    "zhEN": "Please select security policy.",
+    "zhTW": "請選擇安全性原則"
+  },
+  {
+    "zhCN": "中国",
+    "zhEN": "China",
+    "zhTW": "中國"
+  },
+  {
+    "zhCN": "srcIpGroupInput",
+    "zhEN": "Please select the source IP group.",
+    "zhTW": "請選擇源IP組"
+  },
+  {
+    "zhCN": "确认删除该分组吗?",
+    "zhEN": "Please confirm to delete this group?",
+    "zhTW": "確認删除該分組嗎？"
+  },
+  {
+    "zhCN": "请输入IP段",
+    "zhEN": "Please enter IP Segment.",
+    "zhTW": "請輸入IP段"
+  },
+  {
+    "zhCN": "请输入目标端口",
+    "zhEN": "Please input the destination port.",
+    "zhTW": "請輸入目標端口"
+  },
+  {
+    "zhCN": "请输入链路名称",
+    "zhEN": "Please input the link name.",
+    "zhTW": "請輸入鏈路名稱"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "请选择链路类型",
+    "zhEN": "Please select Link Type.",
+    "zhTW": "請選擇連結類型"
+  },
+  {
+    "zhCN": "所属国家",
+    "zhEN": "Country",
+    "zhTW": "所屬國家"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "编辑ISP",
+    "zhEN": "Edit ISP",
+    "zhTW": "編輯ISP"
+  },
+  {
+    "zhCN": "固定计费",
+    "zhEN": "Bandwidth Charge",
+    "zhTW": "固定計費"
+  },
+  {
+    "zhCN": "请输入带宽",
+    "zhEN": "Please input bandwidth.",
+    "zhTW": "請輸入頻寬"
+  },
+  {
+    "zhCN": "所在国家",
+    "zhEN": "Country",
+    "zhTW": "所在國家"
+  },
+  {
+    "zhCN": "中国",
+    "zhEN": "China",
+    "zhTW": "中國"
+  },
+  {
+    "zhCN": "所在城市",
+    "zhEN": "City",
+    "zhTW": "所在都市"
+  },
+  {
+    "zhCN": "新增边缘节点",
+    "zhEN": "New Edge Node",
+    "zhTW": "新增邊緣節點"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "请输入正确格式邮箱地址",
+    "zhEN": "Please input correct format e-mail address.",
+    "zhTW": "請輸入正確格式郵箱地址"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "自动选路",
+    "zhEN": "Automatic route selection",
+    "zhTW": "自動選路"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "IP段",
+    "zhEN": "IP",
+    "zhTW": "IP段"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "所属城市",
+    "zhEN": "City",
+    "zhTW": "所屬城市"
+  },
+  {
+    "zhCN": "不计费链路",
+    "zhEN": "Free Links",
+    "zhTW": "不計費鏈路"
+  },
+  {
+    "zhCN": "收货地址",
+    "zhEN": "Receiving Address",
+    "zhTW": "收貨地址"
+  },
+  {
+    "zhCN": "海外",
+    "zhEN": "Overseas",
+    "zhTW": "海外"
+  },
+  {
+    "zhCN": "没有模板",
+    "zhEN": "No Template",
+    "zhTW": "沒有範本"
+  },
+  {
+    "zhCN": "所在城市",
+    "zhEN": "City",
+    "zhTW": "所在都市"
+  },
+  {
+    "zhCN": "新增中心节点",
+    "zhEN": "New Core Node",
+    "zhTW": "新增中心節點"
+  },
+  {
+    "zhCN": "添加IP段",
+    "zhEN": "Add IP",
+    "zhTW": "添加IP段"
+  },
+  {
+    "zhCN": "设备总数",
+    "zhEN": "Total Device",
+    "zhTW": "設備總數"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "新增ISP",
+    "zhEN": "New ISP",
+    "zhTW": "新增ISP"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "收货联系人",
+    "zhEN": "Receiver",
+    "zhTW": "收貨連絡人"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "请输入新的企业管理员账号",
+    "zhEN": "Please enter a new Organization administrator account.",
+    "zhTW": "請輸入新的企業管理員帳號"
+  },
+  {
+    "zhCN": "请选择中心节点",
+    "zhEN": "Please select the center node.",
+    "zhTW": "請選擇中心節點"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "WAN口",
+    "zhEN": "WAN Interface",
+    "zhTW": "WAN口"
+  },
+  {
+    "zhCN": "请选择应用类别",
+    "zhEN": "Please select the application category.",
+    "zhTW": "請選擇應用類別"
+  },
+  {
+    "zhCN": "批量新增链路",
+    "zhEN": "Add Batch Link",
+    "zhTW": "批量新增鏈路"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link Status",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "请输入设备名称",
+    "zhEN": "Please input device name.",
+    "zhTW": "請輸入裝置名稱"
+  },
+  {
+    "zhCN": "导入成功",
+    "zhEN": "Import Success",
+    "zhTW": "導入成功"
+  },
+  {
+    "zhCN": "流量大小",
+    "zhEN": "octets",
+    "zhTW": "流量大小"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "添加",
+    "zhEN": "Add ",
+    "zhTW": "添加"
+  },
+  {
+    "zhCN": "经办人",
+    "zhEN": "Agent",
+    "zhTW": "經辦人"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an Organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "设备",
+    "zhEN": "Device",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "导入失败",
+    "zhEN": "Import Failure",
+    "zhTW": "導入失敗"
+  },
+  {
+    "zhCN": "启用日期",
+    "zhEN": "Enable Date",
+    "zhTW": "啟用日期"
+  },
+  {
+    "zhCN": "预定说明最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "預定說明最多輸入128字元"
+  },
+  {
+    "zhCN": "4G运营商",
+    "zhEN": "4G ISP",
+    "zhTW": "4G運營商"
+  },
+  {
+    "zhCN": "请输入域名",
+    "zhEN": "Please enter a domain name.",
+    "zhTW": "請輸入功能變數名稱"
+  },
+  {
+    "zhCN": "中心",
+    "zhEN": "Centre",
+    "zhTW": "中心"
+  },
+  {
+    "zhCN": "ISP配置",
+    "zhEN": "ISP Configuration",
+    "zhTW": "ISP配寘"
+  },
+  {
+    "zhCN": "收货地址最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "收貨地址最多輸入128字元"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "备",
+    "zhEN": "Standby",
+    "zhTW": "備"
+  },
+  {
+    "zhCN": "编辑ISP",
+    "zhEN": "Edit ISP",
+    "zhTW": "編輯ISP"
+  },
+  {
+    "zhCN": "60秒刷新",
+    "zhEN": "60 seconds refresh",
+    "zhTW": "60秒重繪"
+  },
+  {
+    "zhCN": "占用率",
+    "zhEN": "Utilization Rate",
+    "zhTW": "佔用率"
+  },
+  {
+    "zhCN": "备份线路",
+    "zhEN": "Backup Line",
+    "zhTW": "備份線路"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "search",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "日流量统计",
+    "zhEN": "Daily Traffic",
+    "zhTW": "日流量統計"
+  },
+  {
+    "zhCN": "请选择服务等级",
+    "zhEN": "Please select the service level.",
+    "zhTW": "請選擇服務等級"
+  },
+  {
+    "zhCN": "请输入带宽",
+    "zhEN": "Please input bandwidth.",
+    "zhTW": "請輸入頻寬"
+  },
+  {
+    "zhCN": "节点信息",
+    "zhEN": "Node Information",
+    "zhTW": "節點信息"
+  },
+  {
+    "zhCN": "编辑IP段",
+    "zhEN": "Edit IP Segment",
+    "zhTW": "編輯IP段"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "CloudVPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "编辑IP段",
+    "zhEN": "Edit IP",
+    "zhTW": "編輯IP段"
+  },
+  {
+    "zhCN": "请选择计费模式",
+    "zhEN": "Please select Billing Type.",
+    "zhTW": "請選擇計費模式"
+  },
+  {
+    "zhCN": "请输入联系电话",
+    "zhEN": "Please input the telephone.",
+    "zhTW": "請輸入聯繫電話"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "主/备",
+    "zhEN": "Active / Standby",
+    "zhTW": "主/備"
+  },
+  {
+    "zhCN": "中心",
+    "zhEN": "Centre",
+    "zhTW": "中心"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "系统信息",
+    "zhEN": "System Information",
+    "zhTW": "系統信息"
+  },
+  {
+    "zhCN": "国内组网",
+    "zhEN": "Domestic Intranet",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "确定要重置密码吗?",
+    "zhEN": "Please confirm to reset the password?",
+    "zhTW": "確定要重置密碼嗎？"
+  },
+  {
+    "zhCN": "出库",
+    "zhEN": "Outbound",
+    "zhTW": "出庫"
+  },
+  {
+    "zhCN": "日流量统计",
+    "zhEN": "Daily Traffic",
+    "zhTW": "日流量統計"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "所在节点",
+    "zhEN": "Node",
+    "zhTW": "所在節點"
+  },
+  {
+    "zhCN": "类别",
+    "zhEN": "Category",
+    "zhTW": "類別"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "批量导入",
+    "zhEN": "Batch import",
+    "zhTW": "批量導入"
+  },
+  {
+    "zhCN": "open",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "入库时间",
+    "zhEN": "In Date",
+    "zhTW": "入庫時間"
+  },
+  {
+    "zhCN": "passwordInputAlert",
+    "zhEN": "Please enter a new password.",
+    "zhTW": "請輸入新密碼"
+  },
+  {
+    "zhCN": "请选择时间间隔",
+    "zhEN": "Please choose the time interval.",
+    "zhTW": "請選擇時間間隔"
+  },
+  {
+    "zhCN": "网关地址",
+    "zhEN": "Gateway",
+    "zhTW": "閘道地址"
+  },
+  {
+    "zhCN": "收货联系人最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "收貨連絡人最多輸入128字元"
+  },
+  {
+    "zhCN": "全球SaaS加速",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球saas加速"
+  },
+  {
+    "zhCN": "设备信息",
+    "zhEN": "Devices",
+    "zhTW": "設備信息"
+  },
+  {
+    "zhCN": "新增链路",
+    "zhEN": "New Link",
+    "zhTW": "新增鏈路"
+  },
+  {
+    "zhCN": "预定说明",
+    "zhEN": "Reserved Instructions",
+    "zhTW": "預定說明"
+  },
+  {
+    "zhCN": "不刷新",
+    "zhEN": "Not refresh",
+    "zhTW": "不重繪"
+  },
+  {
+    "zhCN": "上传文件",
+    "zhEN": "Uploading files",
+    "zhTW": "上傳文件"
+  },
+  {
+    "zhCN": "IP地址",
+    "zhEN": "IP",
+    "zhTW": "IP地址"
+  },
+  {
+    "zhCN": "快递公司",
+    "zhEN": "Express Company",
+    "zhTW": "快遞公司"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "提示:批量导入的文件必须使用提供的模板才能成功",
+    "zhEN": "Hint: the files imported in batch must be provided with the template.",
+    "zhTW": "提示：批量導入的檔案必須使用提供的範本才能成功"
+  },
+  {
+    "zhCN": "是",
+    "zhEN": "yes",
+    "zhTW": "是"
+  },
+  {
+    "zhCN": "网络丢包",
+    "zhEN": "Loss",
+    "zhTW": "網絡丟包"
+  },
+  {
+    "zhCN": "计费模式",
+    "zhEN": "Billing Type",
+    "zhTW": "計費模式"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "导入成功",
+    "zhEN": "Import success",
+    "zhTW": "導入成功"
+  },
+  {
+    "zhCN": "设备回收",
+    "zhEN": "Take Back Device",
+    "zhTW": "設備回收"
+  },
+  {
+    "zhCN": "确定要重置密码吗",
+    "zhEN": "Please confirm to reset the password?",
+    "zhTW": "確定要重置密碼嗎"
+  },
+  {
+    "zhCN": "持续工作时间",
+    "zhEN": "Continuous working time",
+    "zhTW": "持續工作時間"
+  },
+  {
+    "zhCN": "链路总数",
+    "zhEN": " Total Links",
+    "zhTW": "鏈路總數"
+  },
+  {
+    "zhCN": "快递单号最多输入64字符",
+    "zhEN": "Cannot exceed 64 characters.",
+    "zhTW": "快遞單號最多輸入64字元"
+  },
+  {
+    "zhCN": "部署方式",
+    "zhEN": "Deployment Mode",
+    "zhTW": "部署管道"
+  },
+  {
+    "zhCN": "自动生成序列号",
+    "zhEN": "Automatic Create Serial Number",
+    "zhTW": "自動生成序號"
+  },
+  {
+    "zhCN": "联系电话",
+    "zhEN": "Telephone",
+    "zhTW": "聯繫電話"
+  },
+  {
+    "zhCN": "请选择数据条数",
+    "zhEN": "Please select the number of data bars.",
+    "zhTW": "請選擇數據條數"
+  },
+  {
+    "zhCN": "预定",
+    "zhEN": "Reserve",
+    "zhTW": "預定"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "Port段",
+    "zhEN": "Port",
+    "zhTW": "端口段"
+  },
+  {
+    "zhCN": "专线",
+    "zhEN": "Special Line",
+    "zhTW": "專線"
+  },
+  {
+    "zhCN": "请选择所在国家",
+    "zhEN": "Please choose the country.",
+    "zhTW": "請選擇所在國家"
+  },
+  {
+    "zhCN": "IP分组描述最多输入255字符",
+    "zhEN": "Cannot exceed 255 characters.",
+    "zhTW": "IP分組描述最多輸入255字元"
+  },
+  {
+    "zhCN": "链路清单",
+    "zhEN": "Link List",
+    "zhTW": "鏈路清單"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "导入失败原因",
+    "zhEN": "Cause of import failure",
+    "zhTW": "導入失敗原因"
+  },
+  {
+    "zhCN": "上传文件",
+    "zhEN": "Uploading files",
+    "zhTW": "上傳文件"
+  },
+  {
+    "zhCN": "请上传txt格式文件",
+    "zhEN": "Please upload TXT format file.",
+    "zhTW": "請上傳txt格式檔案"
+  },
+  {
+    "zhCN": "保存账单",
+    "zhEN": "Save",
+    "zhTW": "保存帳單"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "Port组",
+    "zhEN": "Port Group",
+    "zhTW": "端口段"
+  },
+  {
+    "zhCN": "是否预定",
+    "zhEN": "Reserve",
+    "zhTW": "是否預定"
+  },
+  {
+    "zhCN": "请输入预定说明",
+    "zhEN": "Please input a reservation instruction.",
+    "zhTW": "請輸入預定說明"
+  },
+  {
+    "zhCN": "账单查看",
+    "zhEN": "Bill check",
+    "zhTW": "帳單查看"
+  },
+  {
+    "zhCN": "15秒刷新",
+    "zhEN": "15 seconds refresh",
+    "zhTW": "15秒重繪"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "单线机房",
+    "zhEN": "Single line IDC room",
+    "zhTW": "單線機房"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "企业",
+    "zhEN": "Organization",
+    "zhTW": "企業"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "确定要回收该设备吗",
+    "zhEN": "Please confirm to recall the device?",
+    "zhTW": "確定要回收該設備嗎"
+  },
+  {
+    "zhCN": "运营商",
+    "zhEN": "ISP",
+    "zhTW": "運營商"
+  },
+  {
+    "zhCN": "导入结果",
+    "zhEN": "Import result",
+    "zhTW": "導入結果"
+  },
+  {
+    "zhCN": "应用程序",
+    "zhEN": "Application Program",
+    "zhTW": "應用程序"
+  },
+  {
+    "zhCN": "快递单号",
+    "zhEN": "Courier Number",
+    "zhTW": "快遞單號"
+  },
+  {
+    "zhCN": "客户状态",
+    "zhEN": "Customer Status",
+    "zhTW": "客戶狀態"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "导入成功",
+    "zhEN": "Import success",
+    "zhTW": "導入成功"
+  },
+  {
+    "zhCN": "所在国家",
+    "zhEN": "Country",
+    "zhTW": "所在國家"
+  },
+  {
+    "zhCN": "请输入机房名称",
+    "zhEN": "Please enter the name of the IDC.",
+    "zhTW": "請輸入機房名稱"
+  },
+  {
+    "zhCN": "是否有专线",
+    "zhEN": "Special Line",
+    "zhTW": "是否有專線"
+  },
+  {
+    "zhCN": "设备出库",
+    "zhEN": "Device Outbound",
+    "zhTW": "設備出庫"
+  },
+  {
+    "zhCN": "海外机房",
+    "zhEN": "Overseas IDC",
+    "zhTW": "海外機房"
+  },
+  {
+    "zhCN": "确认修改",
+    "zhEN": "OK",
+    "zhTW": "確認修改"
+  },
+  {
+    "zhCN": "所属城市",
+    "zhEN": "City",
+    "zhTW": "所屬城市"
+  },
+  {
+    "zhCN": "请输入企业名称",
+    "zhEN": "Please enter Organization Name.",
+    "zhTW": "請輸入企業名稱"
+  },
+  {
+    "zhCN": "联系电话最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "聯繫電話最多輸入128字元"
+  },
+  {
+    "zhCN": "不去重",
+    "zhEN": "Not Deduplication",
+    "zhTW": "不去重"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an Organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "操作系统",
+    "zhEN": "Operating System",
+    "zhTW": "作業系統"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "请选择类型",
+    "zhEN": "Please select type",
+    "zhTW": "請選擇類型"
+  },
+  {
+    "zhCN": "导入失败原因",
+    "zhEN": "Cause of import failure",
+    "zhTW": "導入失敗原因"
+  },
+  {
+    "zhCN": "域名",
+    "zhEN": "Domain Name",
+    "zhTW": "功能變數名稱"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "点击下载",
+    "zhEN": "Download",
+    "zhTW": "點擊下載"
+  },
+  {
+    "zhCN": "主/备",
+    "zhEN": "Active / Standby",
+    "zhTW": "主/備"
+  },
+  {
+    "zhCN": "请输入型号",
+    "zhEN": "Please input type.",
+    "zhTW": "請輸入型號"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "峰值负载率",
+    "zhEN": "Peak Loading Rate",
+    "zhTW": "峰值負載率"
+  },
+  {
+    "zhCN": "有",
+    "zhEN": "Yes",
+    "zhTW": "有"
+  },
+  {
+    "zhCN": "型号",
+    "zhEN": "Model",
+    "zhTW": "型號"
+  },
+  {
+    "zhCN": "请选择类型",
+    "zhEN": "Please select type",
+    "zhTW": "請選擇類型"
+  },
+  {
+    "zhCN": "所在国家",
+    "zhEN": "Country",
+    "zhTW": "所在國家"
+  },
+  {
+    "zhCN": "请选择时间",
+    "zhEN": "Please choose the time.",
+    "zhTW": "請選擇時間"
+  },
+  {
+    "zhCN": "节点IP地址",
+    "zhEN": "Node IP address",
+    "zhTW": "節點IP地址"
+  },
+  {
+    "zhCN": "版本",
+    "zhEN": "Version",
+    "zhTW": "版本"
+  },
+  {
+    "zhCN": "添加ISP",
+    "zhEN": "Add ISP",
+    "zhTW": "添加ISP"
+  },
+  {
+    "zhCN": "主",
+    "zhEN": "Active",
+    "zhTW": "主"
+  },
+  {
+    "zhCN": "系统信息",
+    "zhEN": "System Information",
+    "zhTW": "系統信息"
+  },
+  {
+    "zhCN": "版本",
+    "zhEN": "Version",
+    "zhTW": "版本"
+  },
+  {
+    "zhCN": "型号",
+    "zhEN": "Model",
+    "zhTW": "型號"
+  },
+  {
+    "zhCN": "物流信息",
+    "zhEN": "Logistics information",
+    "zhTW": "物流信息"
+  },
+  {
+    "zhCN": "日流量统计",
+    "zhEN": "Daily Traffic",
+    "zhTW": "日流量統計"
+  },
+  {
+    "zhCN": "IP/IP段",
+    "zhEN": "IP",
+    "zhTW": "IP/IP段"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please enter keywords",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "IP段",
+    "zhEN": "IP",
+    "zhTW": "IP段"
+  },
+  {
+    "zhCN": "设备名称最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "設備名稱最多輸入128字元"
+  },
+  {
+    "zhCN": "前后3小时",
+    "zhEN": "3 hours ahead or later",
+    "zhTW": "前後3小時"
+  },
+  {
+    "zhCN": "密码重置",
+    "zhEN": "Password Reset",
+    "zhTW": "密碼重置"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "nodeStat",
+    "zhEN": "Node statistics",
+    "zhTW": "節點統計"
+  },
+  {
+    "zhCN": "联系人姓名最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "連絡人姓名最多輸入50字元"
+  },
+  {
+    "zhCN": "部署方式",
+    "zhEN": "Deployment Mode",
+    "zhTW": "部署管道"
+  },
+  {
+    "zhCN": "账号最多输入100个字符",
+    "zhEN": "Cannot exceed 100 characters.",
+    "zhTW": "帳號最多輸入100個字元"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "确认要禁用所选中的QoS吗?",
+    "zhEN": "Please comfirm to disable the selected QoS?",
+    "zhTW": "確認要禁用所選中的QoS嗎？"
+  },
+  {
+    "zhCN": "请选择边缘节点",
+    "zhEN": "Please select Edge Nodes.",
+    "zhTW": "請選擇邊緣節點"
+  },
+  {
+    "zhCN": "客户行业最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "客戶行業最多輸入50字元"
+  },
+  {
+    "zhCN": "请选择升级版本",
+    "zhEN": "Please choose an upgrade version.",
+    "zhTW": "請選擇升級版本"
+  },
+  {
+    "zhCN": "序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "序號"
+  },
+  {
+    "zhCN": "任务uuid",
+    "zhEN": "Task UUID",
+    "zhTW": "任務uuid"
+  },
+  {
+    "zhCN": "主",
+    "zhEN": "Main",
+    "zhTW": "主"
+  },
+  {
+    "zhCN": "海外",
+    "zhEN": "Overseas",
+    "zhTW": "海外"
+  },
+  {
+    "zhCN": "IP/IP段",
+    "zhEN": "IP",
+    "zhTW": "IP/IP段"
+  },
+  {
+    "zhCN": "请输入边缘节点名称",
+    "zhEN": "Please enter the name of the Edge Node.",
+    "zhTW": "請輸入邊緣節點名稱"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请输入联系电话",
+    "zhEN": "Please input the telephone number.",
+    "zhTW": "請輸入聯繫電話"
+  },
+  {
+    "zhCN": "禁用",
+    "zhEN": "Disable",
+    "zhTW": "禁用"
+  },
+  {
+    "zhCN": "delete",
+    "zhEN": "delete",
+    "zhTW": "删除"
+  },
+  {
+    "zhCN": "请输入快递单号",
+    "zhEN": "Please input express number.",
+    "zhTW": "請輸入快遞單號"
+  },
+  {
+    "zhCN": "确认删除该条信息",
+    "zhEN": "Please confirm to delete this message",
+    "zhTW": "確認删除該條信息"
+  },
+  {
+    "zhCN": "速率",
+    "zhEN": "Rate",
+    "zhTW": "速率"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "合同",
+    "zhEN": "Contract",
+    "zhTW": "契约"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "请输入设备序列号",
+    "zhEN": "Please enter the Serial Number",
+    "zhTW": "請輸入裝置序號"
+  },
+  {
+    "zhCN": "linkType",
+    "zhEN": "Link Type",
+    "zhTW": "鏈路類型"
+  },
+  {
+    "zhCN": "前后15分钟",
+    "zhEN": "15 minutes ahead or later",
+    "zhTW": "前後15分鐘"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "ISP信息",
+    "zhEN": "ISP information",
+    "zhTW": "ISP信息"
+  },
+  {
+    "zhCN": "收货地址",
+    "zhEN": "Receiving Address",
+    "zhTW": "收貨地址"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "管理员账号",
+    "zhEN": "Administrator Account",
+    "zhTW": "管理員帳號"
+  },
+  {
+    "zhCN": "请输入企业名称",
+    "zhEN": "Please enter Organization Name.",
+    "zhTW": "請輸入企業名稱"
+  },
+  {
+    "zhCN": "联系地址",
+    "zhEN": "Contact Address",
+    "zhTW": "聯繫地址"
+  },
+  {
+    "zhCN": "代码",
+    "zhEN": "Code",
+    "zhTW": "代碼"
+  },
+  {
+    "zhCN": "隧道信息",
+    "zhEN": "Tunnel Information",
+    "zhTW": "隧道信息"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "设备流量分析",
+    "zhEN": "Device Traffic",
+    "zhTW": "設備流量分析"
+  },
+  {
+    "zhCN": "设备信息",
+    "zhEN": "Devices",
+    "zhTW": "設備信息"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "请输入搜索的设备名称",
+    "zhEN": "Please enter the name of the search device.",
+    "zhTW": "請輸入蒐索的設備名稱"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "仅统计正式用户",
+    "zhEN": "Formal Customer Only",
+    "zhTW": "僅統計正式用戶"
+  },
+  {
+    "zhCN": "账号管理",
+    "zhEN": "Manage Users",
+    "zhTW": "帳號管理"
+  },
+  {
+    "zhCN": "DPI流量",
+    "zhEN": "DPI Flow",
+    "zhTW": "DPI 流量"
+  },
+  {
+    "zhCN": "邮箱",
+    "zhEN": "E-mail",
+    "zhTW": "郵箱"
+  },
+  {
+    "zhCN": "前后1天",
+    "zhEN": "1 days ahead or later",
+    "zhTW": "前後1天"
+  },
+  {
+    "zhCN": "快递公司",
+    "zhEN": "Courier Services Company",
+    "zhTW": "快遞公司"
+  },
+  {
+    "zhCN": "硬件编号",
+    "zhEN": "Hardware Number",
+    "zhTW": "硬體編號"
+  },
+  {
+    "zhCN": "收货人信息",
+    "zhEN": "Receiver",
+    "zhTW": "收貨人信息"
+  },
+  {
+    "zhCN": "历史负载率",
+    "zhEN": "Historical Peak Load Rate",
+    "zhTW": "歷史負載率"
+  },
+  {
+    "zhCN": "请选择设备",
+    "zhEN": "Please select the device.",
+    "zhTW": "請選擇設備"
+  },
+  {
+    "zhCN": "日期",
+    "zhEN": "Date",
+    "zhTW": "日期"
+  },
+  {
+    "zhCN": "TWS名称",
+    "zhEN": "POP Name",
+    "zhTW": "TWS名稱"
+  },
+  {
+    "zhCN": "峰值负载率排行榜",
+    "zhEN": "Peak loading rate ranking",
+    "zhTW": "峰值負載率排行榜"
+  },
+  {
+    "zhCN": "仅统计试用用户",
+    "zhEN": "Trial Customer Only",
+    "zhTW": "僅統計試用用戶"
+  },
+  {
+    "zhCN": "日报表",
+    "zhEN": "Daily List",
+    "zhTW": "日報表"
+  },
+  {
+    "zhCN": "设备更新",
+    "zhEN": "Device Update",
+    "zhTW": "設備更新"
+  },
+  {
+    "zhCN": "请选择设备类型",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備類型"
+  },
+  {
+    "zhCN": "出库统计",
+    "zhEN": "Outbound",
+    "zhTW": "出庫統計"
+  },
+  {
+    "zhCN": "合计",
+    "zhEN": "Total",
+    "zhTW": "合計"
+  },
+  {
+    "zhCN": "序号",
+    "zhEN": "Sequence Number",
+    "zhTW": "序號"
+  },
+  {
+    "zhCN": "原因详情",
+    "zhEN": "Detail",
+    "zhTW": "原因詳情"
+  },
+  {
+    "zhCN": "设备流量",
+    "zhEN": "Device Traffic",
+    "zhTW": "設備流量"
+  },
+  {
+    "zhCN": "联系电话",
+    "zhEN": "Contact Number",
+    "zhTW": "聯繫電話"
+  },
+  {
+    "zhCN": "快递单号",
+    "zhEN": "Courier Number",
+    "zhTW": "快遞單號"
+  },
+  {
+    "zhCN": "运营商信息",
+    "zhEN": "ISP",
+    "zhTW": "運營商信息"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "物流单号最多输入64字符",
+    "zhEN": "Cannot exceed 64 characters.",
+    "zhTW": "物流單號最多輸入64字元"
+  },
+  {
+    "zhCN": "智能压缩设置",
+    "zhEN": "Intelligent Compression",
+    "zhTW": "智慧壓縮設定"
+  },
+  {
+    "zhCN": "请输入名称",
+    "zhEN": "Please input name.",
+    "zhTW": "請輸入名稱"
+  },
+  {
+    "zhCN": "出库信息",
+    "zhEN": "Outgoing",
+    "zhTW": "出庫信息"
+  },
+  {
+    "zhCN": "我的链路",
+    "zhEN": "My Links",
+    "zhTW": "我的鏈路"
+  },
+  {
+    "zhCN": "链路信息",
+    "zhEN": "Links",
+    "zhTW": "連結資訊"
+  },
+  {
+    "zhCN": "职务",
+    "zhEN": "Role",
+    "zhTW": "职务"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "物流公司最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "物流公司最多輸入128字元"
+  },
+  {
+    "zhCN": "小计",
+    "zhEN": "Subtotal",
+    "zhTW": "小計"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "任务",
+    "zhEN": "Task",
+    "zhTW": "任務"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "自定义应用识别",
+    "zhEN": "Customize APP Identification",
+    "zhTW": "自定義應用識別"
+  },
+  {
+    "zhCN": "请选择类型",
+    "zhEN": "Please select type",
+    "zhTW": "請選擇類型"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "系统应用识别",
+    "zhEN": "System APP Identification",
+    "zhTW": "系統應用識別"
+  },
+  {
+    "zhCN": "请选择操作系统",
+    "zhEN": "Please select the operating system.",
+    "zhTW": "請選擇作業系統"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "关系人信息",
+    "zhEN": "Related Person",
+    "zhTW": "關係人信息"
+  },
+  {
+    "zhCN": "机房信息",
+    "zhEN": "Telecom Room",
+    "zhTW": "機房信息"
+  },
+  {
+    "zhCN": "应用识别管理",
+    "zhEN": "Manage DPI",
+    "zhTW": "應用識別管理"
+  },
+  {
+    "zhCN": "账期管理",
+    "zhEN": "Manage Checklist",
+    "zhTW": "賬期管理"
+  },
+  {
+    "zhCN": "自定义企业应用",
+    "zhEN": "Customize Organization APP",
+    "zhTW": "自定義企業應用"
+  },
+  {
+    "zhCN": "机房名称",
+    "zhEN": "IDC Name",
+    "zhTW": "機房名稱"
+  },
+  {
+    "zhCN": "日志类型",
+    "zhEN": "Log Type",
+    "zhTW": "日誌類型"
+  },
+  {
+    "zhCN": "可用量",
+    "zhEN": "Dosage",
+    "zhTW": "可用量"
+  },
+  {
+    "zhCN": "设备信息",
+    "zhEN": "Devices",
+    "zhTW": "設備信息"
+  },
+  {
+    "zhCN": "日流量",
+    "zhEN": "Daily Traffic",
+    "zhTW": "日流量"
+  },
+  {
+    "zhCN": "首页",
+    "zhEN": "Dashboard ",
+    "zhTW": "首頁"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "网络延迟",
+    "zhEN": "Latency",
+    "zhTW": "網路延遲"
+  },
+  {
+    "zhCN": "dstPortInput",
+    "zhEN": "Please input the  Destination port.",
+    "zhTW": "請輸入目標端口"
+  },
+  {
+    "zhCN": "24小时报警",
+    "zhEN": "24 hours alarm",
+    "zhTW": "24小時報警"
+  },
+  {
+    "zhCN": "否",
+    "zhEN": "no",
+    "zhTW": "否"
+  },
+  {
+    "zhCN": "编辑账号",
+    "zhEN": "Edit account number",
+    "zhTW": "編輯帳號"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "发生时间",
+    "zhEN": "Time",
+    "zhTW": "發生時間"
+  },
+  {
+    "zhCN": "路径信息",
+    "zhEN": "Path Information",
+    "zhTW": "路徑信息"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "已预订",
+    "zhEN": "Reserved",
+    "zhTW": "已預訂"
+  },
+  {
+    "zhCN": "请输入32位的字母或数字组合",
+    "zhEN": "Please input 32 digit alphabet or number combination.",
+    "zhTW": "請輸入32比特的字母或數位組合"
+  },
+  {
+    "zhCN": "智能去重",
+    "zhEN": "Intelligent Deduplication",
+    "zhTW": "智慧去重"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "请选择是否有专线",
+    "zhEN": "Please choose if has a special line.",
+    "zhTW": "請選擇是否有專線"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "未启用",
+    "zhEN": "Disabled",
+    "zhTW": "未啟用"
+  },
+  {
+    "zhCN": "线路类型",
+    "zhEN": "Line Type",
+    "zhTW": "線路類型"
+  },
+  {
+    "zhCN": "自动选路",
+    "zhEN": "Automatic route selection",
+    "zhTW": "自動選路"
+  },
+  {
+    "zhCN": "中心",
+    "zhEN": "Centre",
+    "zhTW": "中心"
+  },
+  {
+    "zhCN": "已启用",
+    "zhEN": "Enabled",
+    "zhTW": "已啟用"
+  },
+  {
+    "zhCN": "请输入带宽",
+    "zhEN": "Please input Bandwidth.",
+    "zhTW": "請輸入頻寬"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "原因",
+    "zhEN": "Reason",
+    "zhTW": "原因"
+  },
+  {
+    "zhCN": "库存汇总",
+    "zhEN": "Inventory summary",
+    "zhTW": "庫存匯總"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "运营商",
+    "zhEN": "ISP",
+    "zhTW": "運營商"
+  },
+  {
+    "zhCN": "上传文件",
+    "zhEN": "Uploading files",
+    "zhTW": "上傳文件"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "联系地址",
+    "zhEN": "Contact Address",
+    "zhTW": "聯繫地址"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "子网掩码",
+    "zhEN": "Subnet Mask",
+    "zhTW": "子網路遮罩"
+  },
+  {
+    "zhCN": "session数量",
+    "zhEN": "Session Num",
+    "zhTW": "會話結束"
+  },
+  {
+    "zhCN": "企业",
+    "zhEN": "Organization",
+    "zhTW": "企業"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "添加黑名单",
+    "zhEN": "Add Blacklist",
+    "zhTW": "添加黑名單"
+  },
+  {
+    "zhCN": "人工选路",
+    "zhEN": "Manual route selection",
+    "zhTW": "人工選路"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "新增IP段",
+    "zhEN": "New IP",
+    "zhTW": "新增IP段"
+  },
+  {
+    "zhCN": "多线机房",
+    "zhEN": "Multi-line Room",
+    "zhTW": "多線機房"
+  },
+  {
+    "zhCN": "编辑TWS",
+    "zhEN": "Editor POP",
+    "zhTW": "編輯TWS"
+  },
+  {
+    "zhCN": "下发日志任务",
+    "zhEN": "Collect Log Task",
+    "zhTW": "下發日誌任務"
+  },
+  {
+    "zhCN": "无",
+    "zhEN": "No",
+    "zhTW": "無"
+  },
+  {
+    "zhCN": "基本信息",
+    "zhEN": "Basic Information",
+    "zhTW": "基本資訊"
+  },
+  {
+    "zhCN": "修改机房信息",
+    "zhEN": "Modifying computer room information",
+    "zhTW": "修改機房信息"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "一次任务只可以是同一个企业",
+    "zhEN": "The task can only be the same organization.",
+    "zhTW": "一次任務只可以是同一個企業"
+  },
+  {
+    "zhCN": "机房",
+    "zhEN": "Room",
+    "zhTW": "機房"
+  },
+  {
+    "zhCN": "节点",
+    "zhEN": "Node",
+    "zhTW": "節點"
+  },
+  {
+    "zhCN": "请选择至少一项",
+    "zhEN": "Please choose at least one item.",
+    "zhTW": "請選擇至少一項"
+  },
+  {
+    "zhCN": "外网IP",
+    "zhEN": "Internet IP",
+    "zhTW": "外網IP"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "点击下载",
+    "zhEN": "Download",
+    "zhTW": "點擊下載"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "导入失败",
+    "zhEN": "Import failure",
+    "zhTW": "導入失敗"
+  },
+  {
+    "zhCN": "速率",
+    "zhEN": "Rate",
+    "zhTW": "速率"
+  },
+  {
+    "zhCN": "添加",
+    "zhEN": "Add",
+    "zhTW": "添加"
+  },
+  {
+    "zhCN": "请输入结束日期",
+    "zhEN": "Please enter the end date.",
+    "zhTW": "請輸入結束日期"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "批量删除",
+    "zhEN": "Batch Delete",
+    "zhTW": "批量删除"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "设备名称最多输入32字符",
+    "zhEN": "Cannot exceed 32 characters.",
+    "zhTW": "設備名稱最多輸入32字元"
+  },
+  {
+    "zhCN": "确认删除该项吗?",
+    "zhEN": "Please confirm to delete this item?",
+    "zhTW": "確認删除該項嗎？"
+  },
+  {
+    "zhCN": "请输入备链路名称",
+    "zhEN": "Please input the name of the backup link.",
+    "zhTW": "請輸入備鏈路名稱"
+  },
+  {
+    "zhCN": "30秒刷新",
+    "zhEN": "30 seconds refresh",
+    "zhTW": "30秒重繪"
+  },
+  {
+    "zhCN": "新增库存",
+    "zhEN": "New inventory",
+    "zhTW": "新增庫存"
+  },
+  {
+    "zhCN": "小计",
+    "zhEN": "Subtotal",
+    "zhTW": "小計"
+  },
+  {
+    "zhCN": "边缘",
+    "zhEN": "Edge",
+    "zhTW": "邊緣"
+  },
+  {
+    "zhCN": "请选择去重方式",
+    "zhEN": "Deduplication",
+    "zhTW": "請選擇去重管道"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "首选DNS服务器",
+    "zhEN": "Preferred DNS Server",
+    "zhTW": "首選DNS伺服器"
+  },
+  {
+    "zhCN": "边缘",
+    "zhEN": "Edge",
+    "zhTW": "邊緣"
+  },
+  {
+    "zhCN": "国内SaaS加速",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "链路数量",
+    "zhEN": "Link Num",
+    "zhTW": "鏈路數量"
+  },
+  {
+    "zhCN": "请输入收货联系人",
+    "zhEN": "Please input the receiver.",
+    "zhTW": "請輸入收貨連絡人"
+  },
+  {
+    "zhCN": "硬件编号最多输入64字符",
+    "zhEN": "Cannot exceed 64 characters.",
+    "zhTW": "硬體編號最多輸入64字元"
+  },
+  {
+    "zhCN": "快递公司名称最多输入32字符",
+    "zhEN": "Cannot exceed 64characters.",
+    "zhTW": "快遞公司名稱最多輸入32字元"
+  },
+  {
+    "zhCN": "计费链路",
+    "zhEN": "Charge Link",
+    "zhTW": "計費鏈路"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "编辑中心节点",
+    "zhEN": "Edit center node",
+    "zhTW": "編輯中心節點"
+  },
+  {
+    "zhCN": "客户管理",
+    "zhEN": "Customers",
+    "zhTW": "客戶管理"
+  },
+  {
+    "zhCN": "节点类型",
+    "zhEN": "Node Type",
+    "zhTW": "節點類型"
+  },
+  {
+    "zhCN": "计费模式",
+    "zhEN": "Billing Type",
+    "zhTW": "計費模式"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "编辑ISP",
+    "zhEN": "Editor ISP",
+    "zhTW": "編輯ISP"
+  },
+  {
+    "zhCN": "节点IP地址",
+    "zhEN": "Node IP",
+    "zhTW": "節點IP地址"
+  },
+  {
+    "zhCN": "中心多线路设置",
+    "zhEN": "Core ISP",
+    "zhTW": "中心ISP配寘"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "型号",
+    "zhEN": "Model",
+    "zhTW": "型號"
+  },
+  {
+    "zhCN": "库存量",
+    "zhEN": "Inventory",
+    "zhTW": "庫存量"
+  },
+  {
+    "zhCN": "请选择链路类型",
+    "zhEN": "Please select Link Type.",
+    "zhTW": "請選擇連結類型"
+  },
+  {
+    "zhCN": "收货联系人最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "收貨連絡人最多輸入128字元"
+  },
+  {
+    "zhCN": "流量计费",
+    "zhEN": "Traffic Charge",
+    "zhTW": "流量計費"
+  },
+  {
+    "zhCN": "请选择备中心节点",
+    "zhEN": "Please select the standby center node.",
+    "zhTW": "請選擇備中心節點"
+  },
+  {
+    "zhCN": "导入结果",
+    "zhEN": "Import result",
+    "zhTW": "導入結果"
+  },
+  {
+    "zhCN": "请选择所在国家",
+    "zhEN": "Please choose the country.",
+    "zhTW": "請選擇所在國家"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "企业账号管理",
+    "zhEN": "Manage Users",
+    "zhTW": "企業帳號管理"
+  },
+  {
+    "zhCN": "安全配置",
+    "zhEN": "ACL",
+    "zhTW": "安全配寘"
+  },
+  {
+    "zhCN": "隧道信息",
+    "zhEN": "Tunnel information",
+    "zhTW": "隧道信息"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "客户状态",
+    "zhEN": "Customer Status",
+    "zhTW": "客戶狀態"
+  },
+  {
+    "zhCN": "请输入快递公司",
+    "zhEN": "Please input express company.",
+    "zhTW": "請輸入快遞公司"
+  },
+  {
+    "zhCN": "请输入速率",
+    "zhEN": "Please input speed.",
+    "zhTW": "請輸入速率"
+  },
+  {
+    "zhCN": "所属城市",
+    "zhEN": "City",
+    "zhTW": "所屬城市"
+  },
+  {
+    "zhCN": "请选择选路方式",
+    "zhEN": "Route Selection.",
+    "zhTW": "請選擇選路管道"
+  },
+  {
+    "zhCN": "导入结果",
+    "zhEN": "Import result",
+    "zhTW": "導入結果"
+  },
+  {
+    "zhCN": "全球组网",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "持续工作时间",
+    "zhEN": "Continuous working time",
+    "zhTW": "持續工作時間"
+  },
+  {
+    "zhCN": "备",
+    "zhEN": "Backup",
+    "zhTW": "備"
+  },
+  {
+    "zhCN": "试用",
+    "zhEN": "On trial",
+    "zhTW": "試用"
+  },
+  {
+    "zhCN": "联系人信息",
+    "zhEN": "Contact Information",
+    "zhTW": "連絡人資訊"
+  },
+  {
+    "zhCN": "请选择日志类型",
+    "zhEN": "Please select log type.",
+    "zhTW": "請選擇日誌類型"
+  },
+  {
+    "zhCN": "支持",
+    "zhEN": "Support",
+    "zhTW": "支持"
+  },
+  {
+    "zhCN": "去重",
+    "zhEN": "Deduplication",
+    "zhTW": "去重"
+  },
+  {
+    "zhCN": "请输入物流单号",
+    "zhEN": "Please input Courier number.",
+    "zhTW": "請輸入物流單號"
+  },
+  {
+    "zhCN": "编辑库存",
+    "zhEN": "Edit inventory",
+    "zhTW": "編輯庫存"
+  },
+  {
+    "zhCN": "请输入TWS名称",
+    "zhEN": "Please input POP name.",
+    "zhTW": "請輸入TWS名稱"
+  },
+  {
+    "zhCN": "版本",
+    "zhEN": "Version",
+    "zhTW": "版本"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link Status",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "CloudVPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link Status",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "原因",
+    "zhEN": "Reason",
+    "zhTW": "原因"
+  },
+  {
+    "zhCN": "节点IP",
+    "zhEN": "Node IP",
+    "zhTW": "節點IP"
+  },
+  {
+    "zhCN": "修改管理员账号",
+    "zhEN": "Modify administrator account",
+    "zhTW": "修改管理員帳號"
+  },
+  {
+    "zhCN": "物流公司",
+    "zhEN": "Express Company",
+    "zhTW": "物流公司"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "CloudVPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "提示:批量导入的文件必须使用提供的模板才能成功",
+    "zhEN": "Hint: the files imported in batch must be provided with the template document.",
+    "zhTW": "提示：批量導入的檔案必須使用提供的範本才能成功"
+  },
+  {
+    "zhCN": "路径信息",
+    "zhEN": "Path information",
+    "zhTW": "路徑信息"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start Time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "确认添加",
+    "zhEN": "OK",
+    "zhTW": "確認添加"
+  },
+  {
+    "zhCN": "应用速率",
+    "zhEN": "Application Rate",
+    "zhTW": "應用速率"
+  },
+  {
+    "zhCN": "经办人",
+    "zhEN": "Agent",
+    "zhTW": "經辦人"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "自动分配",
+    "zhEN": "Automatic Used",
+    "zhTW": "自動分配"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "WAN口",
+    "zhEN": "WAN Interface",
+    "zhTW": "WAN口"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "收货地址",
+    "zhEN": "Receiving address",
+    "zhTW": "收貨地址"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "链路信息",
+    "zhEN": "Link Information",
+    "zhTW": "連結資訊"
+  },
+  {
+    "zhCN": "预定量",
+    "zhEN": "Predetermined amount",
+    "zhTW": "預定量"
+  },
+  {
+    "zhCN": "联系人",
+    "zhEN": "Contacts",
+    "zhTW": "連絡人"
+  },
+  {
+    "zhCN": "物流单号",
+    "zhEN": "Courier Number",
+    "zhTW": "物流單號"
+  },
+  {
+    "zhCN": "前后半小时",
+    "zhEN": "30 minutes ahead or later",
+    "zhTW": "前後半小時"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "全球SaaS加速",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球saas加速"
+  },
+  {
+    "zhCN": "收货人",
+    "zhEN": "Receiver",
+    "zhTW": "收貨人"
+  },
+  {
+    "zhCN": "带宽流量分析",
+    "zhEN": "Bandwidth Traffic",
+    "zhTW": "帶寬流量分析"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "流量压缩分析",
+    "zhEN": "Traffic Compression",
+    "zhTW": "流量壓縮分析"
+  },
+  {
+    "zhCN": "停用",
+    "zhEN": "Deactive",
+    "zhTW": "停用"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Select company.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "请输入硬件编号",
+    "zhEN": "Please enter the hardware number.",
+    "zhTW": "請輸入硬體編號"
+  },
+  {
+    "zhCN": "出库时间",
+    "zhEN": "Out Time",
+    "zhTW": "出庫時間"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "请输入开始日期",
+    "zhEN": "Please enter the start date.",
+    "zhTW": "請輸入開始日期"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "昵称",
+    "zhEN": "Nickname?",
+    "zhTW": "昵稱"
+  },
+  {
+    "zhCN": "请选择企业名称",
+    "zhEN": "Please choose Organization Name.",
+    "zhTW": "請選擇企業名稱"
+  },
+  {
+    "zhCN": "附件",
+    "zhEN": "Enclosure",
+    "zhTW": "附件"
+  },
+  {
+    "zhCN": "目标地址",
+    "zhEN": "Destination IP",
+    "zhTW": "目標地址"
+  },
+  {
+    "zhCN": "企业管理员账号",
+    "zhEN": "Organization administrator account",
+    "zhTW": "企業管理員帳號"
+  },
+  {
+    "zhCN": "dstPort",
+    "zhEN": "Destination Port",
+    "zhTW": "目標端口"
+  },
+  {
+    "zhCN": "请选择是否优先走MPLS线路",
+    "zhEN": "Please choose whether to take the MPLS line first.",
+    "zhTW": "請選擇是否優先走MPLS線路"
+  },
+  {
+    "zhCN": "未启用",
+    "zhEN": "Disabled",
+    "zhTW": "未啟用"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "srcPortInput",
+    "zhEN": "Please input the source port.",
+    "zhTW": "請輸入源端口"
+  },
+  {
+    "zhCN": "请输入收货地址",
+    "zhEN": "Please input the receipt address.",
+    "zhTW": "請輸入收貨地址"
+  },
+  {
+    "zhCN": "请输入联系人姓名",
+    "zhEN": "Please input the name of the contact person.",
+    "zhTW": "請輸入連絡人姓名"
+  },
+  {
+    "zhCN": "流量",
+    "zhEN": "Traffic",
+    "zhTW": "流量"
+  },
+  {
+    "zhCN": "试用",
+    "zhEN": "On trial",
+    "zhTW": "試用"
+  },
+  {
+    "zhCN": "添加4G使用机构",
+    "zhEN": "Add 4G Organization",
+    "zhTW": "添加4G使用機构"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "TWS信息",
+    "zhEN": "POP",
+    "zhTW": "TWS信息"
+  },
+  {
+    "zhCN": "已启用",
+    "zhEN": "Enabled",
+    "zhTW": "已啟用"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "请输入正确邮箱地址",
+    "zhEN": "Please input the correct email.",
+    "zhTW": "請輸入正確郵箱地址"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "型号",
+    "zhEN": "Model",
+    "zhTW": "型號"
+  },
+  {
+    "zhCN": "请输入物流公司",
+    "zhEN": "Please input express company.",
+    "zhTW": "請輸入物流公司"
+  },
+  {
+    "zhCN": "峰值负载率在",
+    "zhEN": "Peak loading rate",
+    "zhTW": "峰值負載率在"
+  },
+  {
+    "zhCN": "请选择机房",
+    "zhEN": "Please choose a IDC.",
+    "zhTW": "請選擇機房"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "签订时间",
+    "zhEN": "Signature Time",
+    "zhTW": "簽訂時間"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "国内组网",
+    "zhEN": "Domestic Intranet",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "计费链路数",
+    "zhEN": "Charge Links",
+    "zhTW": "計費鏈路數"
+  },
+  {
+    "zhCN": "正式",
+    "zhEN": "Formal",
+    "zhTW": "正式"
+  },
+  {
+    "zhCN": "openAclConfirm",
+    "zhEN": "Are you sure to enable the selected security configuration?",
+    "zhTW": "確認要啟用選中的安全配寘嗎"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "总带宽(M)",
+    "zhEN": "Total Bandwidth (M)",
+    "zhTW": "總帶寬（M）"
+  },
+  {
+    "zhCN": "功能配置",
+    "zhEN": "Functional Configuration",
+    "zhTW": "功能配寘"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "节点信息",
+    "zhEN": "Node information",
+    "zhTW": "節點信息"
+  },
+  {
+    "zhCN": "累计流量",
+    "zhEN": "Total traffic",
+    "zhTW": "累計流量"
+  },
+  {
+    "zhCN": "deleteFail",
+    "zhEN": "Delete failure",
+    "zhTW": "删除失敗"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "请输入企业名称",
+    "zhEN": "Please enter Organization Name.",
+    "zhTW": "請輸入企業名稱"
+  },
+  {
+    "zhCN": "链路数",
+    "zhEN": "Link Statistical",
+    "zhTW": "鏈路數"
+  },
+  {
+    "zhCN": "请选择客户状态",
+    "zhEN": "Please select the Customer Status.",
+    "zhTW": "請選擇客戶狀態"
+  },
+  {
+    "zhCN": "中心多线路",
+    "zhEN": "Core ISP",
+    "zhTW": "中心ISP配寘"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "edgeNode",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "frontPage",
+    "zhEN": "Dashboard"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "请输入目标IP/IP段",
+    "zhEN": "Please enter the destination IP/IP Segment.",
+    "zhTW": "請輸入目標IP/IP段"
+  },
+  {
+    "zhCN": "请上传xls类型文件",
+    "zhEN": "Please upload XLS  files.",
+    "zhTW": "請上傳xls類型檔案"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "请输入中心节点名称最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "請輸入中心節點名稱最多輸入128字元"
+  },
+  {
+    "zhCN": "账期清单",
+    "zhEN": "Monthly Checklist",
+    "zhTW": "賬期清單"
+  },
+  {
+    "zhCN": "备注最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "備註最多輸入128字元"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "国内加速",
+    "zhEN": "Domestic acceleration",
+    "zhTW": "國內加速"
+  },
+  {
+    "zhCN": "正式",
+    "zhEN": "Formal",
+    "zhTW": "正式"
+  },
+  {
+    "zhCN": "请选择所在城市",
+    "zhEN": "Please choose the city.",
+    "zhTW": "請選擇所在都市"
+  },
+  {
+    "zhCN": "全球SaaS加速",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球saas加速"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "IP/IP段",
+    "zhEN": "IP",
+    "zhTW": "IP/IP段"
+  },
+  {
+    "zhCN": "ISP配置",
+    "zhEN": "ISP Configuration",
+    "zhTW": "ISP配寘"
+  },
+  {
+    "zhCN": "启用后的Qos在列表中将显示为启用状态",
+    "zhEN": "Qos will be displayed in the list as enabled.",
+    "zhTW": "啟用後的Qos在清單中將顯示為啟用狀態"
+  },
+  {
+    "zhCN": "请选择运营商",
+    "zhEN": "Please select ISP.",
+    "zhTW": "請選擇運營商"
+  },
+  {
+    "zhCN": "开",
+    "zhEN": "ON",
+    "zhTW": "開"
+  },
+  {
+    "zhCN": "新增账号",
+    "zhEN": "New Account ",
+    "zhTW": "新增帳號"
+  },
+  {
+    "zhCN": "分时流量",
+    "zhEN": "Node Traffic",
+    "zhTW": "分時流量"
+  },
+  {
+    "zhCN": "请选择节点",
+    "zhEN": "Please select nodes.",
+    "zhTW": "請選擇節點"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "管理员账号",
+    "zhEN": "Administrator Account",
+    "zhTW": "管理員帳號"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "流量去重分析",
+    "zhEN": "Deduplication Traffic",
+    "zhTW": "流量去重分析"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "请选择目标端口组",
+    "zhEN": "Please select the destination port group.",
+    "zhTW": "請選擇目標端口組"
+  },
+  {
+    "zhCN": "计费类型",
+    "zhEN": "Charge Type",
+    "zhTW": "計費類型"
+  },
+  {
+    "zhCN": "历史流量",
+    "zhEN": "Historical Traffic",
+    "zhTW": "歷史流量"
+  },
+  {
+    "zhCN": "导入失败原因",
+    "zhEN": "Cause of import failure",
+    "zhTW": "導入失敗原因"
+  },
+  {
+    "zhCN": "请输入中心节点名称",
+    "zhEN": "Please enter the name of the center node.",
+    "zhTW": "請輸入中心節點名稱"
+  },
+  {
+    "zhCN": "请输入收货联系人",
+    "zhEN": "Please input the receiver.",
+    "zhTW": "請輸入收貨連絡人"
+  },
+  {
+    "zhCN": "链路负载率",
+    "zhEN": "Peak Load Rate",
+    "zhTW": "鏈路負載率"
+  },
+  {
+    "zhEN": "IP section prompt format: input in 1.1.1.1-1.1.1.10,1.1.1.0/24,1.1.1.1 format.",
+    "zhTW": "阿普裡馬克"
+  },
+  {
+    "zhCN": "不去重",
+    "zhEN": "Not Deduplication",
+    "zhTW": "不去重"
+  },
+  {
+    "zhCN": "源端口",
+    "zhEN": "Source Port",
+    "zhTW": "源端口"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "库存信息",
+    "zhEN": "Inventory",
+    "zhTW": "庫存信息"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "编辑自定义应用",
+    "zhEN": "Edit customized application",
+    "zhTW": "編輯自定義應用"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "Application Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "白名单配置",
+    "zhEN": "Whitelist",
+    "zhTW": "白名單配寘"
+  },
+  {
+    "zhCN": "deviceStat",
+    "zhEN": "Device Statistics",
+    "zhTW": "設備統計"
+  },
+  {
+    "zhCN": "中心",
+    "zhEN": "Centre",
+    "zhTW": "中心"
+  },
+  {
+    "zhCN": "构建网络",
+    "zhEN": "Design Network",
+    "zhTW": "構建網絡"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "编辑边缘节点",
+    "zhEN": "Edit Edge Node",
+    "zhTW": "編輯邊緣節點"
+  },
+  {
+    "zhCN": "日志详情",
+    "zhEN": "Detail Log",
+    "zhTW": "日誌詳情"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "CloudVPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "链路信息",
+    "zhEN": "Links",
+    "zhTW": "連結資訊"
+  },
+  {
+    "zhCN": "日志下发",
+    "zhEN": "Collect Logs",
+    "zhTW": "日誌下發"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "不计费链路数",
+    "zhEN": "Free Links",
+    "zhTW": "不計費鏈路數"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "账单名称",
+    "zhEN": "Billing",
+    "zhTW": "帳單名稱"
+  },
+  {
+    "zhCN": "请选择运营商",
+    "zhEN": "Please select ISP.",
+    "zhTW": "請選擇運營商"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "联系电话",
+    "zhEN": "Telephone",
+    "zhTW": "聯繫電話"
+  },
+  {
+    "zhCN": "请输入联系电话",
+    "zhEN": "Please input the telephone.",
+    "zhTW": "請輸入聯繫電話"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "CloudVPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "QoS配置",
+    "zhEN": "QoS",
+    "zhTW": "QoS配寘"
+  },
+  {
+    "zhCN": "IP段的提示格式：用 1",
+    "zhEN": "IP section prompt format: input in 1.1.1.1-1.1.1.10,1.1.1.0/24,1.1.1.1 format.",
+    "zhTW": "IP段的提示格式：用1.1.1.1-1.1.1.10,1.1.1.0/24,1.1.1.1的格式輸入"
+  },
+  {
+    "zhCN": "边缘",
+    "zhEN": "Edge",
+    "zhTW": "邊緣"
+  },
+  {
+    "zhCN": "请选择技术支持",
+    "zhEN": "Please select technical support.",
+    "zhTW": "請選擇技術支援"
+  },
+  {
+    "zhCN": "所在国家",
+    "zhEN": "Country",
+    "zhTW": "所在國家"
+  },
+  {
+    "zhCN": "型号",
+    "zhEN": "Model",
+    "zhTW": "型號"
+  },
+  {
+    "zhCN": "企业名称最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "企業名稱最多輸入128字元"
+  },
+  {
+    "zhCN": "请输入电子邮箱",
+    "zhEN": "Please input e-mail.",
+    "zhTW": "請輸入電子郵箱"
+  },
+  {
+    "zhCN": "边缘节点名称最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "邊緣節點名稱最多輸入128字元"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "批量添加",
+    "zhEN": "Batch Add",
+    "zhTW": "批量添加"
+  },
+  {
+    "zhCN": "取消",
+    "zhEN": "Cancel",
+    "zhTW": "取消"
+  },
+  {
+    "zhCN": "联系电话",
+    "zhEN": "Telephone",
+    "zhTW": "聯繫電話"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "添加组",
+    "zhEN": "Add Group",
+    "zhTW": "添加組"
+  },
+  {
+    "zhCN": "设备总数",
+    "zhEN": "Total Device",
+    "zhTW": "設備總數"
+  },
+  {
+    "zhCN": "本月流量",
+    "zhEN": "Monthly Traffic",
+    "zhTW": "本月流量"
+  },
+  {
+    "zhCN": "超级云专线",
+    "zhEN": "Extremely Cloud Line",
+    "zhTW": "超級雲專線"
+  },
+  {
+    "zhCN": "联系人姓名",
+    "zhEN": "Contact Name",
+    "zhTW": "連絡人姓名"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "status",
+    "zhEN": "State",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请选择设备类型",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備類型"
+  },
+  {
+    "zhCN": "编辑物流信息",
+    "zhEN": "Editing logistics information",
+    "zhTW": "編輯物流信息"
+  },
+  {
+    "zhCN": "联系电话最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "聯繫電話最多輸入128字元"
+  },
+  {
+    "zhCN": "显示排行榜",
+    "zhEN": "Ranking List",
+    "zhTW": "顯示排行榜"
+  },
+  {
+    "zhCN": "编辑企业",
+    "zhEN": "Edit",
+    "zhTW": "編輯企業"
+  },
+  {
+    "zhCN": "新建账单",
+    "zhEN": "New Bill",
+    "zhTW": "新建帳單"
+  },
+  {
+    "zhCN": "close",
+    "zhEN": "Disable",
+    "zhTW": "禁用"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation Time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "IP分组名称最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "IP分組名稱最多輸入50字元"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "计费模式",
+    "zhEN": "Billing Type",
+    "zhTW": "計費模式"
+  },
+  {
+    "zhCN": "停用",
+    "zhEN": "Deactive",
+    "zhTW": "停用"
+  },
+  {
+    "zhCN": "链路总数",
+    "zhEN": "Total Link",
+    "zhTW": "鏈路總數"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "下发升级任务",
+    "zhEN": "Upgrade mission",
+    "zhTW": "下發陞級任務"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请输入应用名称",
+    "zhEN": "Please input the application name.",
+    "zhTW": "請輸入應用名稱"
+  },
+  {
+    "zhCN": "总链路",
+    "zhEN": "Total Link",
+    "zhTW": "總鏈路"
+  },
+  {
+    "zhCN": "dedupRate",
+    "zhEN": "Are you sure to modify the selected security configuration?",
+    "zhTW": "確認要修改所選中安全配寘嗎"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "24小时警报",
+    "zhEN": "24h alarms",
+    "zhTW": "24小時警報"
+  },
+  {
+    "zhCN": "关闭",
+    "zhEN": "Close",
+    "zhTW": "关闭"
+  },
+  {
+    "zhCN": "硬件编号",
+    "zhEN": "Hardware Number",
+    "zhTW": "硬體編號"
+  },
+  {
+    "zhCN": "节点分组",
+    "zhEN": "Node grouping",
+    "zhTW": "節點分組"
+  },
+  {
+    "zhCN": "组网",
+    "zhEN": "Network",
+    "zhTW": "組網"
+  },
+  {
+    "zhCN": "库存管理",
+    "zhEN": "Manage Inventory",
+    "zhTW": "庫存管理"
+  },
+  {
+    "zhCN": "编辑IP分组",
+    "zhEN": "Edit IP group",
+    "zhTW": "編輯IP分組"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "合同信息",
+    "zhEN": "Contracts",
+    "zhTW": "契约信息"
+  },
+  {
+    "zhCN": "请选择设备类型",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備類型"
+  },
+  {
+    "zhCN": "status",
+    "zhEN": "State",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "linkName",
+    "zhEN": "Link Name",
+    "zhTW": "鏈路名稱"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "请选择类别",
+    "zhEN": "Please Select Categories.",
+    "zhTW": "請選擇類別"
+  },
+  {
+    "zhCN": "设备信息",
+    "zhEN": "Devices",
+    "zhTW": "設備信息"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "请输入流量",
+    "zhEN": "Please input traffic.",
+    "zhTW": "請輸入流量"
+  },
+  {
+    "zhCN": "请输入IP分组描述",
+    "zhEN": "Please input IP group description.",
+    "zhTW": "請輸入IP分組描述"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation Time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "请输入源端口",
+    "zhEN": "Please input the source port.",
+    "zhTW": "請輸入源端口"
+  },
+  {
+    "zhCN": "本月流量",
+    "zhEN": "Monthly Traffic",
+    "zhTW": "本月流量"
+  },
+  {
+    "zhCN": "正式",
+    "zhEN": "Formal",
+    "zhTW": "正式"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "不限制",
+    "zhEN": "Unrestricted",
+    "zhTW": "不限制"
+  },
+  {
+    "zhCN": "domesticNet",
+    "zhEN": "Domestic Network",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "请选择套餐类型",
+    "zhEN": "Please choose package type.",
+    "zhTW": "請選擇套餐類型"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "Application Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "log详情_",
+    "zhEN": "Detail Log_",
+    "zhTW": "日志詳情"
+  },
+  {
+    "zhCN": "智能去重",
+    "zhEN": "Intelligent Deduplication",
+    "zhTW": "智慧去重"
+  },
+  {
+    "zhCN": "点击下载",
+    "zhEN": "Click downloads",
+    "zhTW": "點擊下載"
+  },
+  {
+    "zhCN": "流量分时统计",
+    "zhEN": "Node Traffic",
+    "zhTW": "流量分時統計"
+  },
+  {
+    "zhCN": "请选择设备类型",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備類型"
+  },
+  {
+    "zhCN": "峰值负载率分析",
+    "zhEN": "Peak Loading Rate Analysis",
+    "zhTW": "峰值負載率区间"
+  },
+  {
+    "zhCN": "云专线",
+    "zhEN": "Special Cloud Line",
+    "zhTW": "雲專線"
+  },
+  {
+    "zhCN": "去重",
+    "zhEN": "Deduplication",
+    "zhTW": "去重"
+  },
+  {
+    "zhCN": "添加节点",
+    "zhEN": "Add node",
+    "zhTW": "添加節點"
+  },
+  {
+    "zhCN": "请选择边缘节点设备",
+    "zhEN": "Please select Edge Node device.",
+    "zhTW": "請選擇邊緣節點設備"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "请输入收货地址",
+    "zhEN": "Please input the receipt address.",
+    "zhTW": "請輸入收貨地址"
+  },
+  {
+    "zhCN": "请选择选路方式",
+    "zhEN": "Please choose route selection.",
+    "zhTW": "請選擇選路管道"
+  },
+  {
+    "zhCN": "本期数据汇总",
+    "zhEN": "Data Summary",
+    "zhTW": "本期數據匯總"
+  },
+  {
+    "zhCN": "国内组网",
+    "zhEN": "Domestic Intranet",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "备中心",
+    "zhEN": "Standby Center",
+    "zhTW": "備中心"
+  },
+  {
+    "zhCN": "编辑链路",
+    "zhEN": "Edit link",
+    "zhTW": "編輯鏈路"
+  },
+  {
+    "zhCN": "前后12小时",
+    "zhEN": "12 hours ahead or later",
+    "zhTW": "前後12小時"
+  },
+  {
+    "zhCN": "请输入企业简称",
+    "zhEN": "Please enter organization abbreviation.",
+    "zhTW": "請輸入企業簡稱"
+  },
+  {
+    "zhCN": "请输入职务",
+    "zhEN": "Please enter your job.",
+    "zhTW": "請輸入職務"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "Cloud VPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "请选择搜索企业",
+    "zhEN": "Please select organization.",
+    "zhTW": "請選擇搜索企業"
+  },
+  {
+    "zhCN": "最多输入256字符",
+    "zhEN": "Cannot exceed 256 characters.",
+    "zhTW": "最多輸入256字元"
+  },
+  {
+    "zhCN": "请输入正确IP格式",
+    "zhEN": "Please input the correct IP format.",
+    "zhTW": "請輸入正確IP格式"
+  },
+  {
+    "zhCN": "端口",
+    "zhEN": "Port",
+    "zhTW": "埠"
+  },
+  {
+    "zhCN": "statusSelect",
+    "zhEN": "Please select status.",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "IP地址",
+    "zhEN": "IP",
+    "zhTW": "IP地址"
+  },
+  {
+    "zhCN": "电子邮箱",
+    "zhEN": "Mail",
+    "zhTW": "電子郵箱"
+  },
+  {
+    "zhCN": "黑名单配置",
+    "zhEN": "Blacklist",
+    "zhTW": "黑名單配寘"
+  },
+  {
+    "zhCN": "编辑4G使用机构",
+    "zhEN": "Edit 4G usage organization",
+    "zhTW": "編輯4G使用機构"
+  },
+  {
+    "zhCN": "企业简称",
+    "zhEN": "Abbreviation",
+    "zhTW": "企業簡稱"
+  },
+  {
+    "zhCN": "链路信息",
+    "zhEN": "Links",
+    "zhTW": "連結資訊"
+  },
+  {
+    "zhCN": "构建网络节点",
+    "zhEN": "Design Network",
+    "zhTW": "構建網絡節點"
+  },
+  {
+    "zhCN": "无",
+    "zhEN": "Nothing",
+    "zhTW": "無"
+  },
+  {
+    "zhCN": "企业信息",
+    "zhEN": "Organization",
+    "zhTW": "企業信息"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "请选择运营商",
+    "zhEN": "Please select ISP.",
+    "zhTW": "請選擇運營商"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start Time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "节点分组",
+    "zhEN": "Node Group",
+    "zhTW": "節點分組"
+  },
+  {
+    "zhCN": "智能压缩",
+    "zhEN": "Intelligent Compression",
+    "zhTW": "智慧壓縮"
+  },
+  {
+    "zhCN": "路径",
+    "zhEN": "Route",
+    "zhTW": "路徑"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请输入密码",
+    "zhEN": "Please input a password",
+    "zhTW": "請輸入密碼"
+  },
+  {
+    "zhCN": "收货联系人",
+    "zhEN": "Receiver",
+    "zhTW": "收貨連絡人"
+  },
+  {
+    "zhCN": "云VPN",
+    "zhEN": "云VPN",
+    "zhTW": "雲VPN"
+  },
+  {
+    "zhCN": "范围的链路",
+    "zhEN": "Range link",
+    "zhTW": "範圍的鏈路"
+  },
+  {
+    "zhCN": "端口分组",
+    "zhEN": "Port Group",
+    "zhTW": "端口分組"
+  },
+  {
+    "zhCN": "请输入IP分组名称",
+    "zhEN": "Please enter the name of the IP group.",
+    "zhTW": "請輸入IP分組名稱"
+  },
+  {
+    "zhCN": "账期",
+    "zhEN": "Account Period",
+    "zhTW": "賬期"
+  },
+  {
+    "zhCN": "详情",
+    "zhEN": "Details",
+    "zhTW": "詳情"
+  },
+  {
+    "zhCN": "请选择链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "請選擇連結類型"
+  },
+  {
+    "zhCN": "4G流量管理",
+    "zhEN": "4G Traffic",
+    "zhTW": "4G流量管理"
+  },
+  {
+    "zhCN": "备链路名称",
+    "zhEN": "Backup link name",
+    "zhTW": "備鏈路名稱"
+  },
+  {
+    "zhCN": "新增TWS",
+    "zhEN": "New POP",
+    "zhTW": "新增TWS"
+  },
+  {
+    "zhCN": "不支持",
+    "zhEN": "Unsupport",
+    "zhTW": "不支持"
+  },
+  {
+    "zhCN": "请选择月份",
+    "zhEN": "Please choose month",
+    "zhTW": "請選擇月份"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "没有模板",
+    "zhEN": "No template",
+    "zhTW": "沒有範本"
+  },
+  {
+    "zhCN": "我的设备",
+    "zhEN": "My Devices",
+    "zhTW": "我的設備"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "外网IP",
+    "zhEN": "External network IP",
+    "zhTW": "外網IP"
+  },
+  {
+    "zhCN": "企业",
+    "zhEN": "Organization",
+    "zhTW": "企業"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "链路管理",
+    "zhEN": "Links",
+    "zhTW": "鏈路管理"
+  },
+  {
+    "zhCN": "信息",
+    "zhEN": "Information",
+    "zhTW": "信息"
+  },
+  {
+    "zhCN": "基本信息",
+    "zhEN": "Essential Information",
+    "zhTW": "基本資訊"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请选择是否自动分配",
+    "zhEN": "Please choose whether to use automatically.",
+    "zhTW": "請選擇是否自動分配"
+  },
+  {
+    "zhCN": "关",
+    "zhEN": "OFF",
+    "zhTW": "關"
+  },
+  {
+    "zhCN": "流量分析",
+    "zhEN": "Traffic Analysis",
+    "zhTW": "流量分析"
+  },
+  {
+    "zhCN": "操作系统",
+    "zhEN": "Operating System",
+    "zhTW": "作業系統"
+  },
+  {
+    "zhCN": "对象分组",
+    "zhEN": "Manage Object",
+    "zhTW": "對象分組"
+  },
+  {
+    "zhCN": "流量分时统计",
+    "zhEN": "Node Traffic",
+    "zhTW": "流量分時統計"
+  },
+  {
+    "zhCN": "月报表",
+    "zhEN": "Monthly Report",
+    "zhTW": "月報表"
+  },
+  {
+    "zhCN": "所在节点",
+    "zhEN": "Node",
+    "zhTW": "所在節點"
+  },
+  {
+    "zhCN": "自定义平台应用",
+    "zhEN": "Customized Platform APP",
+    "zhTW": "自定義平臺應用"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "添加机房信息",
+    "zhEN": "Adding IDC information",
+    "zhTW": "添加機房信息"
+  },
+  {
+    "zhCN": "IP分组",
+    "zhEN": "IP Group",
+    "zhTW": "IP分組"
+  },
+  {
+    "zhCN": "系统配置",
+    "zhEN": "Configuration",
+    "zhTW": "系統配寘"
+  },
+  {
+    "zhCN": "全球组网",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "确认",
+    "zhEN": "Confirm",
+    "zhTW": "確認"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "没有模板",
+    "zhEN": "No template",
+    "zhTW": "沒有範本"
+  },
+  {
+    "zhCN": "无",
+    "zhEN": "Nothing",
+    "zhTW": "無"
+  },
+  {
+    "zhCN": "周报表",
+    "zhEN": "Weekly Report",
+    "zhTW": "周報表"
+  },
+  {
+    "zhCN": "请上传xls类型文件",
+    "zhEN": "Please upload XLS files.",
+    "zhTW": "請上傳xls類型檔案"
+  },
+  {
+    "zhCN": "发生时间",
+    "zhEN": "Time",
+    "zhTW": "發生時間"
+  },
+  {
+    "zhCN": "提示:批量导入的文件必须使用提供的模板才能成功",
+    "zhEN": "Hint: the files imported in batch must be provided with the template document.",
+    "zhTW": "提示：批量導入的檔案必須使用提供的範本才能成功"
+  },
+  {
+    "zhCN": "请输入IP段",
+    "zhEN": "Please enter IP Segment.",
+    "zhTW": "請輸入IP段"
+  },
+  {
+    "zhCN": "未预定",
+    "zhEN": "Unreserved",
+    "zhTW": "未預定"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "端口",
+    "zhEN": "Port",
+    "zhTW": "埠"
+  },
+  {
+    "zhCN": "节点类型",
+    "zhEN": "Node Type",
+    "zhTW": "節點類型"
+  },
+  {
+    "zhCN": "请输入代码",
+    "zhEN": "Please input code.",
+    "zhTW": "請輸入代碼"
+  },
+  {
+    "zhCN": "本企业所有链路峰值负载率清单",
+    "zhEN": "List of all link peak loading rates of our organization",
+    "zhTW": "本企業所有鏈路峰值負載率清單"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请选择客户状态",
+    "zhEN": "Please select the customer status.",
+    "zhTW": "請選擇客戶狀態"
+  },
+  {
+    "zhCN": "前后3天",
+    "zhEN": "3 days ahead or later",
+    "zhTW": "前後3天"
+  },
+  {
+    "zhCN": "峰值负载率",
+    "zhEN": "Peak Loading Rate",
+    "zhTW": "峰值負載率"
+  },
+  {
+    "zhCN": "操作日志",
+    "zhEN": "Event Log",
+    "zhTW": "操作日誌"
+  },
+  {
+    "zhCN": "告警信息",
+    "zhEN": "Alarms",
+    "zhTW": "告警資訊"
+  },
+  {
+    "zhCN": "设备更换",
+    "zhEN": "Exchange Device",
+    "zhTW": "設備更換"
+  },
+  {
+    "zhCN": "链路带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "連結頻寬"
+  },
+  {
+    "zhCN": "链路峰值负载率",
+    "zhEN": "Peak Loading Rate",
+    "zhTW": "連結峰值負載率"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link Status",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "设备状态",
+    "zhEN": "Device Status",
+    "zhTW": "設備狀態"
+  },
+  {
+    "zhCN": "小计",
+    "zhEN": "Total",
+    "zhTW": "小計"
+  },
+  {
+    "zhCN": "链路警告",
+    "zhEN": "Link Alarms",
+    "zhTW": "連結警告"
+  },
+  {
+    "zhCN": "设备警告",
+    "zhEN": "Device Alarms",
+    "zhTW": "設備警告"
+  },
+  {
+    "zhCN": "设备库存",
+    "zhEN": "Device Stock",
+    "zhTW": "設備庫存"
+  },
+  {
+    "zhCN": "可用量",
+    "zhEN": "Available Stock",
+    "zhTW": "可用量"
+  },
+  {
+    "zhCN": "已预定量",
+    "zhEN": "Reserved Stock",
+    "zhTW": "已预定量"
+  },
+  {
+    "zhCN": "库存总量",
+    "zhEN": "Total Stock",
+    "zhTW": "库存总量"
+  },
+  {
+    "zhCN": "返回官网",
+    "zhEN": "GlobalSDN.com",
+    "zhTW": "返回官網"
+  },
+  {
+    "zhCN": "SD-WAN综合管理平台",
+    "zhEN": "Ultimate SD-WAN Manager",
+    "zhTW": "SD-WAN綜合管理平臺"
+  },
+  {
+    "zhCN": "请输入用户名",
+    "zhEN": "Please enter user name",
+    "zhTW": "請輸入用戶名"
+  },
+  {
+    "zhCN": "请输入密码",
+    "zhEN": "Please enter your password",
+    "zhTW": "請輸入密碼"
+  },
+  {
+    "zhCN": "请输入验证码",
+    "zhEN": "Verification Code",
+    "zhTW": "請輸入驗證碼"
+  },
+  {
+    "zhCN": "忘记密码",
+    "zhEN": "Forget Password",
+    "zhTW": "忘記密碼"
+  },
+  {
+    "zhCN": "登录",
+    "zhEN": "Login",
+    "zhTW": "登入"
+  },
+  {
+    "zhCN": "极致互联",
+    "zhEN": "Ultimate Networks",
+    "zhTW": "極致互聯"
+  },
+  {
+    "zhCN": "浙ICP备17059766号",
+    "zhEN": "ICP NO.17059766",
+    "zhTW": "浙ICP備17059766號"
+  },
+  {
+    "zhCN": "记住密码",
+    "zhEN": "Remember Me",
+    "zhTW": "記住密碼"
+  },
+  {
+    "zhCN": "继续登录",
+    "zhEN": "Back Login",
+    "zhTW": "繼續登入"
+  },
+  {
+    "zhCN": "SD-WAN综合管理平台",
+    "zhEN": "Ultimate SD-WAN Manager",
+    "zhTW": "SD-WAN綜合管理平臺"
+  },
+  {
+    "zhCN": "请输入邮箱",
+    "zhEN": "Please enter your E-mail Address",
+    "zhTW": "請輸入郵箱"
+  },
+  {
+    "zhCN": "请输入验证码",
+    "zhEN": "Verification Code",
+    "zhTW": "請輸入驗證碼"
+  },
+  {
+    "zhCN": "极致互联",
+    "zhEN": "Ultimate Networks",
+    "zhTW": "極致互聯"
+  },
+  {
+    "zhCN": "浙ICP备17059766号",
+    "zhEN": "ICP NO.17059766",
+    "zhTW": "浙ICP備17059766號"
+  },
+  {
+    "zhCN": "立即验证",
+    "zhEN": "Reset Password",
+    "zhTW": "立即驗證"
+  },
+  {
+    "zhCN": "设备迁移",
+    "zhEN": "Device Migration",
+    "zhTW": "設備遷移"
+  },
+  {
+    "zhCN": "确认要更换设备吗?",
+    "zhEN": "Please confirm  to replace the device?",
+    "zhTW": "確認要更換設備嗎？"
+  },
+  {
+    "zhCN": "请输入设备名称",
+    "zhEN": "Please input the device name",
+    "zhTW": "請輸入裝置名稱"
+  },
+  {
+    "zhCN": "请输入设备名称最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "請輸入設備名稱最多輸入128字元"
+  },
+  {
+    "zhCN": "目前节点名称",
+    "zhEN": "Current Node",
+    "zhTW": "現時節點名稱"
+  },
+  {
+    "zhCN": "请选择目标节点名称",
+    "zhEN": "Please select the destination node name",
+    "zhTW": "請選擇目標節點名稱"
+  },
+  {
+    "zhCN": "目标节点名称",
+    "zhEN": "Destination Node",
+    "zhTW": "目標節點名稱"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select device model",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "确定要回收该设备吗?",
+    "zhEN": "Are you sure to take back device?",
+    "zhTW": "確定要回收該設備嗎?"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "账号",
+    "zhEN": "Account",
+    "zhTW": "帳號"
+  },
+  {
+    "zhCN": "用户角色",
+    "zhEN": "User Role",
+    "zhTW": "用户角色"
+  },
+  {
+    "zhCN": "姓名",
+    "zhEN": "Name",
+    "zhTW": "姓名"
+  },
+  {
+    "zhCN": "动作",
+    "zhEN": "Action",
+    "zhTW": "动作"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "请选择至少一项",
+    "zhEN": "Please choose at least one item.",
+    "zhTW": "請選擇至少一項"
+  },
+  {
+    "zhCN": "新消息",
+    "zhEN": "New",
+    "zhTW": "新消息"
+  },
+  {
+    "zhCN": "历史消息",
+    "zhEN": "History",
+    "zhTW": "歷史消息"
+  },
+  {
+    "zhCN": "链路",
+    "zhEN": "Link",
+    "zhTW": "連結"
+  },
+  {
+    "zhCN": "设备",
+    "zhEN": "Device",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "类型",
+    "zhEN": "Type",
+    "zhTW": "類型"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "对象",
+    "zhEN": "Link&Device",
+    "zhTW": "對象"
+  },
+  {
+    "zhCN": "详细描述",
+    "zhEN": "Remarks",
+    "zhTW": "詳細描述"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Operation",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "处理",
+    "zhEN": "Deal",
+    "zhTW": "處理"
+  },
+  {
+    "zhCN": "忽略",
+    "zhEN": "Ignore",
+    "zhTW": "忽略"
+  },
+  {
+    "zhCN": "详情",
+    "zhEN": "Remarks",
+    "zhTW": "詳情"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Instructions",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "请输入说明",
+    "zhEN": "Please Input Instructions",
+    "zhTW": "請輸入說明"
+  },
+  {
+    "zhCN": "说明最多不超过256字符",
+    "zhEN": "Enter 256 characters at most.",
+    "zhTW": "說明最多不超過256字元"
+  },
+  {
+    "zhCN": "消息处理",
+    "zhEN": "Deal Alarm",
+    "zhTW": "消息處理"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "重启step_main服务",
+    "zhEN": "Restart step_main service",
+    "zhTW": "重啓step_main服務"
+  },
+  {
+    "zhCN": "获取step_main日志",
+    "zhEN": "Get step_main log",
+    "zhTW": "獲取step_main日誌"
+  },
+  {
+    "zhCN": "重启dyagent服务",
+    "zhEN": "Restart dyagent service",
+    "zhTW": "重啓dyagent服務"
+  },
+  {
+    "zhCN": "获取dyagent日志",
+    "zhEN": "Get dyagent log",
+    "zhTW": "獲取dyagent日誌"
+  },
+  {
+    "zhCN": "关闭Debug日志",
+    "zhEN": "Close debug log",
+    "zhTW": "關閉Debug日誌"
+  },
+  {
+    "zhCN": "开启Debug日志",
+    "zhEN": "Open debug log",
+    "zhTW": "開啟Debug日誌"
+  },
+  {
+    "zhCN": "请输入验证密码",
+    "zhEN": "Please enter your password",
+    "zhTW": "請輸入驗證密碼"
+  },
+  {
+    "zhCN": "请输入密码",
+    "zhEN": "Enter password",
+    "zhTW": "請輸入密碼"
+  },
+  {
+    "zhCN": "请选择对象",
+    "zhEN": "Select ",
+    "zhTW": "請選擇對象"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "请选择类型",
+    "zhEN": "Please Select type",
+    "zhTW": "請選擇類型"
+  },
+  {
+    "zhCN": "批量忽略",
+    "zhEN": "Batch Ignore",
+    "zhTW": "批量忽略"
+  },
+  {
+    "zhCN": "密码",
+    "zhEN": "password",
+    "zhTW": "密碼"
+  },
+  {
+    "zhCN": "用户名",
+    "zhEN": "username",
+    "zhTW": "用戶名"
+  },
+  {
+    "zhCN": "优先级资源配置比例",
+    "zhEN": "Priority Ratio",
+    "zhTW": "優先順序資源配置比例"
+  },
+  {
+    "zhCN": "请输入优先级比例",
+    "zhEN": "Please enter priority ratio ",
+    "zhTW": "請輸入優先順序比例"
+  },
+  {
+    "zhCN": "确认要删除选中项吗?",
+    "zhEN": "Please confirm to delete selected items?",
+    "zhTW": "確認要删除選中項嗎?"
+  },
+  {
+    "zhCN": "请选择至少一项",
+    "zhEN": "Please choose at least one item.",
+    "zhTW": "請選擇至少一項"
+  },
+  {
+    "zhCN": "已关闭",
+    "zhEN": "Closed",
+    "zhTW": "已关闭"
+  },
+  {
+    "zhCN": "已开启",
+    "zhEN": "Open",
+    "zhTW": "已开启"
+  },
+  {
+    "zhCN": "更改状态",
+    "zhEN": "Switch Status",
+    "zhTW": "更改状态"
+  },
+  {
+    "zhCN": "智能压缩切换",
+    "zhEN": "Switch Intelligent Compression",
+    "zhTW": "智能压缩切换"
+  },
+  {
+    "zhCN": "智能压缩",
+    "zhEN": "Status",
+    "zhTW": "智慧壓縮"
+  },
+  {
+    "zhCN": "开启",
+    "zhEN": "Open",
+    "zhTW": "开启"
+  },
+  {
+    "zhCN": "关闭",
+    "zhEN": "Close",
+    "zhTW": "关闭"
+  },
+  {
+    "zhCN": "确定删除当前信息?",
+    "zhEN": "Are you sure to delete this item?",
+    "zhTW": "確定删除當前資訊？"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "时间段",
+    "zhEN": "Time",
+    "zhTW": "時間段"
+  },
+  {
+    "zhCN": "流量概况",
+    "zhEN": "General",
+    "zhTW": "流量概況"
+  },
+  {
+    "zhCN": "应用排行榜",
+    "zhEN": "App Rank",
+    "zhTW": "應用排行榜"
+  },
+  {
+    "zhCN": "用户排行榜",
+    "zhEN": "User Rank",
+    "zhTW": "用戶排行榜"
+  },
+  {
+    "zhCN": "流量占比",
+    "zhEN": "Octets(%)",
+    "zhTW": "流量占比"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please enter keywords",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "用户流量详情",
+    "zhEN": "User Traffic Details",
+    "zhTW": "用戶流量詳情"
+  },
+  {
+    "zhCN": "用户IP地址",
+    "zhEN": "User Ip",
+    "zhTW": "用戶IP地址"
+  },
+  {
+    "zhCN": "至",
+    "zhEN": "-",
+    "zhTW": "至"
+  },
+  {
+    "zhCN": "应用排名",
+    "zhEN": "App Rank",
+    "zhTW": "應用排名"
+  },
+  {
+    "zhCN": "日流量趋势图",
+    "zhEN": "Daily Traffic Chart",
+    "zhTW": "日流量趨勢圖"
+  },
+  {
+    "zhCN": "流量",
+    "zhEN": "flow",
+    "zhTW": "流量"
+  },
+  {
+    "zhCN": "流量分布明细",
+    "zhEN": "Traffic Distribution Detials",
+    "zhTW": "流量分佈明細"
+  },
+  {
+    "zhCN": "流量大小",
+    "zhEN": "octets",
+    "zhTW": "流量大小"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "流量类型",
+    "zhEN": "Type",
+    "zhTW": "流量類型"
+  },
+  {
+    "zhCN": "应用流量详情",
+    "zhEN": "App Traffic Details",
+    "zhTW": "應用流量詳情"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "App Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "请选择数据条数",
+    "zhEN": "Please select data numbers.",
+    "zhTW": "請選擇數據條數"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "MAC地址",
+    "zhEN": "MAC Address",
+    "zhTW": "MAC地址"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "日流量",
+    "zhEN": "Daily Flow",
+    "zhTW": "日流量"
+  },
+  {
+    "zhCN": "密码已修改,请重新登录",
+    "zhEN": "Password has been changed, please login again",
+    "zhTW": "密碼已修改，請重新登入"
+  },
+  {
+    "zhCN": "确定删除该部门吗",
+    "zhEN": "Confirm to delete department",
+    "zhTW": "確定删除該部門嗎"
+  },
+  {
+    "zhCN": "账号",
+    "zhEN": "Account",
+    "zhTW": "帳號"
+  },
+  {
+    "zhCN": "角色",
+    "zhEN": "Role",
+    "zhTW": "角色"
+  },
+  {
+    "zhCN": "hello",
+    "zhEN": "Hello",
+    "zhTW": "你好"
+  },
+  {
+    "zhCN": "管理员",
+    "zhEN": "Administrator",
+    "zhTW": "管理員"
+  },
+  {
+    "zhCN": "运维",
+    "zhEN": "Operation Engineer",
+    "zhTW": "運維"
+  },
+  {
+    "zhCN": "商务",
+    "zhEN": "Sales",
+    "zhTW": "商務"
+  },
+  {
+    "zhCN": "客户",
+    "zhEN": "Customer",
+    "zhTW": "客户"
+  },
+  {
+    "zhCN": "商务主管",
+    "zhEN": "Sales Administrator",
+    "zhTW": "商務主管"
+  },
+  {
+    "zhCN": "技术支持主管",
+    "zhEN": "Tech Support Administrator",
+    "zhTW": "技術支援主管"
+  },
+  {
+    "zhCN": "姓名",
+    "zhEN": "Name",
+    "zhTW": "姓名"
+  },
+  {
+    "zhCN": "所属部门",
+    "zhEN": "Department",
+    "zhTW": "所屬部門"
+  },
+  {
+    "zhCN": "联系方式",
+    "zhEN": "Telephone",
+    "zhTW": "聯繫方式"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "禁用",
+    "zhEN": "Forbid",
+    "zhTW": "禁用"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Operation",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "密码重置",
+    "zhEN": "Reset Password",
+    "zhTW": "密碼重置"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Open",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "修改密码",
+    "zhEN": "Edit Password",
+    "zhTW": "修改密碼"
+  },
+  {
+    "zhCN": "账号管理",
+    "zhEN": "Account Management",
+    "zhTW": "帳號管理"
+  },
+  {
+    "zhCN": "组织架构",
+    "zhEN": "Organizational",
+    "zhTW": "組織架構"
+  },
+  {
+    "zhCN": "添加公司",
+    "zhEN": "Add",
+    "zhTW": "添加公司"
+  },
+  {
+    "zhCN": "技术支持",
+    "zhEN": "Tech Support",
+    "zhTW": "技術支援"
+  },
+  {
+    "zhCN": "用户名",
+    "zhEN": "username",
+    "zhTW": "用戶名"
+  },
+  {
+    "zhCN": "登出",
+    "zhEN": "Logout",
+    "zhTW": "退出"
+  },
+  {
+    "zhCN": "操作日志",
+    "zhEN": "Event Log",
+    "zhTW": "操作日誌"
+  },
+  {
+    "zhCN": "请选择角色",
+    "zhEN": "Role",
+    "zhTW": "請選擇角色"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "修改联系人",
+    "zhEN": "Edit Account",
+    "zhTW": "修改連絡人"
+  },
+  {
+    "zhCN": "新增联系人",
+    "zhEN": "Add Account",
+    "zhTW": "新增連絡人"
+  },
+  {
+    "zhCN": "新增部门",
+    "zhEN": "Add Department",
+    "zhTW": "新增部門"
+  },
+  {
+    "zhCN": "编辑部门",
+    "zhEN": "Edit Department",
+    "zhTW": "編輯部門"
+  },
+  {
+    "zhCN": "请输入部门名称",
+    "zhEN": "Please enter department name",
+    "zhTW": "請輸入部門名稱"
+  },
+  {
+    "zhCN": "部门名称",
+    "zhEN": "Department",
+    "zhTW": "部門名稱"
+  },
+  {
+    "zhCN": "密码管理",
+    "zhEN": "Password Management",
+    "zhTW": "密碼管理"
+  },
+  {
+    "zhCN": "新密码",
+    "zhEN": "new password",
+    "zhTW": "新密碼"
+  },
+  {
+    "zhCN": "请输入新密码",
+    "zhEN": "please input new password",
+    "zhTW": "請輸入新密碼"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "ROOT密码",
+    "zhEN": "ROOT Password",
+    "zhTW": "ROOT密碼"
+  },
+  {
+    "zhCN": "最后一次更新时间",
+    "zhEN": "Last Update Time",
+    "zhTW": "最後一次更新時間"
+  },
+  {
+    "zhCN": "确认要更新该设备密码吗?",
+    "zhEN": "Please confirm to update device's password?",
+    "zhTW": "確認要更新該設備密碼嗎?"
+  },
+  {
+    "zhCN": "批量更新密码",
+    "zhEN": "Batch Update Password",
+    "zhTW": "批量更新密碼"
+  },
+  {
+    "zhCN": "手动更新全部密码",
+    "zhEN": "Manually Update All Password ",
+    "zhTW": "手動更新全部密碼"
+  },
+  {
+    "zhCN": "如需更新所有设备密码,请输入账户密码",
+    "zhEN": "Password is need for updating all devices password",
+    "zhTW": "如需更新所有設備密碼，請輸入帳戶密碼"
+  },
+  {
+    "zhCN": "请输入密码",
+    "zhEN": "Please enter password",
+    "zhTW": "請輸入密碼"
+  },
+  {
+    "zhCN": "changePwd",
+    "zhEN": "Edit Password",
+    "zhTW": "修改密碼"
+  },
+  {
+    "zhCN": "logout",
+    "zhEN": "logout",
+    "zhTW": "退出"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "用户角色",
+    "zhEN": "Role",
+    "zhTW": "用户角色"
+  },
+  {
+    "zhCN": "动作",
+    "zhEN": "Action",
+    "zhTW": "动作"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "确认需要更新选中设备密码?",
+    "zhEN": "Please confirm to update password for selected devices' password?",
+    "zhTW": "确认需要更新选中设备密码?"
+  },
+  {
+    "zhCN": "告警信息",
+    "zhEN": "Alarm Messages",
+    "zhTW": "告警資訊"
+  },
+  {
+    "zhCN": "请至少选择一项操作",
+    "zhEN": "Please select at least one operation",
+    "zhTW": "請至少選擇一項操作"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "数量",
+    "zhEN": "Count",
+    "zhTW": "數量"
+  },
+  {
+    "zhCN": "链路信息",
+    "zhEN": "Link Info",
+    "zhTW": "連結資訊"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link Status",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "请输入正确邮箱格式",
+    "zhEN": "Please input correct email address",
+    "zhTW": "請輸入正確郵箱格式"
+  },
+  {
+    "zhCN": "请输入联系人邮箱",
+    "zhEN": "Please enter email address.",
+    "zhTW": "請輸入連絡人郵箱"
+  },
+  {
+    "zhCN": "请选择联系人角色",
+    "zhEN": "Please select role",
+    "zhTW": "請選擇連絡人角色"
+  },
+  {
+    "zhCN": "请输入联系人姓名",
+    "zhEN": "Please input the contact name",
+    "zhTW": "請輸入連絡人姓名"
+  },
+  {
+    "zhCN": "请输入联系人电话",
+    "zhEN": "Please input the contact telephone",
+    "zhTW": "請輸入連絡人電話"
+  },
+  {
+    "zhCN": "请输入合法号码",
+    "zhEN": "Please enter valid telephone number",
+    "zhTW": "請輸入合法號碼"
+  },
+  {
+    "zhCN": "确认",
+    "zhEN": "OK",
+    "zhTW": "確認"
+  },
+  {
+    "zhCN": "账号管理员",
+    "zhEN": "Account Manager",
+    "zhTW": "帳號管理員"
+  },
+  {
+    "zhCN": "请选择所属部门",
+    "zhEN": "Please select department",
+    "zhTW": "請選擇所屬部門"
+  },
+  {
+    "zhCN": "为了您的账户安全，请及时修改登录密码",
+    "zhEN": "For your account security, please modify the login password in time.",
+    "zhTW": "為了您的帳戶安全，請及時修改登入密碼"
+  },
+  {
+    "zhCN": "前往修改密码",
+    "zhEN": "Change Password",
+    "zhTW": "前往修改密碼"
+  },
+  {
+    "zhCN": "返回管理页面",
+    "zhEN": "Change Later",
+    "zhTW": "返回管理頁面"
+  },
+  {
+    "zhCN": "24小时无警报",
+    "zhEN": "There is no alert in 24 hours",
+    "zhTW": "24小時無警報"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "流量",
+    "zhEN": "Flow",
+    "zhTW": "流量"
+  },
+  {
+    "zhCN": "原始流量",
+    "zhEN": "Origin Flow",
+    "zhTW": "原始流量"
+  },
+  {
+    "zhCN": "隧道流量",
+    "zhEN": "Tunnel Flow",
+    "zhTW": "隧道流量"
+  },
+  {
+    "zhCN": "日流量",
+    "zhEN": "Day Flow",
+    "zhTW": "日流量"
+  },
+  {
+    "zhCN": "本月流量",
+    "zhEN": "Month Flow",
+    "zhTW": "本月流量"
+  },
+  {
+    "zhCN": "请选择月份",
+    "zhEN": "Please select month",
+    "zhTW": "請選擇月份"
+  },
+  {
+    "zhCN": "月流量",
+    "zhEN": "Month Flow",
+    "zhTW": "月流量"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "设备总数",
+    "zhEN": "Total Device",
+    "zhTW": "設備總數"
+  },
+  {
+    "zhCN": "链路总数",
+    "zhEN": "Total Link",
+    "zhTW": "鏈路總數"
+  },
+  {
+    "zhCN": "合同",
+    "zhEN": "Contract",
+    "zhTW": "契约"
+  },
+  {
+    "zhCN": "邮箱最多输入50字符",
+    "zhEN": "Email can input 50 characters at most.",
+    "zhTW": "郵箱最多輸入50字元"
+  },
+  {
+    "zhCN": "设为历史消息",
+    "zhEN": "Set History Alarms",
+    "zhTW": "設為歷史消息"
+  },
+  {
+    "zhCN": "导出",
+    "zhEN": "Export",
+    "zhTW": "匯出"
+  },
+  {
+    "zhCN": "4",
+    "zhEN": "boss 1.4",
+    "zhTW": "1.4.3"
+  },
+  {
+    "zhCN": "添加",
+    "zhEN": "Add",
+    "zhTW": "添加"
+  },
+  {
+    "zhCN": "纬度",
+    "zhEN": "latitude",
+    "zhTW": "緯度"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "描述",
+    "zhEN": "Describe",
+    "zhTW": "描述"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Describe",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Describe",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Describe",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Describe",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "state",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "商务",
+    "zhEN": "Sales",
+    "zhTW": "商務"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "更新时间",
+    "zhEN": "Update time",
+    "zhTW": "更新時間"
+  },
+  {
+    "zhCN": "合同",
+    "zhEN": "contract",
+    "zhTW": "契约"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "中心",
+    "zhEN": "Core",
+    "zhTW": "中心"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Describe",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "搜索",
+    "zhEN": "Search",
+    "zhTW": "搜索"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "设备",
+    "zhEN": "Devices",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "国家(地区)",
+    "zhEN": "Country (Region)",
+    "zhTW": "國家（地區）"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "国家(地区)",
+    "zhEN": "Country (Region)",
+    "zhTW": "國家（地區）"
+  },
+  {
+    "zhCN": "设备",
+    "zhEN": "Devices",
+    "zhTW": "設備"
+  },
+  {
+    "zhCN": "下载",
+    "zhEN": "Download",
+    "zhTW": "下載"
+  },
+  {
+    "zhCN": "附件",
+    "zhEN": "Attachment",
+    "zhTW": "附件"
+  },
+  {
+    "zhCN": "名称",
+    "zhEN": "Name",
+    "zhTW": "名稱"
+  },
+  {
+    "zhCN": "参数设置",
+    "zhEN": "Parameter setting",
+    "zhTW": "參數設置"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please input remarks.",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "设备类型",
+    "zhEN": "Device Type",
+    "zhTW": "設備類型"
+  },
+  {
+    "zhCN": "CPE型号",
+    "zhEN": "CPE Model",
+    "zhTW": "CPE型號"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "RTT基准值",
+    "zhEN": "RTT Datum Value",
+    "zhTW": "RTT基準值"
+  },
+  {
+    "zhCN": "请输入关键字",
+    "zhEN": "Please input keywords.",
+    "zhTW": "請輸入關鍵字"
+  },
+  {
+    "zhCN": "参数设置",
+    "zhEN": "Set Param",
+    "zhTW": "參數設置"
+  },
+  {
+    "zhCN": "POP点管理",
+    "zhEN": "Manage POPs",
+    "zhTW": "POP點管理"
+  },
+  {
+    "zhCN": "大区",
+    "zhEN": "Zone",
+    "zhTW": "大區"
+  },
+  {
+    "zhCN": "区域设置",
+    "zhEN": "Set Citys",
+    "zhTW": "區域設置"
+  },
+  {
+    "zhCN": "FullMesh链路",
+    "zhEN": "FullMesh link",
+    "zhTW": "FullMesh連結"
+  },
+  {
+    "zhCN": "版本信息",
+    "zhEN": "Version",
+    "zhTW": "版本資訊"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "硬件类别",
+    "zhEN": "Hardware Code",
+    "zhTW": "硬體類別"
+  },
+  {
+    "zhCN": "添加CPE",
+    "zhEN": "Add CPE",
+    "zhTW": "添加CPE"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device Name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "所在省份",
+    "zhEN": "Province",
+    "zhTW": "所在省份"
+  },
+  {
+    "zhCN": "全球SaaS加速",
+    "zhEN": "Global SaaS",
+    "zhTW": "全球saas加速"
+  },
+  {
+    "zhCN": "人工选路",
+    "zhEN": "Manual Route",
+    "zhTW": "人工選路"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "密码管理",
+    "zhEN": "Manage Password",
+    "zhTW": "密碼管理"
+  },
+  {
+    "zhCN": "编辑端口分组",
+    "zhEN": "Edit port grouping",
+    "zhTW": "編輯埠分組"
+  },
+  {
+    "zhCN": "国内SaaS加速",
+    "zhEN": "Domestic SaaS",
+    "zhTW": "國內saas加速"
+  },
+  {
+    "zhCN": "端口",
+    "zhEN": "Port",
+    "zhTW": "埠"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "RTT基准值",
+    "zhEN": "RTT Datum Value",
+    "zhTW": "RTT基準值"
+  },
+  {
+    "zhCN": "请输入硬件类别",
+    "zhEN": "Please input hardware code.",
+    "zhTW": "請輸入硬體類別"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Device serial number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "设备管理",
+    "zhEN": "Devices",
+    "zhTW": "設備管理"
+  },
+  {
+    "zhCN": "CPE型号",
+    "zhEN": "CPE Model",
+    "zhTW": "CPE型號"
+  },
+  {
+    "zhCN": "大区设置",
+    "zhEN": "Set  Zone",
+    "zhTW": "大區設定"
+  },
+  {
+    "zhCN": "暂无数据",
+    "zhEN": "No Data",
+    "zhTW": "暫無數據"
+  },
+  {
+    "zhCN": "设备状态",
+    "zhEN": "Device State",
+    "zhTW": "設備狀態"
+  },
+  {
+    "zhCN": "新增大区",
+    "zhEN": "New Zone",
+    "zhTW": "新增大區"
+  },
+  {
+    "zhCN": "链路",
+    "zhEN": "Link",
+    "zhTW": "連結"
+  },
+  {
+    "zhCN": "操作系统",
+    "zhEN": "OS",
+    "zhTW": "作業系統"
+  },
+  {
+    "zhCN": "编辑大区",
+    "zhEN": "Edited Zone",
+    "zhTW": "編輯大區"
+  },
+  {
+    "zhCN": "包含省市",
+    "zhEN": "Include provinces and cities",
+    "zhTW": "包含省市"
+  },
+  {
+    "zhCN": "硬件类别",
+    "zhEN": "Hardware Code",
+    "zhTW": "硬體類別"
+  },
+  {
+    "zhCN": "服务等级",
+    "zhEN": "Service Level",
+    "zhTW": "服務等級"
+  },
+  {
+    "zhCN": "请输入纬度",
+    "zhEN": "Please input latitude.",
+    "zhTW": "請輸入緯度"
+  },
+  {
+    "zhCN": "添加区域",
+    "zhEN": "Add City",
+    "zhTW": "添加區域"
+  },
+  {
+    "zhCN": "上传附件",
+    "zhEN": "Uploading attachments",
+    "zhTW": "上傳附件"
+  },
+  {
+    "zhCN": "请输入说明",
+    "zhEN": "Please input describe.",
+    "zhTW": "請輸入說明"
+  },
+  {
+    "zhCN": "编辑区域",
+    "zhEN": "Edit City",
+    "zhTW": "編輯區域"
+  },
+  {
+    "zhCN": "智能去重",
+    "zhEN": "Intelligent deweighting",
+    "zhTW": "智慧去重"
+  },
+  {
+    "zhCN": "签订时间",
+    "zhEN": "Signature Time ",
+    "zhTW": "簽訂時間"
+  },
+  {
+    "zhCN": "请选择CPE型号",
+    "zhEN": "Please select CPE type.",
+    "zhTW": "請選擇CPE型號"
+  },
+  {
+    "zhCN": "链路带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "連結頻寬"
+  },
+  {
+    "zhCN": "国内组网",
+    "zhEN": "Domestic Intranet",
+    "zhTW": "國內組網"
+  },
+  {
+    "zhCN": "链路类型",
+    "zhEN": "Link Type",
+    "zhTW": "連結類型"
+  },
+  {
+    "zhCN": "请选择版本",
+    "zhEN": "Please select version",
+    "zhTW": "請選擇版本"
+  },
+  {
+    "zhCN": "请输入硬件类别",
+    "zhEN": "Please input hardware code.",
+    "zhTW": "請輸入硬體類別"
+  },
+  {
+    "zhCN": "版本汇总",
+    "zhEN": "Summary",
+    "zhTW": "版本匯總"
+  },
+  {
+    "zhCN": "请输入说明",
+    "zhEN": "Please input describe.",
+    "zhTW": "請輸入說明"
+  },
+  {
+    "zhCN": "组件库",
+    "zhEN": "Component library",
+    "zhTW": "組件庫"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "CPE型号",
+    "zhEN": "CPE model",
+    "zhTW": "CPE型號"
+  },
+  {
+    "zhCN": "链路名称",
+    "zhEN": "Link Name",
+    "zhTW": "連結名稱"
+  },
+  {
+    "zhCN": "边缘",
+    "zhEN": "edge",
+    "zhTW": "邊緣"
+  },
+  {
+    "zhCN": "大区名称",
+    "zhEN": "Zone",
+    "zhTW": "大區名稱"
+  },
+  {
+    "zhCN": "开始时间",
+    "zhEN": "Start Time",
+    "zhTW": "開始時間"
+  },
+  {
+    "zhCN": "请输入经度",
+    "zhEN": "Please input longitude.",
+    "zhTW": "請輸入經度"
+  },
+  {
+    "zhCN": "请选择CPE型号",
+    "zhEN": "Please select CPE type.",
+    "zhTW": "請選擇CPE型號"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "边缘节点",
+    "zhEN": "Edge Node",
+    "zhTW": "邊緣節點"
+  },
+  {
+    "zhCN": "请选择设备",
+    "zhEN": "Please select the device.",
+    "zhTW": "請選擇設備"
+  },
+  {
+    "zhCN": "请选择商务",
+    "zhEN": "Please choose sales.",
+    "zhTW": "請選擇商務"
+  },
+  {
+    "zhCN": "联系人信息",
+    "zhEN": "Contact Information",
+    "zhTW": "連絡人資訊"
+  },
+  {
+    "zhCN": "请输入说明",
+    "zhEN": "Please input describe.",
+    "zhTW": "請輸入說明"
+  },
+  {
+    "zhCN": "区域",
+    "zhEN": "City",
+    "zhTW": "区域"
+  },
+  {
+    "zhCN": "节点汇总",
+    "zhEN": "Node",
+    "zhTW": "節點匯總"
+  },
+  {
+    "zhCN": "链路状态",
+    "zhEN": "Link State",
+    "zhTW": "連結狀態"
+  },
+  {
+    "zhCN": "升级包版本",
+    "zhEN": "Upgrade package version",
+    "zhTW": "升級包版本"
+  },
+  {
+    "zhCN": "链路峰值负载率",
+    "zhEN": "Peak Loading Rate",
+    "zhTW": "連結峰值負載率"
+  },
+  {
+    "zhCN": "批量RTT设置",
+    "zhEN": "Add Batch RTT",
+    "zhTW": "批量RTT設定"
+  },
+  {
+    "zhCN": "请选择边缘",
+    "zhEN": "Please select edges.",
+    "zhTW": "請選擇邊緣"
+  },
+  {
+    "zhCN": "应用流量排行",
+    "zhEN": "App Rank",
+    "zhTW": "應用流量排行"
+  },
+  {
+    "zhCN": "设备流量TOP5",
+    "zhEN": "Device Traffic TOP5",
+    "zhTW": "設備流量TOP5"
+  },
+  {
+    "zhCN": "总带宽",
+    "zhEN": "Total Bandwidth",
+    "zhTW": "總頻寬"
+  },
+  {
+    "zhCN": "请选择中心",
+    "zhEN": "Please select the core node.",
+    "zhTW": "請選擇中心"
+  },
+  {
+    "zhCN": "添加FullMesh链路",
+    "zhEN": "Add FullMesh link",
+    "zhTW": "添加FullMesh連結"
+  },
+  {
+    "zhCN": "设备流量",
+    "zhEN": "Device Traffic",
+    "zhTW": "設備流量"
+  },
+  {
+    "zhCN": "地级市(省会)",
+    "zhEN": "City",
+    "zhTW": "地級市（省會）"
+  },
+  {
+    "zhCN": "请选择所在省份",
+    "zhEN": "Please choose the province.",
+    "zhTW": "請選擇所在省份"
+  },
+  {
+    "zhCN": "请输入大区名称",
+    "zhEN": "Please enter the name of zone.",
+    "zhTW": "請輸入大區名稱"
+  },
+  {
+    "zhCN": "修改FullMesh链路",
+    "zhEN": "Modify FullMesh link",
+    "zhTW": "修改FullMesh連結"
+  },
+  {
+    "zhCN": "合同详情",
+    "zhEN": "Contract Details",
+    "zhTW": "契约詳情"
+  },
+  {
+    "zhCN": "省(直辖市)",
+    "zhEN": "Province",
+    "zhTW": "省（直轄市）"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please select an organization.",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "RTT设置",
+    "zhEN": "Set RTT",
+    "zhTW": "RTT設定"
+  },
+  {
+    "zhCN": "请选择省份",
+    "zhEN": "Please select provinces",
+    "zhTW": "請選擇省份"
+  },
+  {
+    "zhCN": "版本管理",
+    "zhEN": "Version Management",
+    "zhTW": "版本管理"
+  },
+  {
+    "zhCN": "备注最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "備註最多輸入128字元"
+  },
+  {
+    "zhCN": "请选择省(直辖市)",
+    "zhEN": "Please select provinces (municipalities)",
+    "zhTW": "請選擇省（直轄市）"
+  },
+  {
+    "zhCN": "请输入端口分组描述",
+    "zhEN": "Please input port group description.",
+    "zhTW": "請輸入埠分組描述"
+  },
+  {
+    "zhCN": "结束时间",
+    "zhEN": "End time",
+    "zhTW": "結束時間"
+  },
+  {
+    "zhCN": "基本信息",
+    "zhEN": "Base Information",
+    "zhTW": "基本資訊"
+  },
+  {
+    "zhCN": "请输入RTT基准值",
+    "zhEN": "Please enter the RTT datum value.",
+    "zhTW": "請輸入RTT基準值"
+  },
+  {
+    "zhCN": "中心节点",
+    "zhEN": "Core Node",
+    "zhTW": "中心節點"
+  },
+  {
+    "zhCN": "合同名称",
+    "zhEN": "Contract Name",
+    "zhTW": "契约名稱"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "只能输入正整数",
+    "zhEN": "You can only input positive integers.",
+    "zhTW": "只能輸入正整數"
+  },
+  {
+    "zhCN": "请选择设备类型",
+    "zhEN": "Please select device type.",
+    "zhTW": "請選擇設備類型"
+  },
+  {
+    "zhCN": "端口分组名称最多输入50字符",
+    "zhEN": "Cannot exceed 50 characters.",
+    "zhTW": "埠分組名稱最多輸入50字元"
+  },
+  {
+    "zhCN": "请输入地级市(省会)",
+    "zhEN": "Please enter prefecture level city (provincial capital).",
+    "zhTW": "請輸入地級市（省會）"
+  },
+  {
+    "zhCN": "请选择链路类型",
+    "zhEN": "Please select link type.",
+    "zhTW": "請選擇連結類型"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select device model.",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "全球组网",
+    "zhEN": "Global Intranet",
+    "zhTW": "全球組網"
+  },
+  {
+    "zhCN": "新增端口分组",
+    "zhEN": "New port grouping",
+    "zhTW": "新增埠分組"
+  },
+  {
+    "zhCN": "硬件类别只能输入01-3F之间的16进制的数字",
+    "zhEN": "The hardware code can only enter the 16 digit number between 01-3F.",
+    "zhTW": "硬體類別只能輸入01-3F之間的16進制的數位"
+  },
+  {
+    "zhCN": "备注最多输入128字符",
+    "zhEN": "Cannot exceed 128 characters.",
+    "zhTW": "備註最多輸入128字元"
+  },
+  {
+    "zhCN": "版本信息",
+    "zhEN": "Version",
+    "zhTW": "版本資訊"
+  },
+  {
+    "zhCN": "请输入端口分组名称",
+    "zhEN": "Please enter the port group name.",
+    "zhTW": "請輸入埠分組名稱"
+  },
+  {
+    "zhCN": "端口分组描述最多输入255字符",
+    "zhEN": "Cannot exceed 255 characters.",
+    "zhTW": "埠分組描述最多輸入255字元"
+  },
+  {
+    "zhCN": "请输入RTT基准值",
+    "zhEN": "Please enter the RTT datum value.",
+    "zhTW": "請輸入RTT基準值"
+  },
+  {
+    "zhCN": "请输入搜索的设备名称",
+    "zhEN": "Please enter the device name.",
+    "zhTW": "請輸入蒐索的設備名稱"
+  },
+  {
+    "zhCN": "请选择国家(地区)",
+    "zhEN": "Please select countries (regions)",
+    "zhTW": "請選擇國家（地區）"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select status.",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "请选择国家(地区)",
+    "zhEN": "Please select countries (regions)",
+    "zhTW": "請選擇國家（地區）"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "经度",
+    "zhEN": "longitude",
+    "zhTW": "經度"
+  },
+  {
+    "zhCN": "编辑CPE",
+    "zhEN": "Editor CPE",
+    "zhTW": "編輯CPE"
+  },
+  {
+    "zhCN": "请选择包含省市",
+    "zhEN": "Please select cities.",
+    "zhTW": "請選擇包含省市"
+  },
+  {
+    "zhCN": "请输入端口",
+    "zhEN": "Please input port",
+    "zhTW": "請輸入埠"
+  },
+  {
+    "zhCN": "请选择国家",
+    "zhEN": "Please select country",
+    "zhTW": "請選擇國家"
+  },
+  {
+    "zhCN": "前后15分钟",
+    "zhEN": "15 minutes ahead or later",
+    "zhTW": "前後15分鐘"
+  },
+  {
+    "zhCN": "前后30分钟",
+    "zhEN": "3 minutes ahead or later",
+    "zhTW": "前後30分鐘"
+  },
+  {
+    "zhCN": "前后3小时",
+    "zhEN": "3 hours ahead or later",
+    "zhTW": "前後3小時"
+  },
+  {
+    "zhCN": "前后12小时",
+    "zhEN": "12 hours ahead or later",
+    "zhTW": "前後12小時"
+  },
+  {
+    "zhCN": "前后1天",
+    "zhEN": "1 day ahead or later",
+    "zhTW": "前後1天"
+  },
+  {
+    "zhCN": "前后3天",
+    "zhEN": "3 days ahead or later",
+    "zhTW": "前後3天"
+  },
+  {
+    "zhCN": "更改密码",
+    "zhEN": "Change Password",
+    "zhTW": "更改密碼"
+  },
+  {
+    "zhCN": "4extra",
+    "zhEN": "1.4extra",
+    "zhTW": "1.4extra"
+  },
+  {
+    "zhCN": "有",
+    "zhEN": "Yes",
+    "zhTW": "有"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "无",
+    "zhEN": "None",
+    "zhTW": "無"
+  },
+  {
+    "zhCN": "命令",
+    "zhEN": "command",
+    "zhTW": "命令"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "公网IP",
+    "zhEN": "Public network IP",
+    "zhTW": "公網IP"
+  },
+  {
+    "zhCN": "协议设置",
+    "zhEN": "Protocol Setting",
+    "zhTW": "協定設定"
+  },
+  {
+    "zhCN": "RTT基准值",
+    "zhEN": "RTT value",
+    "zhTW": "RTT基準值"
+  },
+  {
+    "zhCN": "设备带宽资源",
+    "zhEN": "Equipment bandwidth resources",
+    "zhTW": "設備頻寬資源"
+  },
+  {
+    "zhCN": "修改应用程序名称",
+    "zhEN": "Modify application name",
+    "zhTW": "修改應用程序名稱"
+  },
+  {
+    "zhCN": "请选择是否有公网IP",
+    "zhEN": "Please choose whether there is a public network IP.",
+    "zhTW": "請選擇是否有公網IP"
+  },
+  {
+    "zhCN": "批量协议设置",
+    "zhEN": "Batch protocol settings",
+    "zhTW": "批量協定設定"
+  },
+  {
+    "zhCN": "请输入应用程序名称",
+    "zhEN": "Please input the application name.",
+    "zhTW": "請輸入應用程序名稱"
+  },
+  {
+    "zhCN": "4",
+    "zhEN": "1.4.1",
+    "zhTW": "1.4.3"
+  },
+  {
+    "zhCN": "目标IP流量",
+    "zhEN": "Destination IP Traffic",
+    "zhTW": "目標IP流量"
+  },
+  {
+    "zhCN": "Docker管理",
+    "zhEN": "Dockers",
+    "zhTW": "Docker管理"
+  },
+  {
+    "zhCN": "新增",
+    "zhEN": "Add",
+    "zhTW": "新增"
+  },
+  {
+    "zhCN": "WIFI管理",
+    "zhEN": "WIFI",
+    "zhTW": "WIFI管理"
+  },
+  {
+    "zhCN": "Logo设置",
+    "zhEN": "Logo",
+    "zhTW": "Logo設定"
+  },
+  {
+    "zhCN": "请输入CPU核数",
+    "zhEN": "Please enter CPU Number",
+    "zhTW": "請輸入CPU核數"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "所在机房",
+    "zhEN": "IDC Name",
+    "zhTW": "所在機房"
+  },
+  {
+    "zhCN": "最多输入256字符",
+    "zhEN": "Cannot exceed 256 characters.",
+    "zhTW": "最多輸入256字元"
+  },
+  {
+    "zhCN": "编辑",
+    "zhEN": "edit",
+    "zhTW": "編輯"
+  },
+  {
+    "zhCN": "内存大小(GB)",
+    "zhEN": "Memory size (GB)",
+    "zhTW": "記憶體大小（GB）"
+  },
+  {
+    "zhCN": "请输入内存大小",
+    "zhEN": "Please enter the memory size",
+    "zhTW": "請輸入記憶體大小"
+  },
+  {
+    "zhCN": "请选择机房",
+    "zhEN": "Please choose the IDC Name.",
+    "zhTW": "請選擇機房"
+  },
+  {
+    "zhCN": "IP地址",
+    "zhEN": "IP",
+    "zhTW": "IP地址"
+  },
+  {
+    "zhCN": "ISP配置",
+    "zhEN": "ISP",
+    "zhTW": "ISP配寘"
+  },
+  {
+    "zhCN": "带宽(M)",
+    "zhEN": "Bandwidth (M)",
+    "zhTW": "頻寬（M）"
+  },
+  {
+    "zhCN": "运营商",
+    "zhEN": "ISP",
+    "zhTW": "運營商"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "确定删除当前信息?",
+    "zhEN": "Confirm  to delete the current information?",
+    "zhTW": "確定删除當前資訊？"
+  },
+  {
+    "zhCN": "SaaS加速",
+    "zhEN": "SaaS",
+    "zhTW": "saas加速"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "CPU核数",
+    "zhEN": "CPU Number",
+    "zhTW": "CPU核數"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node Name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "带宽",
+    "zhEN": "Bandwidth",
+    "zhTW": "頻寬"
+  },
+  {
+    "zhCN": "请选择运营商",
+    "zhEN": "Please select the ISP",
+    "zhTW": "請選擇運營商"
+  },
+  {
+    "zhCN": "版本",
+    "zhEN": "Version",
+    "zhTW": "版本"
+  },
+  {
+    "zhCN": "请选择版本",
+    "zhEN": "Please select the version.",
+    "zhTW": "請選擇版本"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remarks",
+    "zhTW": "備註"
+  },
+  {
+    "zhCN": "Logo设置",
+    "zhEN": "Logo Settings",
+    "zhTW": "Logo設定"
+  },
+  {
+    "zhCN": "区域",
+    "zhEN": "City",
+    "zhTW": "区域"
+  },
+  {
+    "zhCN": "上联IP",
+    "zhEN": "Uplink IP",
+    "zhTW": "上聯IP"
+  },
+  {
+    "zhCN": "请输入设备名称",
+    "zhEN": "Please enter the name of the device.",
+    "zhTW": "請輸入裝置名稱"
+  },
+  {
+    "zhCN": "请输入运营商IP",
+    "zhEN": "Please enter the IP of the ISP",
+    "zhTW": "請輸入運營商IP"
+  },
+  {
+    "zhCN": "海外域名限制",
+    "zhEN": "Domain name list",
+    "zhTW": "海外功能變數名稱限制"
+  },
+  {
+    "zhCN": "SaaS加速",
+    "zhEN": "SaaS",
+    "zhTW": "saas加速"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select the device model.",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "目标IP",
+    "zhEN": "Destination IP",
+    "zhTW": "目標IP"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "State",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "机房",
+    "zhEN": "IDC Name",
+    "zhTW": "機房"
+  },
+  {
+    "zhCN": "智能压缩",
+    "zhEN": "Intelligent Compression",
+    "zhTW": "智慧壓縮"
+  },
+  {
+    "zhCN": "告警配置",
+    "zhEN": "Alarms",
+    "zhTW": "告警配寘"
+  },
+  {
+    "zhCN": "新增",
+    "zhEN": "Add",
+    "zhTW": "新增"
+  },
+  {
+    "zhCN": "请输入正确IP格式",
+    "zhEN": "Please enter the correct IP format",
+    "zhTW": "請輸入正確IP格式"
+  },
+  {
+    "zhCN": "请输入VlanID",
+    "zhEN": "Please enter VlanID",
+    "zhTW": "請輸入VlanID"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "序號"
+  },
+  {
+    "zhCN": "编辑ISP",
+    "zhEN": "Edit ISP",
+    "zhTW": "編輯ISP"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请输入设备名称",
+    "zhEN": "Please enter the name of the device.",
+    "zhTW": "請輸入裝置名稱"
+  },
+  {
+    "zhCN": "下联IP",
+    "zhEN": "Downlink IP",
+    "zhTW": "下聯IP"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation Time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "端口",
+    "zhEN": "Port",
+    "zhTW": "埠"
+  },
+  {
+    "zhCN": "设备名称最多输入64字符",
+    "zhEN": "Cannot exceed 64 characters.",
+    "zhTW": "設備名稱最多輸入64字元"
+  },
+  {
+    "zhCN": "默认",
+    "zhEN": "Default",
+    "zhTW": "默認"
+  },
+  {
+    "zhCN": "请选择设备型号自动生成序列号",
+    "zhEN": "Please select the device type to automatically generate the serial number",
+    "zhTW": "請選擇設備型號自動生成序號"
+  },
+  {
+    "zhCN": "请选择序列号",
+    "zhEN": "请选择序列号",
+    "zhTW": "请选择序列号"
+  },
+  {
+    "zhCN": "Logo设置",
+    "zhEN": "Logo Setting",
+    "zhTW": "Logo設定"
+  },
+  {
+    "zhCN": "企业自定义",
+    "zhEN": "Customization",
+    "zhTW": "企業自定義"
+  },
+  {
+    "zhCN": "请输入带宽",
+    "zhEN": "Please enter bandwidth",
+    "zhTW": "請輸入頻寬"
+  },
+  {
+    "zhCN": "白板",
+    "zhEN": "Whiteboard",
+    "zhTW": "白板"
+  },
+  {
+    "zhCN": "编辑",
+    "zhEN": "edit",
+    "zhTW": "編輯"
+  },
+  {
+    "zhCN": "请输入端口",
+    "zhEN": "Please enter port",
+    "zhTW": "請輸入埠"
+  },
+  {
+    "zhCN": "用户排名",
+    "zhEN": "User Rank",
+    "zhTW": "用戶排名"
+  },
+  {
+    "zhCN": "请输入备注",
+    "zhEN": "Please enter remark",
+    "zhTW": "請輸入備註"
+  },
+  {
+    "zhCN": "请输入上联IP",
+    "zhEN": "Please enter the Uplink IP",
+    "zhTW": "請輸入上聯IP"
+  },
+  {
+    "zhCN": "保存",
+    "zhEN": "Save",
+    "zhTW": "保存"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select the status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "请选择企业名称",
+    "zhEN": "Please choose the name of the Organization.",
+    "zhTW": "請選擇企業名稱"
+  },
+  {
+    "zhCN": "图片大小不能超过2MB",
+    "zhEN": "Picture size should not exceed 2MB",
+    "zhTW": "圖片大小不能超過2MB"
+  },
+  {
+    "zhCN": "请上传118*40px的PNG、JPG格式的图片",
+    "zhEN": "Please upload 118*40px pictures in PNG or JPG formats",
+    "zhTW": "請上傳118*40px的PNG、JPG格式的圖片"
+  },
+  {
+    "zhCN": "只能输入正整数",
+    "zhEN": "Only positive integers can be entered",
+    "zhTW": "只能輸入正整數"
+  },
+  {
+    "zhCN": "创建时间",
+    "zhEN": "Creation Time",
+    "zhTW": "創建時間"
+  },
+  {
+    "zhCN": "点击上传",
+    "zhEN": "Click Upload",
+    "zhTW": "點擊上傳"
+  },
+  {
+    "zhCN": "请选择节点",
+    "zhEN": "Please select the node",
+    "zhTW": "請選擇節點"
+  },
+  {
+    "zhCN": "功能配置",
+    "zhEN": "Extended Function",
+    "zhTW": "功能配寘"
+  },
+  {
+    "zhCN": "Docker数量",
+    "zhEN": "Quantity",
+    "zhTW": "Docker數量"
+  },
+  {
+    "zhCN": "新增ISP",
+    "zhEN": "Add ISP",
+    "zhTW": "新增ISP"
+  },
+  {
+    "zhCN": "请输入下联IP",
+    "zhEN": "Please enter the Downlink IP",
+    "zhTW": "請輸入下聯IP"
+  },
+  {
+    "zhCN": "4",
+    "zhEN": "1.4.1extra",
+    "zhTW": "1.4.3"
+  },
+  {
+    "zhCN": "无",
+    "zhEN": "none",
+    "zhTW": "無"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "说明",
+    "zhEN": "Explain",
+    "zhTW": "說明"
+  },
+  {
+    "zhCN": "时间",
+    "zhEN": "Time",
+    "zhTW": "時間"
+  },
+  {
+    "zhCN": "协议",
+    "zhEN": "Protocol",
+    "zhTW": "協定"
+  },
+  {
+    "zhCN": "全球",
+    "zhEN": "Global",
+    "zhTW": "全球"
+  },
+  {
+    "zhCN": "确定",
+    "zhEN": "OK",
+    "zhTW": "確定"
+  },
+  {
+    "zhCN": "导入失败原因",
+    "zhEN": "Reasons for Import Failure",
+    "zhTW": "導入失敗原因"
+  },
+  {
+    "zhCN": "禁用",
+    "zhEN": "Prohibit",
+    "zhTW": "禁用"
+  },
+  {
+    "zhCN": "经办人",
+    "zhEN": "Agent",
+    "zhTW": "經辦人"
+  },
+  {
+    "zhCN": "目标地址",
+    "zhEN": "Destination IP",
+    "zhTW": "目標地址"
+  },
+  {
+    "zhCN": "上传文件",
+    "zhEN": "Upload files",
+    "zhTW": "上傳文件"
+  },
+  {
+    "zhCN": "请上传txt格式文件",
+    "zhEN": "Please upload TXT format file",
+    "zhTW": "請上傳txt格式檔案"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "State",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "处理时间",
+    "zhEN": "Time",
+    "zhTW": "處理時間"
+  },
+  {
+    "zhCN": "请输入Secret",
+    "zhEN": "Please enter Secret",
+    "zhTW": "請輸入Secret"
+  },
+  {
+    "zhCN": "目标地址",
+    "zhEN": "Destination IP",
+    "zhTW": "目標地址"
+  },
+  {
+    "zhCN": "最近一周",
+    "zhEN": "Last week",
+    "zhTW": "最近一周"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "历史流量",
+    "zhEN": "Historical traffic",
+    "zhTW": "歷史流量"
+  },
+  {
+    "zhCN": "操作记录",
+    "zhEN": "Operation Log",
+    "zhTW": "操作記錄"
+  },
+  {
+    "zhCN": "启用",
+    "zhEN": "Enable",
+    "zhTW": "啟用"
+  },
+  {
+    "zhCN": "请输入AgentId",
+    "zhEN": "Please enter the agentid",
+    "zhTW": "請輸入agentid"
+  },
+  {
+    "zhCN": "最近30分钟",
+    "zhEN": "Last 30 minutes",
+    "zhTW": "最近30分鐘"
+  },
+  {
+    "zhCN": "点击下载",
+    "zhEN": "Click to download",
+    "zhTW": "點擊下載"
+  },
+  {
+    "zhCN": "最近一周",
+    "zhEN": "Last week",
+    "zhTW": "最近一周"
+  },
+  {
+    "zhCN": "请选择时间间隔",
+    "zhEN": "Please choose the time interval",
+    "zhTW": "請選擇時間間隔"
+  },
+  {
+    "zhCN": "导入结果",
+    "zhEN": "Import results",
+    "zhTW": "導入結果"
+  },
+  {
+    "zhCN": "结果反馈",
+    "zhEN": "Result feedback",
+    "zhTW": "結果迴響"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "域名格式不正确",
+    "zhEN": "Incorrect domain name format",
+    "zhTW": "功能變數名稱格式不正確"
+  },
+  {
+    "zhCN": "边缘去重",
+    "zhEN": "Edge Deduplication",
+    "zhTW": "邊緣去重"
+  },
+  {
+    "zhCN": "目标端口",
+    "zhEN": "Destination Port",
+    "zhTW": "目標埠"
+  },
+  {
+    "zhCN": "压缩后流量(MB)",
+    "zhEN": "Compressed Octets (MB)",
+    "zhTW": "壓縮後流量（MB）"
+  },
+  {
+    "zhCN": "流量压缩日统计",
+    "zhEN": "Compression Daily Traffic",
+    "zhTW": "流量壓縮日統計"
+  },
+  {
+    "zhCN": "中心去重",
+    "zhEN": "Core  Deduplication",
+    "zhTW": "中心去重"
+  },
+  {
+    "zhCN": "确认删除该项吗",
+    "zhEN": "Are you sure to delete this item?",
+    "zhTW": "確認删除該項嗎"
+  },
+  {
+    "zhCN": "立即应用",
+    "zhEN": "Apply",
+    "zhTW": "立即應用"
+  },
+  {
+    "zhCN": "人工选路配置格式错误!",
+    "zhEN": "Manual routing configuration format error!",
+    "zhTW": "人工選路配寘格式錯誤！"
+  },
+  {
+    "zhCN": "内存使用率",
+    "zhEN": "Memory utilization",
+    "zhTW": "記憶體使用率"
+  },
+  {
+    "zhCN": "只能删除禁用状态项",
+    "zhEN": "Only disabled status items can be deleted",
+    "zhTW": "只能删除禁用狀態項"
+  },
+  {
+    "zhCN": "压缩率(%)",
+    "zhEN": "Compression ratio (%)",
+    "zhTW": "壓縮率（%）"
+  },
+  {
+    "zhCN": "去重率(%)",
+    "zhEN": "Deduplication rate (%)",
+    "zhTW": "去重率（%）"
+  },
+  {
+    "zhCN": "导入失败",
+    "zhEN": "Import failed",
+    "zhTW": "導入失敗"
+  },
+  {
+    "zhCN": "压缩节省流量(M)",
+    "zhEN": "Compression Saving Octets (MB)",
+    "zhTW": "壓縮節省流量（M）"
+  },
+  {
+    "zhCN": "提示:批量导入的文件必须使用提供的模板才能成功",
+    "zhEN": "Tip: Batch imported files must use the provided template to succeed",
+    "zhTW": "提示：批量導入的檔案必須使用提供的範本才能成功"
+  },
+  {
+    "zhCN": "流量去重日统计",
+    "zhEN": "Deduplication Daily Traffic",
+    "zhTW": "流量去重日統計"
+  },
+  {
+    "zhCN": "压缩前流量(MB)",
+    "zhEN": "Octets Before Compression (MB)",
+    "zhTW": "壓縮前流量（MB）"
+  },
+  {
+    "zhCN": "日志下载地址",
+    "zhEN": "Log Download URL",
+    "zhTW": "日誌下載地址"
+  },
+  {
+    "zhCN": "压缩前流量(M)",
+    "zhEN": "Octets Before Compression (MB)",
+    "zhTW": "壓縮前流量（M）"
+  },
+  {
+    "zhCN": "取消",
+    "zhEN": "Cancel",
+    "zhTW": "取消"
+  },
+  {
+    "zhCN": "去重率(%)",
+    "zhEN": "Deduplication rate (%)",
+    "zhTW": "去重率（%）"
+  },
+  {
+    "zhCN": "最近24小时",
+    "zhEN": "Last 24 hours",
+    "zhTW": "最近24小時"
+  },
+  {
+    "zhCN": "流量(MB)",
+    "zhEN": "Octets (MB)",
+    "zhTW": "流量（MB）"
+  },
+  {
+    "zhCN": "条",
+    "zhEN": " ",
+    "zhTW": "條"
+  },
+  {
+    "zhCN": "分支CPE内存使用率曲线图",
+    "zhEN": "Branch CPE Memory Utilization Curve",
+    "zhTW": "分支CPE記憶體使用率曲線圖"
+  },
+  {
+    "zhCN": "去重后流量(M)",
+    "zhEN": "Octets After Deduplication (MB)",
+    "zhTW": "去重後流量（M）"
+  },
+  {
+    "zhCN": "企业微信接受告警消息配置",
+    "zhEN": "Enterprise Wechat Acceptance Alarm Message Configuration",
+    "zhTW": "企業微信接受告警消息配寘"
+  },
+  {
+    "zhCN": "最近30分钟",
+    "zhEN": "Last 30 minutes",
+    "zhTW": "最近30分鐘"
+  },
+  {
+    "zhCN": "去重前流量(M)",
+    "zhEN": "Octets Before Deduplication (MB)",
+    "zhTW": "去重前流量（M）"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "App Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "如何设置企业微信接受告警消息？",
+    "zhEN": "How to set up enterprise Wechat to receive warning messages?"
+  },
+  {
+    "zhCN": "没有模板",
+    "zhEN": "No Template",
+    "zhTW": "沒有範本"
+  },
+  {
+    "zhCN": "国内",
+    "zhEN": "Domestic",
+    "zhTW": "國內"
+  },
+  {
+    "zhCN": "导入成功",
+    "zhEN": "Successful import",
+    "zhTW": "導入成功"
+  },
+  {
+    "zhCN": "最多输入32字符",
+    "zhEN": "Cannot exceed 32 characters",
+    "zhTW": "最多輸入32字元"
+  },
+  {
+    "zhCN": "请选择时间间隔",
+    "zhEN": "Please choose the time interval",
+    "zhTW": "請選擇時間間隔"
+  },
+  {
+    "zhCN": "请输入企业ID",
+    "zhEN": "Please enter the enterprise ID",
+    "zhTW": "請輸入企業ID"
+  },
+  {
+    "zhCN": "最近24小时",
+    "zhEN": "Last 24 hours",
+    "zhTW": "最近24小時"
+  },
+  {
+    "zhCN": "最多输入16字符",
+    "zhEN": "Cannot exceed 16 characters",
+    "zhTW": "最多輸入16字元"
+  },
+  {
+    "zhCN": "企业微信群",
+    "zhEN": "Enterprise Wechat Group",
+    "zhTW": "企業微信群"
+  },
+  {
+    "zhCN": "域名",
+    "zhEN": "Domain Name",
+    "zhTW": "功能變數名稱"
+  },
+  {
+    "zhCN": "未开启海外加速，无法配置白名单",
+    "zhEN": "Unopened Global acceleration, unable to configure whitelist",
+    "zhTW": "未開啟海外加速，無法配寘白名單"
+  },
+  {
+    "zhCN": "最近六小时",
+    "zhEN": "Last 6 hours",
+    "zhTW": "最近六小時"
+  },
+  {
+    "zhCN": "去重节省流量(M)",
+    "zhEN": "Deduplication Saving Octets (M)",
+    "zhTW": "去重節省流量（M）"
+  },
+  {
+    "zhCN": "内存要大于50M，小于空闲内存的50%",
+    "zhEN": "Memory is greater than 50M, less than 50% of free memory.",
+    "zhTW": "記憶體要大於50M，小於空閒記憶體的50%"
+  },
+  {
+    "zhCN": "应用名称",
+    "zhEN": "App Name",
+    "zhTW": "應用名稱"
+  },
+  {
+    "zhCN": "历史流量",
+    "zhEN": "Historical traffic",
+    "zhTW": "歷史流量"
+  },
+  {
+    "zhCN": "流量(MB)",
+    "zhEN": "Octets (MB)",
+    "zhTW": "流量（MB）"
+  },
+  {
+    "zhCN": "总内存",
+    "zhEN": "Total Memory",
+    "zhTW": "總記憶體"
+  },
+  {
+    "zhCN": "去重后流量(MB)",
+    "zhEN": "After Deduplication Octets (MB)",
+    "zhTW": "去重後流量（MB）"
+  },
+  {
+    "zhCN": "钉钉群",
+    "zhEN": "DingDing group",
+    "zhTW": "釘釘群"
+  },
+  {
+    "zhCN": "最近六小时",
+    "zhEN": "Last 6 hours",
+    "zhTW": "最近六小時"
+  },
+  {
+    "zhCN": "最多输入128字符",
+    "zhEN": "Cannot exceed  128 characters",
+    "zhTW": "最多輸入128字元"
+  },
+  {
+    "zhCN": "应用流量压缩日统计",
+    "zhEN": "Compression Daily Traffic",
+    "zhTW": "應用流量壓縮日統計"
+  },
+  {
+    "zhCN": "添加白名单",
+    "zhEN": "Add White List",
+    "zhTW": "添加白名單"
+  },
+  {
+    "zhCN": "去重前流量(MB)",
+    "zhEN": "Octets Before Deduplication (MB)",
+    "zhTW": "去重前流量（MB）"
+  },
+  {
+    "zhCN": "应用流量去重日统计",
+    "zhEN": "Deduplication Daily Traffic",
+    "zhTW": "應用流量去重日統計"
+  },
+  {
+    "zhCN": "压缩后流量(M)",
+    "zhEN": "Octets After Compressed(MB)",
+    "zhTW": "壓縮後流量（M）"
+  },
+  {
+    "zhCN": "请输入域名",
+    "zhEN": "Please enter the domain name",
+    "zhTW": "請輸入功能變數名稱"
+  },
+  {
+    "zhCN": "企业ID",
+    "zhEN": "Company Id",
+    "zhTW": "企業ID"
+  },
+  {
+    "zhCN": "区域",
+    "zhEN": "Region",
+    "zhTW": "区域"
+  },
+  {
+    "zhCN": "4",
+    "zhEN": "1.4.2",
+    "zhTW": "1.4.3"
+  },
+  {
+    "zhCN": "内存",
+    "zhEN": "Memory",
+    "zhTW": "記憶體"
+  },
+  {
+    "zhCN": "编辑",
+    "zhEN": "edit",
+    "zhTW": "編輯"
+  },
+  {
+    "zhCN": "SSID",
+    "zhEN": "SSID",
+    "zhTW": "SSID"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "否",
+    "zhEN": "no",
+    "zhTW": "否"
+  },
+  {
+    "zhCN": "频段",
+    "zhEN": "Radio",
+    "zhTW": "頻段"
+  },
+  {
+    "zhCN": "请输入密码",
+    "zhEN": "Please input a password",
+    "zhTW": "請輸入密碼"
+  },
+  {
+    "zhCN": "密码",
+    "zhEN": "Password",
+    "zhTW": "密碼"
+  },
+  {
+    "zhCN": "请选择SSID模板",
+    "zhEN": "Select the SSID template",
+    "zhTW": "請選擇SSID範本"
+  },
+  {
+    "zhCN": "小端",
+    "zhEN": "Little-endian",
+    "zhTW": "小端"
+  },
+  {
+    "zhCN": "SSID",
+    "zhEN": "SSID",
+    "zhTW": "SSID"
+  },
+  {
+    "zhCN": "请输入SSID",
+    "zhEN": "Please enter SSID",
+    "zhTW": "請輸入SSID"
+  },
+  {
+    "zhCN": "新增",
+    "zhEN": "Add",
+    "zhTW": "新增"
+  },
+  {
+    "zhCN": "WIFI设备",
+    "zhEN": "Wi-Fi Device",
+    "zhTW": "WIFI設備"
+  },
+  {
+    "zhCN": "删除",
+    "zhEN": "Delete",
+    "zhTW": "删除"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "请选择信道",
+    "zhEN": "Please select the channel",
+    "zhTW": "請選擇通道"
+  },
+  {
+    "zhCN": "是",
+    "zhEN": "yes",
+    "zhTW": "是"
+  },
+  {
+    "zhCN": "状态",
+    "zhEN": "Status",
+    "zhTW": "狀態"
+  },
+  {
+    "zhCN": "访客",
+    "zhEN": "Guest",
+    "zhTW": "訪客"
+  },
+  {
+    "zhCN": "请输入holdtime",
+    "zhEN": "Please enter holdtime",
+    "zhTW": "請輸入holdtime"
+  },
+  {
+    "zhCN": "密码",
+    "zhEN": "Password",
+    "zhTW": "密碼"
+  },
+  {
+    "zhCN": "编辑",
+    "zhEN": "Edit",
+    "zhTW": "編輯"
+  },
+  {
+    "zhCN": "请选择节点名称",
+    "zhEN": "Please select the node name",
+    "zhTW": "請選擇節點名稱"
+  },
+  {
+    "zhCN": "设备序列号",
+    "zhEN": "Serial Number",
+    "zhTW": "設備序號"
+  },
+  {
+    "zhCN": "添加设备型号",
+    "zhEN": "Adding Device Model",
+    "zhTW": "添加設備型號"
+  },
+  {
+    "zhCN": "频段",
+    "zhEN": "Radio",
+    "zhTW": "頻段"
+  },
+  {
+    "zhCN": "认证方式",
+    "zhEN": "Authentication Model",
+    "zhTW": "認證管道"
+  },
+  {
+    "zhCN": "使用对象",
+    "zhEN": "Use object",
+    "zhTW": "使用對象"
+  },
+  {
+    "zhCN": "频段",
+    "zhEN": "Radio",
+    "zhTW": "頻段"
+  },
+  {
+    "zhCN": "编辑设备型号",
+    "zhEN": "Edit Device Model",
+    "zhTW": "編輯設備型號"
+  },
+  {
+    "zhCN": "员工",
+    "zhEN": "Staff",
+    "zhTW": "員工"
+  },
+  {
+    "zhCN": "密码",
+    "zhEN": "Password",
+    "zhTW": "密碼"
+  },
+  {
+    "zhCN": "配置文件",
+    "zhEN": "Profile",
+    "zhTW": "設定檔"
+  },
+  {
+    "zhCN": "SSID模板",
+    "zhEN": "Define SSID",
+    "zhTW": "SSID範本"
+  },
+  {
+    "zhCN": "SSID分配",
+    "zhEN": "Assign SSID",
+    "zhTW": "SSID分配"
+  },
+  {
+    "zhCN": "认证方式",
+    "zhEN": "Authentication method",
+    "zhTW": "認證管道"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select the status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "信道",
+    "zhEN": "Channel",
+    "zhTW": "通道"
+  },
+  {
+    "zhCN": "SSID模板",
+    "zhEN": "SSID",
+    "zhTW": "SSID範本"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "新增",
+    "zhEN": "Add",
+    "zhTW": "新增"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "WI-FI配置",
+    "zhEN": "Wi-Fi Profile",
+    "zhTW": "WI-FI配寘"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "模板更新",
+    "zhEN": "Template Update",
+    "zhTW": "範本更新"
+  },
+  {
+    "zhCN": "3F之间的16进制的数字",
+    "zhEN": "Hexadecimal digits between 01- 3F",
+    "zhTW": "3F之間的16進制的數位"
+  },
+  {
+    "zhCN": "请选择设备型号",
+    "zhEN": "Please select the device model.",
+    "zhTW": "請選擇設備型號"
+  },
+  {
+    "zhCN": "基本参数",
+    "zhEN": "Basic Parameters",
+    "zhTW": "基本參數"
+  },
+  {
+    "zhCN": "请选择使用对象",
+    "zhEN": "Please select the user",
+    "zhTW": "請選擇使用對象"
+  },
+  {
+    "zhCN": "操作",
+    "zhEN": "Action",
+    "zhTW": "操作"
+  },
+  {
+    "zhCN": "汇聚点",
+    "zhEN": "Convergence Point",
+    "zhTW": "彙聚點"
+  },
+  {
+    "zhCN": "编辑",
+    "zhEN": "Edit",
+    "zhTW": "編輯"
+  },
+  {
+    "zhCN": "中心HA",
+    "zhEN": "Center HA",
+    "zhTW": "中心HA"
+  },
+  {
+    "zhCN": "信道",
+    "zhEN": "Channel",
+    "zhTW": "通道"
+  },
+  {
+    "zhCN": "设备名称",
+    "zhEN": "Device name",
+    "zhTW": "設備名稱"
+  },
+  {
+    "zhCN": "认证方式",
+    "zhEN": "Authentication Model",
+    "zhTW": "認證管道"
+  },
+  {
+    "zhCN": "设备型号",
+    "zhEN": "Device Model",
+    "zhTW": "設備型號"
+  },
+  {
+    "zhCN": "请输入remote_ip",
+    "zhEN": "Please enter remote_ip",
+    "zhTW": "請輸入remote_ip"
+  },
+  {
+    "zhCN": "中心HA设置",
+    "zhEN": "Central HA Settings",
+    "zhTW": "中心HA設定"
+  },
+  {
+    "zhCN": "企业名称",
+    "zhEN": "Organization",
+    "zhTW": "企業名稱"
+  },
+  {
+    "zhCN": "请输入password",
+    "zhEN": "Please enter password",
+    "zhTW": "請輸入password"
+  },
+  {
+    "zhCN": "请选择企业",
+    "zhEN": "Please choose the enterprise",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "批量更新",
+    "zhEN": "Batch update",
+    "zhTW": "批量更新"
+  },
+  {
+    "zhCN": "私网IP段",
+    "zhEN": "IP",
+    "zhTW": "私網IP段"
+  },
+  {
+    "zhCN": "路由明细",
+    "zhEN": "Routing details",
+    "zhTW": "路由明細"
+  },
+  {
+    "zhCN": "节点名称",
+    "zhEN": "Node name",
+    "zhTW": "節點名稱"
+  },
+  {
+    "zhCN": "个性化配置",
+    "zhEN": "Configuration",
+    "zhTW": "個性化配寘"
+  },
+  {
+    "zhCN": "IP段",
+    "zhEN": "IP：",
+    "zhTW": "IP段"
+  },
+  {
+    "zhCN": "批量出库",
+    "zhEN": "Batch outgoing",
+    "zhTW": "批量出庫"
+  },
+  {
+    "zhCN": "硬件标识",
+    "zhEN": "Hardware Identifiers",
+    "zhTW": "硬體標識"
+  },
+  {
+    "zhCN": "模板文件",
+    "zhEN": "Template file",
+    "zhTW": "範本檔案"
+  },
+  {
+    "zhCN": "大端",
+    "zhEN": "Big-endian",
+    "zhTW": "大端"
+  },
+  {
+    "zhCN": "设备描述",
+    "zhEN": "Device description",
+    "zhTW": "設備描述"
+  },
+  {
+    "zhCN": "请选择频段",
+    "zhEN": "Please select the Radio.",
+    "zhTW": "請選擇頻段"
+  },
+  {
+    "zhCN": "请选择认证方式",
+    "zhEN": "Please choose the authentication model.",
+    "zhTW": "請選擇認證管道"
+  },
+  {
+    "zhCN": "只能输入数字并且只能是整数",
+    "zhEN": "You can only enter numbers and integers.",
+    "zhTW": "只能輸入數位並且只能是整數"
+  },
+  {
+    "zhCN": "硬件标识只能输入01-3F之间的16进制的数字",
+    "zhEN": "Hardware identifiers can only enter hexadecimal digits between 01-3F",
+    "zhTW": "硬體標識只能輸入01-3F之間的16進制的數位"
+  },
+  {
+    "zhCN": "请输入硬件标识",
+    "zhEN": "Please enter hardware identifiers",
+    "zhTW": "請輸入硬體標識"
+  },
+  {
+    "zhCN": "请输入私网IP段",
+    "zhEN": "Please enter the  IP segment",
+    "zhTW": "請輸入私網IP段"
+  },
+  {
+    "zhCN": "仅有LTE(4G)线路时,允许通过的应用级别",
+    "zhEN": "Application Level Allowed to Pass Only LTE (4G) Lines",
+    "zhTW": "僅有LTE（4G）線路時，允許通過的應用級別"
+  },
+  {
+    "zhCN": "请选择是否是汇聚点",
+    "zhEN": "Please choose whether it is a convergence point or not?",
+    "zhTW": "請選擇是否是彙聚點？"
+  },
+  {
+    "zhCN": "密码长度不得小于8位",
+    "zhEN": "Password length must not be less than 8 bits",
+    "zhTW": "密码长度不得小于8位"
+  },
+  {
+    "zhCN": "请选择认证方式",
+    "zhEN": "Please choose the authentication model.",
+    "zhTW": "請選擇認證管道"
+  },
+  {
+    "zhCN": "确定要删除该条链路吗?",
+    "zhEN": "Are you sure you want to delete this link?",
+    "zhTW": "確定要删除該條連結嗎？"
+  },
+  {
+    "zhCN": "边缘HA",
+    "zhEN": "Edge HA",
+    "zhTW": "邊緣HA"
+  },
+  {
+    "zhCN": "请输入local_ip",
+    "zhEN": "Please enter local_ip",
+    "zhTW": "請輸入local_ip"
+  },
+  {
+    "zhCN": "请选择状态",
+    "zhEN": "Please select the status",
+    "zhTW": "請選擇狀態"
+  },
+  {
+    "zhCN": "边缘HA设置",
+    "zhEN": "Edge HA settings",
+    "zhTW": "邊緣HA設定"
+  },
+  {
+    "zhCN": "请输入remote_as",
+    "zhEN": "Please enter remote_as",
+    "zhTW": "請輸入remote_as"
+  },
+  {
+    "zhCN": "密码最多输入16字符",
+    "zhEN": "Cannot exceed 16 characters.",
+    "zhTW": "密碼最多輸入16字元"
+  },
+  {
+    "zhCN": "请选择企业名称",
+    "zhEN": "Please choose the name of the enterprise.",
+    "zhTW": "請選擇企業名稱"
+  },
+  {
+    "zhCN": "请输入local_as",
+    "zhEN": "Please enter local_as",
+    "zhTW": "請輸入local_as"
+  },
+  {
+    "zhCN": "抑制该告警信息",
+    "zhEN": "Ignore this  alarm",
+    "zhTW": "抑制該告警資訊"
+  },
+  {
+    "zhCN": "抑制时间不能超过24小时",
+    "zhEN": "Ignore time should not exceed 24 hours",
+    "zhTW": "抑制時間不能超過24小時"
+  },
+  {
+    "zhCN": "抑制设备所有告警信息",
+    "zhEN": "Ignore all alarm of device",
+    "zhTW": "抑制設備所有告警資訊"
+  },
+  {
+    "zhCN": "抑制时间段",
+    "zhEN": "Ignore Time",
+    "zhTW": "抑制時間段"
+  },
+  {
+    "zhCN": "请选择时间",
+    "zhEN": "Please choose the time",
+    "zhTW": "請選擇時間"
+  },
+  {
+    "zhCN": "启用该功能时，抑制时间不能超过24小时",
+    "zhEN": "Daily cycle (Ignore time should not exceed 24 hours when this function is enabled)",
+    "zhTW": "按天迴圈（啟用該功能時，抑制時間不能超過24小時）"
+  },
+  {
+    "zhCN": "消息抑制设置",
+    "zhEN": "Ignore Alarm Settings",
+    "zhTW": "消息抑制設定"
+  },
+  {
+    "zhCN": "DPI流量分析",
+    "zhEN": "DPI Flow Analysis",
+    "zhTW": "DPI流量分析"
+  },
+  {
+    "zhCN": "请选择公司",
+    "zhEN": "Please select company",
+    "zhTW": "請選擇企業"
+  },
+  {
+    "zhCN": "故障持续时间",
+    "zhEN": "Fault duration",
+    "zhTW": "故障持續時間"
+  },
+  {
+    "zhCN": "DPI流量分析",
+    "zhEN": "DPI Flow Analysis",
+    "zhTW": "DPI流量分析"
+  },
+  {
+    "zhCN": "原因",
+    "zhEN": "Reason",
+    "zhTW": "原因"
+  },
+  {
+    "zhCN": "请选择原因",
+    "zhEN": "Please select reason"
+  },
+  {
+    "zhCN": "外网质量差",
+    "zhEN": "Poor network quality"
+  },
+  {
+    "zhCN": "测试",
+    "zhEN": "Test"
+  },
+  {
+    "zhCN": "其他",
+    "zhEN": "Others"
+  },
+  {
+    "zhCN": "系统重启",
+    "zhEN": "Restart System"
+  },
+  {
+    "zhCN": "备注",
+    "zhEN": "Remark",
+    "zhTW": "備註"
+  }
+]

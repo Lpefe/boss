@@ -1,0 +1,136 @@
+import {defineMessages} from "react-intl";
+
+const messages = defineMessages({
+    linkStatusStat: {
+        id: 'CI0801.linkStatusStat',
+        defaultMessage: '链路状态统计',
+    },
+    stepStatusStat:{
+        id:'CI0801.stepStatusStat',
+        defaultMessage: 'step设备状态统计',
+    },
+    edgeNode:{
+        id:'CI0801.edgeNode',
+        defaultMessage: '边缘节点',
+    },
+    centerNode:{
+        id:'CI0801.centerNode',
+        defaultMessage: '中心节点',
+    },
+    line:{
+        id:'CI0801.line',
+        defaultMessage:"线路"
+    },
+    totalBandWidth:{
+        id:'CI0801.totalBandWidth',
+        defaultMessage:"总带宽"
+    },
+    domesticNet:{
+        id:'CI0801.domesticNet',
+        defaultMessage:"国内组网"
+    },
+    overseaNet:{
+        id:'CI0801.overseaNet',
+        defaultMessage:"全球组网"
+    },
+    overseaSpeed:{
+        id:'CI0801.overseaSpeed',
+        defaultMessage:"海外加速"
+    },
+    overseaSaas:{
+        id:'CI0801.overseaSaas',
+        defaultMessage:"全球SaaS加速"
+    },
+    domesticSaas:{
+        id:'CI0801.domesticSaas',
+        defaultMessage:"国内SaaS加速"
+    },
+    table:{
+        id:'CI0801.table',
+        defaultMessage:"表格"
+    },
+    deviceStat:{
+        id:'CI0801.deviceStat',
+        defaultMessage:"设备统计"
+    },
+    linkStat:{
+        id:'CI0801.linkStat',
+        defaultMessage:"链路统计"
+    },
+    nodeStat:{
+        id:'CI0801.nodeStat',
+        defaultMessage:"节点汇总"
+    },
+    city:{
+        id:'CI0801.city',
+        defaultMessage:"城市"
+    },
+    link:{
+        id:'CI0801.link',
+        defaultMessage:"链路"
+    },
+    device:{
+        id:'CI0801.device',
+        defaultMessage:"设备"
+    },
+    map:{
+        id:'CI0801.map',
+        defaultMessage:"地图"
+    },
+    frontPage:{
+        id:'CI0801.frontPage',
+        defaultMessage:"首页"
+    },
+    selectStatusPlaceholder:{
+        id:"CI0801.selectStatusPlaceholder",
+        defaultMessage:"请选择状态"
+    },
+    selectTypePlaceholder:{
+        id:"CI0801.selectTypePlaceholder",
+        defaultMessage:"请选择类型"
+    },
+    inputPlaceholder:{
+        id:"CI0801.inputPlaceholder",
+        defaultMessage:"请输入关键字"
+    },
+    linkName:{
+        id:"CI0801.linkName",
+        defaultMessage:"链路名称"
+    },
+    status:{
+        id:"CI0801.status",
+        defaultMessage:"状态"
+    },
+    nodeName:{
+        id:"CI0801.nodeName",
+        defaultMessage:"节点名称"
+    },
+    sn:{
+        id:"CI0801.sn",
+        defaultMessage:"设备序列号"
+    },
+    linkType:{
+        id:"CI0801.linkType",
+        defaultMessage:"链路类型"
+    },
+    bandwidth:{
+        id:"CI0801.bandwidth",
+        defaultMessage:"带宽"
+    },
+    deviceName:{
+        id:"CI0801.deviceName",
+        defaultMessage:"设备名称"
+    },
+    alert:{
+        id:"CI0801.alert",
+        defaultMessage:"24小时报警"
+    },
+    "告警信息":{id:"CI0801.告警信息"},
+    "边缘节点":{id:"CI0801.边缘节点"},
+    "中心节点":{id:"CI0801.中心节点"},
+    "数量":{id:"CI0801.数量"},
+    "链路信息":{id:"CI0801.链路信息"},
+    "链路状态":{id:"CI0801.链路状态"}
+});
+
+export default messages;

@@ -1,0 +1,257 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" id="viewport" name="viewport"
+          content="width=device-width, initial-scale=2.0, maximum-scale=0.01, user-scalable=no">
+    <link rel="icon" href="images/logo.ico" type="image/x-icon"/>
+    <link href="css/pub.css" type="text/css" rel="stylesheet">
+    <link href="css/css.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+
+    <title>极致互联 - 关于我们</title>
+
+</head>
+<style>
+#about_inside2{
+	width:1920px;
+	height:530px;
+	left:-300px;
+	top:70px;
+}
+#about_inside1{
+	top:50px;
+}
+.inside_banner ul.nav2 li .erji {
+	width: 140px;
+	position: absolute;
+	top: 108px;
+	left: 24px;
+	background: #fff;
+	border-top: 2px solid #0d6aff;
+	padding: 16px 0;
+	opacity: 0;
+	display: none;
+}
+
+.inside_banner ul.nav2 li .erji img {
+	position: absolute;
+	top: -7px;
+	left: 0;
+}
+
+.inside_banner ul.nav2 li .erji a {
+	font-size: 14px;
+	color: #333;
+	display: block;
+	text-align: left;
+	margin: 0 16px;
+	line-height: 2.6;
+}
+
+.inside_banner ul.nav2 li .erji a:hover {
+	color: #4c82e0;
+}
+
+.inside_banner ul.nav2 li:hover .erji {
+	top: 68px;
+	opacity: 1;
+	display: block;
+}
+.inside_banner ul.nav2 {
+	
+}
+
+.inside_banner ul.nav2 li {
+	display: block;
+
+	width: 150px;
+	height: 50px;
+
+	line-height: 50px;
+	padding: 10px 0;
+	text-align: center;
+	float: left;
+	position: relative;
+}
+
+body.nopadding .inside_banner ul.nav2 li {
+    width: 25%;
+}
+
+.inside_banner ul.nav2 li a {
+	color: #333;
+    font-size: 16px;
+    display: block;
+    width: 150px;
+    height: 40px;
+    border-radius: 0;
+
+    background:rgba(0,1,3,0);
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    top: 0;
+    opacity: 1;
+}
+
+.inside_banner ul.nav2 li a.on,
+.inside_banner ul.nav2 li a:hover {
+    font-size:16px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(86,128,254,1);
+}
+
+.contact{
+    width: 1200px;
+    margin: 0 auto;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    opacity: 0;
+}
+.contact div{
+    text-align: center
+}
+.contact div img{
+    margin: 0 auto
+}
+.contact div h2{
+
+    height:20px;
+    font-size:20px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(0,0,0,1)
+}
+.contact div span{
+    width:119px;
+height:12px;
+font-size:14px;
+font-family:PingFangSC-Regular;
+font-weight:400;
+color:rgba(102,102,102,1);
+}
+</style>
+
+<body class="nopadding">
+
+<div class="top">
+    <div class="box">
+        <img src="images/logo.png" class="logo">
+        <ul class="nav">
+            <li><a href="index1.html">首页</a></li>
+            <li><a href="product.html">产品介绍</a></li>
+            <li>
+                <a href="solution1.html">解决方案</a>
+                <div class="erji">
+                    <img src="images/erji_arr.png">
+                    <a href="solution1.html">企业组网</a>
+                    <a href="solution2.html">SaaS/Web加速</a>
+                    <a href="solution3.html">云平台加速</a>
+                    <a href="solution4.html">混合云高速通道</a>
+                </div>
+            </li>
+            <li><a class="on" href="about.html">关于我们</a></li>
+        </ul>
+        <a href="https://boss.globalsdn.com/#/" class="login">登录</a>
+    </div>
+</div>
+
+<div class="inside_banner" style="background: url(images/5_111.png) no-repeat center center;">
+    <div style="width:100%;
+    height:50px;
+    background:rgba(0,1,3,1);
+    opacity:0.6;width:100%;height:50px;position: absolute;top: 550px; "></div>
+    <div class="box">
+            <img id="about_inside1" src="images/5_113.png">
+            <img id="about_inside2" src="images/5_112.png">
+            <ul class="nav2"style="width:100%;height:50px;position: absolute;top: 480px; ">
+                    <li><a href="about.html">关于极致互联</a></li>
+                    <li><a href="about_events.html">大事记</a></li>
+                    <li>
+                        <a href="about_joinus.html">加入我们</a>
+                    </li>
+                    <li><a class="on" href="about_contactus.html">联系我们</a></li>
+                </ul>
+    </div>
+</div>
+
+<div class="contact">
+    <div>
+        <img src="./images/业务咨询.png" alt="">
+        <h2>业务咨询</h2><br>
+        <span>+86-15305719378</span><br>
+        <span>steven@globalsdn.com</span>
+    </div>
+    <div>
+        <img src="./images/客服热线.png" alt="">
+        <h2>客服热线</h2><br>
+        <span>400-826-3099</span><br>
+        <span>enquires@globalsdn.com</span>
+    </div>
+    <div>
+        <img src="./images/HR专线.png" alt="">
+        <h2>HR专线</h2><br>
+        <span>+86-15397194049</span><br>
+        <span>hr@globalsdn.com</span>
+    </div>
+</div>
+
+<div class="footer">
+    <div class="box">
+        <ul>
+            <li><h1>帮助中心</h1></li>
+            <li><a href="about.html#ab_div5">问题反馈</a></li>
+            <li><a href="about.html#ab_div4">联系销售</a></li>
+            <li><a href="help.html">帮助文档</a></li>
+        </ul>
+        <ul>
+            <li><h1>交流合作</h1></li>
+            <li><a href="about.html">关于我们</a></li>
+            <li><a href="about.html#ab_div4">合作咨询</a></li>
+            <li><a href="about.html#ab_div4">加入我们</a></li>
+        </ul>
+        <ul>
+            <li><h1>联系我们</h1></li>
+            <li><p>400-826-3099</p></li>
+            <li><p>enquires@globalsdn.com</p></li>
+            <li><p>杭州极致互联网络科技有限公司</p></li>
+            <li><p>中国·杭州·余杭区余杭塘路2301号海智中心4号楼10楼</p></li>
+        </ul>
+        <ul class="code">
+            <li><img src="images/code.jpg"></li>
+            <li><p>扫一扫，关注我们</p></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="bottom">
+    <div class="box">
+        <p>© 2017 极致互联. 公司版权所有<span>|</span><a style="color:white" href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备17059766号</a>
+        </p>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $(document).scrollTop(475);
+        $(".contact").delay(400).animate({opacity: '1'}, 200);
+        $("#about_inside1").delay(400).animate({opacity: '1', top: '0'}, 200);
+        $("#about_inside2").delay(400).animate({opacity: '1', top: '0'}, 200);
+    });
+</script>
+
+</body>
+</html>

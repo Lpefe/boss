@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" id="viewport" name="viewport"
+          content="width=device-width, initial-scale=2.0, maximum-scale=0.01, user-scalable=no">
+    <link rel="icon" href="images/logo.ico" type="image/x-icon"/>
+    <link href="css/pub.css" type="text/css" rel="stylesheet">
+    <link href="css/css.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+
+    <title>极致互联 - 合作伙伴</title>
+
+</head>
+
+<body class="nopadding">
+
+<div class="top">
+    <div class="box">
+        <img src="images/logo.png" class="logo">
+        <ul class="nav">
+            <li><a href="index1.html">首页</a></li>
+            <li><a href="product.html">产品介绍</a></li>
+            <li><a href="solution.html">解决方案</a></li>
+            <li><a class="on" href="partner.html">合作伙伴</a></li>
+            <li><a href="about.html">关于我们</a></li>
+        </ul>
+        <a href="https://boss.globalsdn.com/#/" class="login">登录</a>
+    </div>
+</div>
+
+<div class="inside_banner">
+    <div class="box">
+
+    </div>
+</div>
+
+<div class="par_div1">
+    <div class="box">
+        <img class="title" src="images/4_1.jpg">
+        <p>
+            极致互联推出了零风险、收益共享的合作伙伴融合计划。通过该计划，全球及地区服务供应商结合全球网络及专利优化叠加技术（在自己的网络上运行），实现了对其品牌及其接入点和网络基础设施的充分利用。走向市场的“联合”策略吸引了大大小小的服务供应商前来合作。</p>
+        <img class="par_logo" src="images/4_2.jpg">
+    </div>
+</div>
+
+<div class="footer">
+    <div class="box">
+        <ul>
+            <li><h1>帮助中心</h1></li>
+            <li><a href="about.html#ab_div5">问题反馈</a></li>
+            <li><a href="about.html#ab_div4">联系销售</a></li>
+            <li><a href="help.html">帮助文档</a></li>
+        </ul>
+        <ul>
+            <li><h1>交流合作</h1></li>
+            <li><a href="about.html">关于我们</a></li>
+            <li><a href="about.html#ab_div4">合作咨询</a></li>
+            <li><a href="about.html#ab_div4">加入我们</a></li>
+        </ul>
+        <ul>
+            <li><h1>联系我们</h1></li>
+            <li><p>400-826-3099</p></li>
+            <li><p>enquires@globalsdn.com</p></li>
+            <li><p>杭州极致互联网络科技有限公司</p></li>
+            <li><p>中国·杭州·余杭区余杭塘路2301号海智中心4号楼10楼
+            </p></li>
+        </ul>
+        <ul class="code">
+            <li><img src="images/code.jpg"></li>
+            <li><p>扫一扫，关注我们</p></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="bottom">
+    <div class="box">
+        <p>© 2017 极致互联. 公司版权所有<span>|</span><a style="color:white" href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备17059766号</a>
+        </p>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        $("#inside1").animate({opacity: '1'}, 1000);
+        $("#inside2").delay(800).animate({opacity: '1', top: '0'}, 1200);
+        $("#inside3").delay(1200).animate({opacity: '1', top: '0'}, 1200);
+
+        $(".par_div1 .title").animate({opacity: '1', top: '0'}, 1000);
+
+        $(window).scroll(function () {
+
+            if ($("body").scrollTop() > 150) {
+                $(".par_div1 p").animate({opacity: '1'}, 1000);
+                $(".par_div1 .par_logo").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+            if ($(window).scrollTop() > 150) {
+                $(".par_div1 p").animate({opacity: '1'}, 1000);
+                $(".par_div1 .par_logo").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+        });
+    });
+</script>
+
+</body>
+</html>

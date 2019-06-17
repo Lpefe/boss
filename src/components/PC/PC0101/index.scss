@@ -1,0 +1,52 @@
+.pc0101 {
+  .bread{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+  }
+  .transition-card{
+    transition:width 0.5s ease-out;
+  }
+  .right-sider {
+    max-height: 100%;
+    .right-sider-header{
+      padding: 0;
+      span{
+        float: left;
+        margin-left: 24px;
+      }
+    }
+    .department-tree {
+      height:100%;
+      overflow: scroll;
+      .editable-tree-node {
+        .icon {
+          color: #FFA80E;
+          margin-right: 8px;
+        }
+        span {
+          font-family: PingFangSC-Regular;
+          font-size: 14px;
+          color: rgba(0, 0, 0, 0.65);
+          line-height: 22px;
+        }
+        .btn {
+          padding-left: 4px;
+          padding-right: 4px;
+          border-right: 1px solid rgba(0, 0, 0, 0.09);
+        }
+        .tree-node-operation {
+          display: none;
+          float:right;
+        }
+      }
+      .editable-tree-node:hover .tree-node-operation {
+        display: inline-block;
+      }
+    }
+  }
+
+
+
+}

@@ -1,0 +1,65 @@
+.common-link-icon{
+  color:#1890ff;
+  cursor:pointer;
+}
+
+/*加载中字体颜色及动态效果*/
+.loading-text{
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: rgba(0,0,0,0.65);
+  line-height: 14px;
+}
+.loading-text:after {
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  animation: ellipsis 2s infinite;
+  content: "\2026"; /* ascii code for the ellipsis character */
+}
+@keyframes ellipsis {
+  from {
+    width: 2px;
+  }
+  to {
+    width: 15px;
+  }
+}
+
+/*设定全局字体*/
+*{
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  letter-spacing: 0;
+  margin:0;
+  padding:0;
+}
+/*修改部分自定义表头的颜色*/
+thead[class*="ant-table-thead"] th[class*='blue']{
+  background-color: #E8EEFA !important;
+}
+
+thead[class*="ant-table-thead"] th[class*='orange']{
+  background-color: #FDEDE2 !important;
+}
+
+thead[class*="ant-table-thead"] th[class*='green']{
+  background-color: #ECFDE2 !important;
+}
+/*thead[class*="ant-table-thead"] th{
+  border-left: none !important;
+  border-right:none !important;
+}*/
+
+/*tbody[class*="ant-table-tbody"] tr[class*="normal"] td{
+  border-left: none !important;
+  border-right:none !important;
+}*/
+
+
+.card{
+  border-radius: 5px;
+  margin-bottom: 16px;
+}
+
+

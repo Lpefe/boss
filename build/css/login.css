@@ -1,0 +1,202 @@
+html,body{
+	height: 100%;
+	overflow: hidden;
+}
+.larry-canvas{
+	background: #00917D;
+	width: 100%;
+	height: 100%;
+}
+.layui-canvas{
+	display: block;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+}
+/* .layui-layout-login{
+	position: fixed;
+	top: 0px;
+	left: 50%;
+    width:350px;
+    height:auto;
+    overflow:hidden;
+    margin:13% auto 0 auto;
+    margin-left: -225px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    box-shadow:0 -15px 30px #0d957a;
+    border-radius:5px;
+    z-index: 1000;
+} */
+/* .layui-layout-login h1{
+	font-size:25px;
+	font-weight:bold;
+	text-align:center;
+	color:#45bda6;
+	text-shadow:0 0 1px #0e947a;
+	margin-bottom:15px;
+} */
+.layui-layout-login {
+    position: fixed;
+    top: 0px;
+    left: 50%;
+    width: 350px;
+    height: auto;
+    overflow: hidden;
+    margin: 11% auto 0;
+    margin-left: -225px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    box-shadow: 1px 0px 8px rgba(76,130,224,0.26);
+    border-radius: 5px;
+    z-index: 1000;
+    background: white;
+}
+.layui-layout-login h1 {
+    font-size: 28px;
+	padding-top: 10px;
+	padding-bottom: 18px;
+    text-align: center;
+    font-family: HiraginoSansGB-W3;
+    color: rgba(137,137,137,1);
+}
+.layui-layout-login h1 strong{
+	display:block;
+}
+.layui-layout-login h1 em{
+	display:block;
+	font-size:16px;
+	margin-top:20px;
+}
+.layui-layout-login .larry-login{
+	margin:20px 0;
+	height:42px;
+	overflow:hidden;
+	position:relative;
+}
+/* .larry-login .login_txtbx{
+	font-size:14px;
+	height:26px;
+	line-height:26px;
+	padding:8px 5%;
+	width:90%;
+	text-indent:2em;
+	border:none;
+	background:#5cbdaa;
+	color:white;
+} */
+.larry-login .login_txtbx {
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    width: 99%;
+    text-indent: 1em;
+    border: none;
+    /* color: white; */
+    border: 1px solid #D3D9E3;
+}
+.larry-login  .login_txtbx::-webkit-input-placeholder {
+	color:#333;
+	/* color:#f4f4f4; */
+	line-height:inherit;
+} 
+.larry-login  .login_txtbx:-moz-placeholder {
+	color:#333;
+	/* color:#f4f4f4; */
+	line-height:inherit;
+} 
+.larry-login  .login_txtbx::-moz-placeholder {
+	color:#333;
+	/* color:#f4f4f4; */
+	line-height:inherit;
+}
+.larry-login  .login_txtbx:focus{
+    border: 1px solid #5D9AE6;
+	/* background:#55b7a4; */
+}
+/* .larry-login:before{
+	font-family:'adminthemesregular';
+	position:absolute;
+	top:0;
+	left:10px;
+	height:42px;
+	line-height:42px;
+	font-size:20px;
+	color:#0c9076;
+}
+.layui-user-icon:before{content:"u";}
+.layui-pwd-icon:before{content:"p";} */
+.layui-val-icon:before{content:"n";}
+.layui-code-box{
+	width:100%;
+	height: 42px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background:#5cbdaa;
+	font-size:14px;
+	height:26px;
+	line-height:26px;
+}
+.layui-code-box input.login_txtbx{
+	width:45%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	float: left;
+	color:black;
+	/* color:white; */
+	outline:none;
+	border:none;
+}
+.layui-code-box input.login_txtbx:focus{
+	font-size: 20px;
+}
+.layui-code-box  .verifyImg{
+	display: block;
+	width: 43%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	cursor: pointer;
+}
+.layui-submit .submit_btn{
+	width:100%;
+	height:42px;
+	border:none;
+	font-size:16px;
+	background:rgba(93,154,230,1);
+	/* background:#FF5722; */
+	color:#f8f8f8;
+	cursor: pointer;
+}
+.submit_btn:hover{
+	background:#FF5722;;
+	/* background:#009688; */
+	color:#f4f4f4;
+}
+.layui-login-text{
+	margin:10px 0;
+	height:60px;
+	overflow:hidden;
+	position:relative;
+}
+.layui-login-text p{
+	color:#898989;
+	font-size:14px;
+	text-align:center;
+	margin:5px 0;
+}
+.layui-login-text a{
+	color:#898989;
+	font-size:14px;
+}
+.layui-login-text a:hover{
+	text-decoration: underline;
+}
+
+

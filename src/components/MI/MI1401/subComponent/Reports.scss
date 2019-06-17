@@ -1,0 +1,48 @@
+.loading-title {
+  font-family: PingFangSC-Medium;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+  line-height: 22px;
+}
+
+.range-title {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  font-family: PingFangSC-Medium;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+  line-height: 22px;
+}
+
+.table-range-number {
+  color: #1890FF;
+  cursor: pointer;
+}
+
+.band-load-title {
+  font-family: PingFangTC-Medium;
+  font-size: 16px;
+  color: #333333;
+  line-height: 18px;
+  margin-bottom: 16px;
+  .band-load-sub {
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.65);
+    line-height: 14px;
+  }
+}
+.show-rank-button{
+  position: absolute;
+  border: 1px solid #e8e8e8;
+  height:111px;
+  width:151px;
+  border-right: none;
+  cursor: pointer;
+  text-align: center;
+  line-height: 111px;
+  vertical-align: center;
+  font-family: PingFangSC-Medium;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+}

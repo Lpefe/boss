@@ -1,0 +1,245 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" id="viewport" name="viewport"
+          content="width=device-width, initial-scale=2.0, maximum-scale=0.01, user-scalable=no">
+    <link rel="icon" href="images/logo.ico" type="image/x-icon"/>
+    <link href="css/pub.css" type="text/css" rel="stylesheet">
+    <link href="css/css.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+
+    <title>极致互联 - 解决方案</title>
+
+</head>
+
+<body>
+
+<div class="top">
+    <div class="box">
+        <img src="images/logo.png" class="logo">
+        <ul class="nav">
+            <li><a href="index1.html">首页</a></li>
+            <li><a href="product.html">产品介绍</a></li>
+            <li>
+                <a class="on" href="solution1.html">解决方案</a>
+                <div class="erji">
+                    <img src="images/erji_arr.png">
+                    <a href="solution1.html">企业组网</a>
+                    <a href="solution2.html">SaaS/Web加速</a>
+                    <a href="solution3.html">云平台加速</a>
+                    <a href="solution4.html">混合云高速通道</a>
+                </div>
+            </li>
+            <li><a href="about.html">关于我们</a></li>
+        </ul>
+        <a href="https://boss.globalsdn.com/#/" class="login">登录</a>
+    </div>
+</div>
+
+<div class="inside_banner" style="background: url(images/3_40.png) no-repeat center center;">
+    <div class="box">
+        <img src="images/3_43.png" id="inside2">
+        <img src="images/3_44.png" id="inside3">
+    </div>
+</div>
+
+<div class="solu_div3">
+    <div class="box">
+        <img class="title" src="images/3_9.png">
+        <div class="solu_div3_con" id="tabs2">
+            <ul>
+                <li class="on">
+                    <img src="images/3_10.png">
+                    <p>加速数据传输</p>
+                </li>
+                <li>
+                    <img src="images/3_11.png">
+                    <p>优化混合应用程序</p>
+                </li>
+                <li>
+                    <img src="images/3_12.png">
+                    <p>提升应用性能</p>
+                </li>
+            </ul>
+            <div>
+                <h1>动态数据加速</h1>
+                <p>通过建立在全球的私有骨干网络，提供动态数据加速优化，从而支持企业对网络加速优化的需求。这个解决方案可以使企业加快网络和IP应用程序性能的稳定和安全。</p>
+                <h1>优化缓存方案</h1>
+                <p>极致互联采用合理的缓存策略，为所有企业用户分配均等的缓存资源，内容及应用交付的速度比传统CDN最高可快3倍</p>
+            </div>
+            <div class="hide">
+                <h1>所有应用程序加速</h1>
+                <p>Web门户网站、手机网站及应用、电子商务网站、托管的企业应用</p>
+                <h1>TCP优化</h1>
+                <p>专有TCP优化技术包括遍布整个网络的拥塞控制算法及流量聚合智能技术。通过应用该技术，可实现网络带宽的最优化使用，即使在距离较长的情况下，也可快速获得应用持续连接。
+                    通过减少开放式连接的总数目，确保原始服务器可以最大效率接收请求并做出响应</p>
+
+            </div>
+            <div class="hide">
+                <h1>提升应用性能</h1>
+                <p>方案可以高速传输静态数据和动态数据以及所有Web和IP应用，完全避免因中间段传输堵塞而造成的困扰</p>
+                <h1></h1>
+                <p></p>
+                <h1></h1>
+                <p></p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            window.onload = function () {
+                var oTab2 = document.getElementById("tabs2");
+                var oUl2 = oTab2.getElementsByTagName("ul")[0];
+                var oLis2 = oUl2.getElementsByTagName("li");
+                var oDivs2 = oTab2.getElementsByTagName("div");
+
+                for (var j = 0, b = oLis2.length; j < b; j++) {
+                    oLis2[j].index = j;
+                    oLis2[j].onclick = function () {
+                        for (var m = 0; m < b; m++) {
+                            oLis2[m].className = "";
+                            oDivs2[m].className = "hide";
+                        }
+                        this.className = "on";
+                        oDivs2[this.index].className = "";
+                    }
+                }
+                ;
+            }
+        </script>
+    </div>
+</div>
+
+<div class="solu_div6">
+    <div class="box">
+        <img class="title" src="images/3_19.png">
+    </div>
+    <div class="solu_div6_con">
+        <div class="box">
+            <img src="images/3_37.png">
+            <div>
+                <h1>网络加速体验</h1>
+                <p>
+                    通用性强<br>
+                    可完全用于多种场景，诸如跨国ADN、SAP、Citrix应用、远程桌面登陆、云服务等。<br>
+                    比传统技术的CDN方案快3倍。
+                </p>
+                <h1>便捷的实时服务</h1>
+                <p>
+                    快速开通<br>
+                    无需客户改变现有网络架构，也不必在客户端做任何部署动作，便可快速开通使用。拥有SLA认定的7X24小时全球服务保障
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="solu_div7">
+    <div class="box">
+        <img class="title" src="images/3_21.png">
+        <ul>
+            <li>
+                <img src="images/3_22.jpg">
+                <h1>扩展带宽</h1>
+                <p>减少高达98%的带宽消耗，提供20到50倍的带宽扩展</p>
+            </li>
+            <li>
+                <img src="images/3_23.jpg">
+                <h1>虚拟化服务</h1>
+                <p>减少企业设备的占有空间，而无需设备的维护</p>
+            </li>
+            <li>
+                <img src="images/3_24.jpg">
+                <h1>节约企业成本</h1>
+                <p>借助SD-WAN的嵌入式网络，减少网络带宽的成本投入</p>
+            </li>
+            <li>
+                <img src="images/3_25.jpg">
+                <h1>灵活部署</h1>
+                <p>快速开放就近骨干网POP点，及时满足企业网络需求</p>
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="footer">
+    <div class="box">
+        <ul>
+            <li><h1>帮助中心</h1></li>
+            <li><a href="about.html#ab_div5">问题反馈</a></li>
+            <li><a href="about.html#ab_div4">联系销售</a></li>
+            <li><a href="help.html">帮助文档</a></li>
+        </ul>
+        <ul>
+            <li><h1>交流合作</h1></li>
+            <li><a href="about.html">关于我们</a></li>
+            <li><a href="about.html#ab_div4">合作咨询</a></li>
+            <li><a href="about.html#ab_div4">加入我们</a></li>
+        </ul>
+        <ul>
+            <li><h1>联系我们</h1></li>
+            <li><p>400-826-3099</p></li>
+            <li><p>enquires@globalsdn.com</p></li>
+            <li><p>杭州极致互联网络科技有限公司</p></li>
+            <li><p>中国·杭州·余杭区余杭塘路2301号海智中心4号楼10楼
+            </p></li>
+        </ul>
+        <ul class="code">
+            <li><img src="images/code.jpg"></li>
+            <li><p>扫一扫，关注我们</p></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="bottom">
+    <div class="box">
+        <p>© 2017 极致互联. 公司版权所有<span>|</span><a style="color:white" href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备17059766号</a>
+        </p>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#inside1").animate({opacity: '1'}, 1000);
+        $("#inside2").delay(200).animate({opacity: '1', top: '0'}, 1200);
+        $("#inside3").delay(600).animate({opacity: '1', top: '0'}, 1200);
+        $(".solu_div3 .title").animate({opacity: '1', top: '0'}, 1000);
+        $("#tabs2").delay(800).animate({opacity: '1'}, 1000);
+
+        $(window).scroll(function () {
+
+
+            if ($(window).scrollTop() > 10) {
+                $(".solu_div3 .title").animate({opacity: '1', top: '0'}, 1000);
+                $("#tabs2").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+            if ($("body").scrollTop() > 700) {
+                $(".solu_div6 .title").animate({opacity: '1', top: '0'}, 1000);
+                $(".solu_div6_con").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+            if ($(window).scrollTop() > 700) {
+                $(".solu_div6 .title").animate({opacity: '1', top: '0'}, 1000);
+                $(".solu_div6_con").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+            if ($("body").scrollTop() > 1300) {
+                $(".solu_div7 .title").animate({opacity: '1', top: '0'}, 1000);
+                $(".solu_div7 ul").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+            if ($(window).scrollTop() > 1300) {
+                $(".solu_div7 .title").animate({opacity: '1', top: '0'}, 1000);
+                $(".solu_div7 ul").delay(800).animate({opacity: '1'}, 1000);
+            }
+
+        });
+    });
+</script>
+
+</body>
+</html>

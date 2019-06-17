@@ -1,0 +1,32 @@
+.ci0001Name {
+  height:32px;
+  font-size:32px;
+  font-family:PingFangSC-Regular;
+  font-weight:400;
+  color:rgba(0,0,0,0.85);
+  line-height:32px;
+}
+
+.ci0001Remark{
+  background:rgba(255,251,230,1);
+  border-radius:4px;
+  border:1px solid rgba(255,229,143,1);
+  padding-left: 15px;
+  padding-top: 15px
+}
+
+.ci0001button{
+  width:101px;
+  height:40px;
+  background:rgba(255,255,255,1);
+  border:1px solid rgba(0,0,0,0.15);
+}
+
+.ci0001figure{
+  flex-direction: column;
+  margin-top:70;
+  width:120;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}

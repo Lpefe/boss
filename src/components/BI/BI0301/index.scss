@@ -1,0 +1,34 @@
+
+.statContainer {
+  width: 45%;
+  .statSect {
+    .statData {
+      text-align: center;
+      font-size: 38px;
+      width: 100px;
+      font-family: HelveticaNeue;
+    }
+    .statNm {
+      text-align: center;
+      font-size: 14px;
+      width: 100px;
+      font-family: HelveticaNeue;
+    }
+  }
+}
+
+.ci0201-header {
+  margin-bottom: 16px;
+  text-align: right;
+  .right-header {
+    display: inline-block;
+    .input {
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn {
+  margin-right: 8px;
+}

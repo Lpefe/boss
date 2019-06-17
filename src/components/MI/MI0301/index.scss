@@ -1,0 +1,19 @@
+.header {
+  margin-bottom: 16px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn{
+  margin-right: 8px;
+}

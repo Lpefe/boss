@@ -1,0 +1,504 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" id="viewport" name="viewport" content="width=device-width, initial-scale=2.0, maximum-scale=0.01, user-scalable=no">
+    <link rel="icon" href="images/logo.ico" type="image/x-icon" />
+    <link href="css/pub.css" type="text/css" rel="stylesheet">
+    <link href="css/css.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+
+    <title>极致互联 - 关于我们</title>
+
+</head>
+<style>
+    #about_inside2 {
+        width: 1920px;
+        height: 530px;
+        left: -300px;
+        top: 70px;
+    }
+
+    #about_inside1 {
+        top: 50px;
+    }
+
+    .inside_banner ul.nav2 li .erji {
+        width: 140px;
+        position: absolute;
+        top: 108px;
+        left: 24px;
+        background: #fff;
+        border-top: 2px solid #0d6aff;
+        padding: 16px 0;
+        opacity: 0;
+        display: none;
+    }
+
+    .inside_banner ul.nav2 li .erji img {
+        position: absolute;
+        top: -7px;
+        left: 0;
+    }
+
+    .inside_banner ul.nav2 li .erji a {
+        font-size: 14px;
+        color: #333;
+        display: block;
+        text-align: left;
+        margin: 0 16px;
+        line-height: 2.6;
+    }
+
+    .inside_banner ul.nav2 li .erji a:hover {
+        color: #4c82e0;
+    }
+
+    .inside_banner ul.nav2 li:hover .erji {
+        top: 68px;
+        opacity: 1;
+        display: block;
+    }
+
+    .inside_banner ul.nav2 {}
+
+    .inside_banner ul.nav2 li {
+        display: block;
+
+        width: 150px;
+        height: 50px;
+
+        line-height: 50px;
+        padding: 10px 0;
+        text-align: center;
+        float: left;
+        position: relative;
+    }
+
+    body.nopadding .inside_banner ul.nav2 li {
+        width: 25%;
+    }
+
+    .inside_banner ul.nav2 li a {
+        color: #333;
+        font-size: 16px;
+        display: block;
+        width: 150px;
+        height: 40px;
+        border-radius: 0;
+
+        background: rgba(0, 1, 3, 0);
+        text-align: center;
+        line-height: 40px;
+        color: #fff;
+        margin: auto;
+        position: relative;
+        top: 0;
+        opacity: 1;
+    }
+
+    .inside_banner ul.nav2 li a.on,
+    .inside_banner ul.nav2 li a:hover {
+        font-size: 16px;
+        font-family: PingFangSC-Regular;
+        font-weight: 400;
+        color: rgba(86, 128, 254, 1);
+    }
+
+    .tab {
+        width: 100%;
+        background-size: cover;
+        margin-top: 50px
+    }
+
+    .tab .box {
+        width: 1200px;
+        position: relative;
+        margin: 0 auto;
+        height: 650px
+    }
+
+    .tab .box .menus {
+        width: 200px;
+        height: 650px;
+        float: left;
+        overflow: hidden
+    }
+
+    .tab .box .menus li {
+        width: 160px;
+        height: 50px;
+        font-size: 14px;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+        line-height: 50px;
+        transition: all .3s;
+        -moz-transition: all .3s;
+        -o-transition: all .3s;
+        -webkit-transition: all .3s
+    }
+
+    .tab .box .bg {
+        height: 50px !important;
+        background: #009fe9 !important;
+        line-height: 50px !important;
+        color: rgba(255, 255, 255, 1) !important;
+
+    }
+
+    .tab .right {
+        float: left;
+        width: 950px;
+        height: 650px;
+        overflow: hidden;
+        margin-left: 50px;
+        border-radius: 10px;
+    }
+
+    .tab .tab_right {
+        width: 950px;
+        height: 650px;
+        color: #fff;
+        text-align: center;
+        position: relative
+    }
+
+    .tab .tab_right img {
+        width: 100%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0
+    }
+
+    .tab .scroll {
+        transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        -webkit-transition: all .5s
+    }
+
+    .table_name {
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        width: 250px;
+        height: 20px;
+        line-height: 20px;
+        float: left;
+        font-size: 20px;
+        font-family: PingFangSC-Regular;
+        font-weight: 400;
+        color: rgba(102, 102, 102, 1);
+    }
+
+    .table_time {
+        margin-top: 10px;
+        margin-bottom: 20px;
+        height: 20px;
+        line-height: 20px;
+        float: left;
+        font-size: 14px;
+        font-family: PingFangSC-Regular;
+        font-weight: 400;
+        color: rgba(102, 102, 102, 1);
+    }
+
+    .table_name2 {
+        font-weight: 900 !important;
+        float: left;
+        width: 100%;
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(0, 0, 0, 1);
+        line-height: 24px;
+        text-align: left;
+        margin-bottom: 15px;
+    }
+
+    .table_li {
+        float: left;
+        width: 100%;
+        font-size: 14px;
+        font-family: PingFangSC-Regular;
+        font-weight: 400;
+        color: rgba(0, 0, 0, 1);
+        line-height: 24px;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+</style>
+
+<body class="nopadding">
+
+    <div class="top">
+        <div class="box">
+            <img src="images/logo.png" class="logo">
+            <ul class="nav">
+                <li><a href="index1.html">首页</a></li>
+                <li><a href="product.html">产品介绍</a></li>
+                <li>
+                    <a href="solution1.html">解决方案</a>
+                    <div class="erji">
+                        <img src="images/erji_arr.png">
+                        <a href="solution1.html">企业组网</a>
+                        <a href="solution2.html">SaaS/Web加速</a>
+                        <a href="solution3.html">云平台加速</a>
+                        <a href="solution4.html">混合云高速通道</a>
+                    </div>
+                </li>
+                <li><a class="on" href="about.html">关于我们</a></li>
+            </ul>
+            <a href="https://boss.globalsdn.com/#/" class="login">登录</a>
+        </div>
+    </div>
+
+    <div class="inside_banner" style="background: url(images/5_111.png) no-repeat center center;">
+        <div style="width:100%;
+    height:50px;
+    background:rgba(0,1,3,1);
+    opacity:0.6;width:100%;height:50px;position: absolute;top: 550px; "></div>
+        <div class="box">
+            <img id="about_inside1" src="images/5_113.png">
+            <img id="about_inside2" src="images/5_112.png">
+            <ul class="nav2" style="width:100%;height:50px;position: absolute;top: 480px; ">
+                <li><a href="about.html">关于极致互联</a></li>
+                <li><a href="about_events.html">大事记</a></li>
+                <li>
+                    <a class="on" href="about_joinus.html">加入我们</a>
+                </li>
+                <li><a href="about_contactus.html">联系我们</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="contact">
+
+        <body>
+            <div class="tab">
+                <div class="box">
+                    <ul class="menus">
+                        <li class="bg">Linux系统开发工程师</li>
+                        <li>销售经理</li>
+                        <li>市场营销专员</li>
+                    </ul>
+                    <div class="right">
+                        <div class="scroll">
+                            <div class="tab_right">
+                                <div class="table_name">Linux系统开发工程师</div>&nbsp;<div class="table_time">发布时间：2017-08-10</div><br>
+                                <div class="table_name2">【岗位职责】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、负责智能路由器产品的软件开发、测试、优化、维护工作；
+                                    </li>
+                                    <li class="table_li">
+                                        2、参与软件需求、架构设计、模块设计、编码、测试、生产应用中的相关问题。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【任职条件】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、计算机科学或相关专业本科及以上学历，2年以上相关工作经验；
+                                    </li>
+                                    <li class="table_li">
+                                        2、精通C语言，熟悉交叉编译环境和makefile；
+                                    </li>
+                                    <li class="table_li">
+                                        3、熟悉Linux系统的架构和基础命令，熟悉shell脚本；
+                                    </li>
+                                    <li class="table_li">
+                                        4、熟悉网络编程、多线程编程；
+                                    </li>
+                                    <li class="table_li">
+                                        5、熟悉lua语言，有openwrt平台luci开发经验优先；
+                                    </li>
+                                    <li class="table_li">
+                                        6、有wifi相关开发经验优先；
+                                    </li>
+                                    <li class="table_li">
+                                        7、对代码富有激情，对技术执着，具有良好的团队合作精神。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【简历投递】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        HR邮箱：hr@globalsdn.com
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="tab_right">
+                                <div class="table_name">销售经理</div>&nbsp;<div class="table_time">发布时间：2017-08-10</div><br>
+                                <div class="table_name2">【岗位职责】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、从事SD-WAN企业组网、智能网关、SAAS加速等电信增值产品的销售；
+                                    </li>
+                                    <li class="table_li">
+                                        2、按公司要求完成销售任务。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【任职条件】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、正规大专及以上学历，2年以上通信行业销售经验；
+                                    </li>
+                                    <li class="table_li">
+                                        2、熟悉网络接入业务，了解广域网、局域网技术；
+                                    </li>
+                                    <li class="table_li">
+                                        3、熟悉通信增值服务类业务，尤其是VPN业务与专线接入业务的发展与应用；
+                                    </li>
+                                    <li class="table_li">
+                                        4、具有良好人际关系交往能力和客户开发意识，能承受较大的工作压力；
+                                    </li>
+                                    <li class="table_li">
+                                        5、较强的销售能力与沟通技巧；
+                                    </li>
+                                    <li class="table_li">
+                                        6、有电信运营商、ISP销售工作经验者优先；
+                                    </li>
+                                    <li class="table_li">
+                                        7、了解通信行业和国内市场，与当地各网络运营商有良好关系者优先；
+                                    </li>
+                                    <li class="table_li">
+                                        8、有客户关系及现有项目者优先。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【简历投递】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        HR邮箱：hr@globalsdn.com
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab_right">
+                                <div class="table_name">市场营销专员</div>&nbsp;<div class="table_time">发布时间：2017-08-10</div><br>
+                                <div class="table_name2">【岗位职责】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、基于公司战略，落地极致SD-WAN品牌策略和打法，建立品牌的行业影响力和市场认知。
+                                    </li>
+                                    <li class="table_li">
+                                        2、深入行业和业务，思考具有千兆性的市场策略，帮助业务成长。
+                                    </li>
+                                    <li class="table_li">
+                                        3、策划和执行线上线下的市场活动。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【任职条件】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        1、本科及以上学历，具有扎实的市场传播理论基础和实操经验。
+                                    </li>
+                                    <li class="table_li">
+                                        2、具备战略高度、创新思维、能够打造有影响力的市场活动。
+                                    </li>
+                                    <li class="table_li">
+                                        3、积极主动、具有创业心态。能快速拿结果、破局，能承受一定的工作强度和工作压力。
+
+                                    </li>
+                                    <li class="table_li">
+                                        4、具有实际动手能力，较强的创造力和文字功底。
+                                    </li>
+                                </ul>
+                                <div class="table_name2">【简历投递】 </div>
+                                <ul>
+                                    <li class="table_li">
+                                        HR邮箱：hr@globalsdn.com
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+    </div>
+
+    <div class="footer">
+        <div class="box">
+            <ul>
+                <li>
+                    <h1>帮助中心</h1>
+                </li>
+                <li><a href="about.html#ab_div5">问题反馈</a></li>
+                <li><a href="about.html#ab_div4">联系销售</a></li>
+                <li><a href="help.html">帮助文档</a></li>
+            </ul>
+            <ul>
+                <li>
+                    <h1>交流合作</h1>
+                </li>
+                <li><a href="about.html">关于我们</a></li>
+                <li><a href="about.html#ab_div4">合作咨询</a></li>
+                <li><a href="about.html#ab_div4">加入我们</a></li>
+            </ul>
+            <ul>
+                <li>
+                    <h1>联系我们</h1>
+                </li>
+                <li>
+                    <p>400-826-3099</p>
+                </li>
+                <li>
+                    <p>enquires@globalsdn.com</p>
+                </li>
+                <li>
+                    <p>杭州极致互联网络科技有限公司</p>
+                </li>
+                <li>
+                    <p>中国·杭州·余杭区余杭塘路2301号海智中心4号楼10楼</p>
+                </li>
+            </ul>
+            <ul class="code">
+                <li><img src="images/code.jpg"></li>
+                <li>
+                    <p>扫一扫，关注我们</p>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <div class="bottom">
+        <div class="box">
+            <p>© 2017 极致互联. 公司版权所有<span>|</span><a style="color:white" href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备17059766号</a>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $(document).scrollTop(475)
+            $("#about_inside1").delay(400).animate({
+                opacity: '1',
+                top: '0'
+            }, 200);
+            $("#about_inside2").delay(400).animate({
+                opacity: '1',
+                top: '0'
+            }, 200);
+            $('.tab .menus li').each(function () {
+                $('.tab .menus li').mouseover(function () {
+                    $('.tab .menus li').removeClass('bg');
+                    $(this).addClass('bg');
+                    var index = $(this).index();
+                    $('.tab .scroll').css('margin-top', -index * 650 + 'px');
+                })
+            })
+
+
+        });
+    </script>
+
+</body>
+
+</html>

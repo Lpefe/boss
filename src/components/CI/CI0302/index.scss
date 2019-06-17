@@ -1,0 +1,14 @@
+
+.left-header {
+  display: inline-block;
+}
+
+
+.filterBarRight {
+  display: inline-block;
+  margin-bottom: 24px;
+  .input {
+    margin-right: 8px;
+    width: 120px;
+  }
+}

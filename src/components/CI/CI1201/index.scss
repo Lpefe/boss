@@ -1,0 +1,42 @@
+.ci1201 {
+  text-align: center;
+  .upload-container {
+    width: 490px;
+    height: 276px;
+    margin: 186px auto;
+    padding-top: 43px;
+    .avatar-uploader {
+      .ant-upload {
+        margin: 24px auto;
+      }
+    }
+    .upload-info {
+      margin: 16px 80px 32px 80px;
+      font-size: 14px;
+      font-family: PingFangSC-Regular;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.65);
+      line-height: 22px;
+      text-align: center;
+    }
+  }
+  .no-logo-container {
+    margin-top: 150px;
+    text-align: center;
+    img {
+      width:366px;
+      height:196px;
+    }
+    div{
+      margin-top: 16px;
+      font-size:18px;
+      font-family:PingFangSC-Regular;
+      font-weight:400;
+      color:rgba(0,0,0,0.45);
+    }
+  }
+  .avatar-uploader > .ant-upload {
+    width: 118px;
+    height: 40px;
+  }
+}

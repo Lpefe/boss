@@ -1,0 +1,58 @@
+.headerContainer{
+  #guestAnalysis{
+    display: inline-block;
+    width:400px;
+    height:200px;
+  }
+  #billMode{
+    display: inline-block;
+    width:400px;
+    height:200px;
+  }
+}
+.bi-header {
+  margin-bottom: 24px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn{
+  margin-right: 8px;
+}
+
+.linkContainer{
+  margin-bottom: 24px;
+  .title{
+    font-family: PingFangTC-Medium;
+    font-size: 16px;
+    color: #333333;
+    line-height: 18px;
+    margin-bottom: 16px;
+  }
+}
+.dockerName{
+  height:16px;
+font-size:16px;
+font-family:PingFangSC-Medium;
+font-weight:500;
+color:rgba(0,0,0,0.85);
+line-height:16px;
+}
+.MI1902{
+  .ant-table td { white-space: nowrap; }
+  .ant-table th { white-space: nowrap; }
+}
+.MI902link-icon{
+  color:rgba(212,212,212,0.8);
+  cursor:pointer;
+}

@@ -1,0 +1,42 @@
+.headerContainer{
+  #guestAnalysis{
+    display: inline-block;
+    width:400px;
+    height:200px;
+  }
+  #billMode{
+    display: inline-block;
+    width:400px;
+    height:200px;
+  }
+}
+.bi-header {
+  margin-bottom: 24px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+.editBtn{
+  margin-right: 8px;
+}
+
+.linkContainer{
+  margin-bottom: 24px;
+  .title{
+    font-family: PingFangTC-Medium;
+    font-size: 16px;
+    color: #333333;
+    line-height: 18px;
+    margin-bottom: 16px;
+  }
+}

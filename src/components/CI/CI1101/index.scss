@@ -1,0 +1,38 @@
+.menu-header{
+  margin:8px 24px;
+  text-align: right;
+  .titleL{
+    font-family: PingFangTC-Medium;
+    font-size: 16px;
+    color: #333333;
+    line-height: 18px;
+    float:left;
+  }
+  .titleR{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1890FF;
+    line-height: 22px;
+  }
+}
+
+.menu-item{
+  text-align: right;
+  .itemL{
+    float: left;
+  }
+  .itemR{
+    display: none;
+    color:#000000;
+    font-size: 16px;
+  }
+}
+.menu-item:hover .itemR{
+  display: inline-block;
+
+}
+
+.ci1101-content{
+  padding: 0 24px;
+}
+

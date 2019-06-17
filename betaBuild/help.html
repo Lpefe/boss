@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" id="viewport" name="viewport"
+          content="width=device-width, initial-scale=2.0, maximum-scale=0.01, user-scalable=no">
+    <link rel="icon" href="images/logo.ico" type="image/x-icon"/>
+    <link href="css/pub.css" type="text/css" rel="stylesheet">
+    <link href="css/css.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/help.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+
+    <title>极致互联 - 关于我们</title>
+
+</head>
+<body class="nopadding">
+<div class="top">
+    <div class="box">
+        <img src="images/logo.png" class="logo">
+        <ul class="nav">
+            <li><a href="index1.html">首页</a></li>
+            <li><a href="product.html">产品介绍</a></li>
+            <li>
+                <a href="solution1.html">解决方案</a>
+                <div class="erji">
+                    <img src="images/erji_arr.png">
+                    <a href="solution1.html">企业组网</a>
+                    <a href="solution2.html">SaaS/Web加速</a>
+                    <a href="solution3.html">云平台加速</a>
+                    <a href="solution4.html">混合云高速通道</a>
+                </div>
+            </li>
+            <li><a class="on" href="about.html">关于我们</a></li>
+        </ul>
+        <a href="https://boss.globalsdn.com/#/" class="login">登录</a>
+    </div>
+</div>
+
+<div class="inside_banner" style="background: url(images/help/banner.png) no-repeat center center;height:200px">
+    <div class="help-header-text">
+        帮助中心
+    </div>
+</div>
+<div class="help-background">
+    <div class="help-container">
+        <div class="help-header-container">
+            <div class="help-header-left part">
+                帮助文档
+            </div>
+            <div class="help-header-right part">
+                CPE设备配置指南
+            </div>
+        </div>
+        <div class="help-content-container">
+            <div class="help-menu part">
+                <div class="help-menu-title">
+                    CPE设备配置指南
+                </div>
+                <div class="help-menu-items">
+                    <ul>
+                        <li><a href="#part-one">一.设备开启</a></li>
+                        <li><a href="#part-two">二.登录配置界面</a></li>
+                        <li><a href="#part-three">三.设备配置</a></li>
+                        <li><a href="#part-four">四.设备入网</a></li>
+                        <li><a href="#part-five">五.验证</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="help-content part">
+                <ul>
+                    <li id="part-one">
+                        <div class="title">一.设备开启</div>
+                        <div class="content">
+                            <img src="./images/help/0.png"/>
+                            <ul class="context">
+                                <li>01：用设备配套的接线接入电源；</li>
+                                <li>02：开启设备背面的电源开关；</li>
+                                <li>03：正常情况下开启成功后，可看到设备正面的指示灯的亮起（SYS为绿色，POWER为红色）；</li>
+                                <li>04：用网线一端连接设备上右侧第一个LAN标志的ETH5接口，另一端接入电脑端，可通过电脑进行设备的配置。</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="help-content-part-container" id="part-two">
+                        <div class="title">二.登录配置界面</div>
+                        <div class="content">
+                            <div class="context">默认网址为192.168.1.1(具体网址请参考部署文档)，登录账号：admin 密码：admin</div>
+                            <img src="./images/help/1.png"/>
+                            <div class="context">登录成功后可进入CPE设备的WAN口配置界面，主要目的是让CPE设备可以上网。</div>
+                        </div>
+                    </li>
+                    <li class="help-content-part-container" id="part-three">
+                        <div class="title">三.设备配置</div>
+                        <div class="content">
+                            <div class="context">01：首次配置登录设备配置界面时，默认打开向导模式，用户可以根据提示完成相关信息的配置</div>
+                            <img src="./images/help/2.png"/>
+                            <div class="context">02：点击下一步，进行入网配置，用户可根据实际需求情况选择路由模式或者旁路模式</div>
+                            <img src="./images/help/3.png"/>
+                            <div class="context">03：点击下一步，设置WAN口数量，单网口和双网口两种模式</div>
+                            <img src="./images/help/4.png"/>
+                            <div class="context">04：WAN口配置</div>
+                            <img src="./images/help/5.png"/>
+                            <ul class="context">
+                                <li>用户根据自己企业的入网类型填写相应的信息</li>
+                                <li>【接入类型】包括专线、互联网、互联网专线、4G/LTE</li>
+                                <li>【带宽】输入购买的带宽</li>
+                                <li>【运营商】选择网络所属运营商</li>
+                                <li>【协议】分为static、dhcp、pppoe，根据不同的协议类型需要填写不同的相关信息</li>
+                            </ul>
+                            <div class="context">当协议为static时，需要填入相关的DNS、网关、子网掩码、IP地址信息，如下图所示；</div>
+                            <img src="./images/help/6.png" style="width: 458px"/>
+                            <div class="context">当协议为dhcp时，只需填写下图所示相关信息；</div>
+                            <img src="./images/help/7.png" style="width: 458px"/>
+                            <div class="context">当协议为pppoe时，需要填入</div>
+                            <img src="./images/help/8.png" style="width: 458px"/>
+                            <div class="context">【跃点数】备用选项，无需填写</div>
+                            <div class="context">
+                                05：以上相关信息录入完成后，点击下一步，页面提示“已经完成WAN口配置，点击下一步将应用配置并重启设备”。点击下一步，<br/>设备重启，重启成功后，页面将刷新，跳转至登录页面，登陆后默认为系统总览页面，设备配置完成。
+                            </div>
+                            <img src="./images/help/9.png"/>
+                        </div>
+                    </li>
+                    <li class="help-content-part-container" id="part-four">
+                        <div class="title">四.设备入网</div>
+                        <div class="content">
+                            <div class="context" style="color:rgba(60,94,243,0.85);">路由接入模式</div>
+                            <img src="./images/help/11.png"/>
+                            <div class="context">如果是配置了双网口模式的，请将第二根网线插在ETH2上</div>
+                            <div class="context" style="color:rgba(60,94,243,0.85);">旁路接入模式</div>
+                            <img src="./images/help/12.png"/>
+                        </div>
+                    </li>
+                    <li class="help-content-part-container" id="part-five">
+                        <div class="title">五.验证</div>
+                        <div class="content">
+                            <div class="context">用客户管理员账号登录SDWAN的后台管理系统，在【我的设备】中查看该设备的状态，若处于ONLINE状态，表示设备配置成功，若处于<br/>OFFLINE状态，则表示设备还未激活，请检查相关配置。
+                            </div>
+                            <img src="./images/help/10.png"/>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="box">
+        <ul>
+            <li><h1>帮助中心</h1></li>
+            <li><a href="about.html#ab_div5">问题反馈</a></li>
+            <li><a href="about.html#ab_div4">联系销售</a></li>
+            <li><a href="help.html">帮助文档</a></li>
+        </ul>
+        <ul>
+            <li><h1>交流合作</h1></li>
+            <li><a href="about.html">关于我们</a></li>
+            <li><a href="about.html#ab_div4">合作咨询</a></li>
+            <li><a href="about.html#ab_div4">加入我们</a></li>
+        </ul>
+        <ul>
+            <li><h1>联系我们</h1></li>
+            <li><p>400-826-3099</p></li>
+            <li><p>enquires@globalsdn.com</p></li>
+            <li><p>杭州极致互联网络科技有限公司</p></li>
+            <li><p>中国·杭州·余杭区余杭塘路2301号海智中心4号楼10楼
+            </p></li>
+        </ul>
+        <ul class="code">
+            <li><img src="images/code.jpg"></li>
+            <li><p>扫一扫，关注我们</p></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="bottom">
+    <div class="box">
+        <p>© 2017 极致互联. 公司版权所有<span>|</span><a style="color:white" href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备17059766号</a>
+        </p>
+    </div>
+</div>
+
+
+</body>
+</html>

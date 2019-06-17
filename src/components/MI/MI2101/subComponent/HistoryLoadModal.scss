@@ -1,0 +1,36 @@
+.history-modal-header{
+  height:98px;
+  background-color: #F0F2F5;
+  padding: 24px 24px 16px 24px;
+  h3{
+    font-size:16px;
+    font-family:PingFangSC-Medium;
+    font-weight:500;
+    color:rgba(0,0,0,0.85);
+    line-height:22px;
+  }
+  div{
+    display: inline-block;
+    font-size:14px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(0,0,0,0.45);
+    line-height:20px;
+    margin-right: 32px;
+
+  }
+}
+
+.history-modal-body{
+  padding: 24px;
+  .table-title{
+    font-size:16px;
+    font-family:PingFangSC-Medium;
+    font-weight:500;
+    color:rgba(0,0,0,0.85);
+    line-height:22px;
+    display: inline-block;
+    margin-right: 8px;
+    margin-bottom: 16px;
+  }
+}

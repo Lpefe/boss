@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document */
+/* By Sumeat */
+
+
+body,div,p,a,ul,li,h1,h2,h3,h4,h5,h6,input,img,span,nobr,dl,dd,table,tr,td,textarea,button{
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-size: 14px;
+	font-family: "微软雅黑" !important;
+	font-weight: normal;
+	}
+
+ul,li,dl,dd{
+	list-style: none;
+	}
+
+a,a:hover,a:visited {
+	text-decoration: none;
+	color: #4a3737;
+	outline: none;
+	}
+
+table,tr,td{
+	border-collapse: collapse;
+	border-spacing: 0px 0px;
+	}
+
+.clear{
+	clear: both;
+	}
+
+.hide{
+	display: none;
+}
+	
+.float_l{
+	float: left;
+	}
+	
+.float_r{
+	float: right;
+	}
+
+textarea{
+	resize: none;
+	}
+
+body{ overflow-x: hidden; background: #fff !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

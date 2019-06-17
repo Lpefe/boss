@@ -1,0 +1,65 @@
+.header {
+  margin-bottom: 16px;
+  .left-header {
+    display: inline-block;
+
+  }
+  .right-header {
+    display: inline-block;
+    float: right;
+    .input{
+      margin-left: 8px;
+    }
+  }
+
+}
+
+
+.editBtn{
+  margin-right: 8px;
+}
+
+.stockStatHeader{
+  font-family: PingFangTC-Medium;
+  font-size: 16px;
+  color: #333333;
+  line-height: 18px;
+  margin-bottom: 16px;
+}
+#deviceStat{
+  height: 288px;
+  width: 100%;
+}
+.deviceStat{
+  height: 288px;
+  width: 100%;
+}
+#deviceStatTitle{
+  text-align: center;
+  height: 22px;
+}
+.deviceText{
+font-size:16px;
+font-family:PingFangTC-Medium;
+font-weight:500;
+color:rgba(0,0,0,0.85);
+line-height:22px;
+}
+.deviceText2{
+  padding-left: 15px;
+  height:14px;
+  font-size:14px;
+  font-family:PingFangSC-Regular;
+  font-weight:400;
+  color:rgba(0,0,0,0.45);
+  line-height:14px;
+  }
+  .deviceText3{
+  padding-left: 5px;
+  height:14px;
+  font-size:14px;
+  font-family:PingFangSC-Regular;
+  font-weight:400;
+  color:rgba(0,0,0,0.85);
+  line-height:14px;
+  }

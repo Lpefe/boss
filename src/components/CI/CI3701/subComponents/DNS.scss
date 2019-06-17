@@ -1,0 +1,21 @@
+.priority-title{
+  font-family: PingFangTC-Medium;
+  font-size: 16px;
+  color: #333333;
+  line-height: 18px;
+}
+.ci0601float{
+  float:left
+}
+.ratio-confirm{
+  display: inline-block;
+  margin-left: 32px;
+  .check{
+    color:#06B81C;
+    font-size: 18px;
+  }
+  .close{
+    color:#FD0000;
+    font-size: 18px;
+  }
+}
